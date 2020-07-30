@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Operētājsistēmā Windows 7 ir ievērota fiksēto dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827819"
+name: Windows 7
+summary: "Operētājsistēmā Windows 7 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.\n\nTas attiecas uz šādiem izdevumiem: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate par iegultajām sistēmām, Ultimate N\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> \"* Izvērstie drošības atjauninājumi (ESU) ir pieejami, izmantojot specifiskas lielapjoma licencēšanas programmas Windows 7 Professional, Enterprise un Professional for Embedded Systems izdevumos šajā produktā, vairāk nekā trīs gadus pēc atbalsta beigām. Lai uzzinātu vairāk, sazinieties ar savu Microsoft partneri vai konta grupu. \n\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://support.microsoft.com/help/4057281)\n* [Jaunināšana no Windows 7 uz Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Paplašinātā drošības atjaunināšanas programma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Enterprise\n* Enterprise N\n* Pamata sākums\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate iegultajām sistēmām\n* Ultimate N"
