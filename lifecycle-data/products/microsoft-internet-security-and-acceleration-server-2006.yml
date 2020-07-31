@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Internet Security and Acceleration Server 2006
   description: Microsoft Internet Security and Acceleration Server 2006 seko fiksēto dzīves cikla politikai.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8e1ef794863d0b9c2834ec86970bd443ad462944
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 6e2ed1ecf6b002767d3aaf13d12cc14da3042fac
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
   ms.translationtype: MT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827882"
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "878865"
 name: Microsoft Internet Security and Acceleration Server 2006
 summary: "Microsoft Internet Security and Acceleration Server 2006 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.\n\nTas attiecas uz šādiem izdevumiem: Enterprise, Standard\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. \n"
 products:
