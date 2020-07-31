@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Server 2010
+  description: Microsoft Lync Server 2010 seko fiksēto dzīves cikla politikai.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879459"
+name: Microsoft Lync Server 2010
+summary: >+
+  Microsoft Lync Server 2010 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+
+
+  Tas attiecas uz šādiem izdevumiem: Enterprise, Group Chat programmatūras izstrādes komplekts, SDK, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Saites \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition tiek atbalstīts ar Lync Server 2010 un Lync Server 2013. Lync Phone Edition atbalsta datums ir pagarināts par 2 gadiem, lai tos līdzinātu ar Lync Server 2013 dzīves ciklu.\n\n## <a name=\"editions\"></a>Izdevumos \n* Enterprise\n* Grupas tērzēšanas programmatūras izstrādes komplekts\n* SDK\n* Standarta"
