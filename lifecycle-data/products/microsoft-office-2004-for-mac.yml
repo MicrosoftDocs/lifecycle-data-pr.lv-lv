@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2004 darbam ar Mac
+  description: Microsoft Office 2004 for Mac izmanto fiksēto dzīves cikla politiku.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827877"
+name: Microsoft Office 2004 darbam ar Mac
+summary: >+
+  Microsoft Office 2004 for Mac izmanto [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+
+
+  Tas attiecas uz šādiem izdevumiem: profesionālais, standarta, skolēnu un skolotāju
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/13/2004
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 07/13/2004
+  endDate: 01/10/2012
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Professional\n* Standarta\n* Skolēns un skolotājs"

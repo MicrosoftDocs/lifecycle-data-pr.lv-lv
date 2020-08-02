@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Winternals
+  description: Winternals seko fiksētai dzīves cikla politikai.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827959"
+name: Winternals
+summary: >+
+  Winternals seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+
+
+  Tas attiecas uz šādiem izdevumiem: administratora pak 5,0, defrag Manager 3,0, Protection Manager 2,0, Recovery Manager 3,0
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+  extendedEnd: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Saites \n* [Dzīves cikla politika Microsoft iegādei](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Izslēdz versijas, kas iepriekš tika atbalstītas. Šī produkta atbalsts ir pakļauts tā iegādes nosacījumiem.\n\n## <a name=\"editions\"></a>Izdevumos \n* Administratora pak 5,0\n* Defrag pārvaldnieka 3,0\n* Protection Manager 2,0\n* Atkopšanas vadītājs 3,0"
