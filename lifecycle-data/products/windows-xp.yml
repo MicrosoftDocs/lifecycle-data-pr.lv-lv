@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP
+  description: Operētājsistēmā Windows XP ir ievērota fiksēto dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827960"
+name: Windows XP
+summary: >
+  Operētājsistēmā Windows XP ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+
+
+  Tas attiecas uz šādiem izdevumiem: Home, Professional, Professional for Embedded Systems, Starter
+
+
+  > [!IMPORTANT]
+
+  > Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/31/2001
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 04/21/2008
+  endDate: 04/08/2014
+- version: Service Pack 2
+  startDate: 09/17/2004
+  endDate: 07/13/2010
+- version: Service Pack 1a
+  startDate: 02/03/2003
+  endDate: 10/10/2006
+- version: Service Pack 1
+  startDate: 08/30/2002
+  endDate: 10/10/2006
+- version: Original Release
+  startDate: 12/31/2001
+  endDate: 08/30/2005
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Sākums\n* Professional\n* Professional for Embedded Systems\n* Starter"
