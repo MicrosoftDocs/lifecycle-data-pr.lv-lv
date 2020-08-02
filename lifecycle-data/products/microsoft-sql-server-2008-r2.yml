@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2008 R2
+  description: Programmā Microsoft SQL Server 2008 R2 ir ievērota fiksēto dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827999"
+name: Microsoft SQL Server 2008 R2
+summary: >+
+  Programmā Microsoft SQL Server 2008 R2 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+
+
+  Tas attiecas uz šādiem izdevumiem: datu centru, izstrādātāju, Enterprise, Express, Express ar mūsdienīgiem pakalpojumiem, iegultām sistēmām, standarta, Standard Edition for Small Business, Web, Workgroup
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/20/2010
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 3
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 2
+  startDate: 07/26/2012
+  endDate: 10/13/2015
+- version: Service Pack 1
+  startDate: 07/12/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/20/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Saites \n* [SQL Server atbalsta opciju beigas](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [SQL Server 2008 un Windows Server 2008 atbalsta opciju beigas](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Paplašinātā drošības atjaunināšanas programma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Izvērstie drošības atjauninājumi (ESU) ir pieejami šī produkta datu centrā, standarta, Enterprise un Embedded izdevumos līdz pat vēl trim gadiem pēc atbalsta beigām.\n> [!NOTE]\n> Tikai IA64, SP2 tiks atbalstīta līdz 7/9/2019. Lai iegūtu papildinformāciju, skatiet SQL laidienu pakalpojumu emuāru.\n\n## <a name=\"editions\"></a>Izdevumos \n* Datacenter\n* Attīstītājs\n* Enterprise\n* Express\n* Ekspress ar mūsdienīgiem pakalpojumiem\n* iegultajām sistēmām\n* Standarta\n* Standarta izdevums mazajiem uzņēmumiem\n* Tīmekļa\n* Darbgrupas"

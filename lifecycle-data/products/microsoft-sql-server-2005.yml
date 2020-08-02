@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 seko fiksēto dzīves cikla politikai.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828005"
+name: Microsoft SQL Server 2005
+summary: >
+  Microsoft SQL Server 2005 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+
+
+  Tas attiecas uz šādiem izdevumiem: kompakts, izstrādātājs, iegults, Enterprise, Enterprise for Itanium bāzes sistēmas, Enterprise x64, Express, Express ar mūsdienīgiem pakalpojumiem, standarta, standarta versijām Itanium bāzes sistēmām, standarta x64, Workgroup
+
+
+  > [!IMPORTANT]
+
+  > Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 4
+  startDate: 12/13/2010
+  endDate: 04/12/2016
+- version: Service Pack 3
+  startDate: 12/15/2008
+  endDate: 01/10/2012
+- version: Service Pack 2
+  startDate: 02/19/2007
+  endDate: 01/12/2010
+- version: Service Pack 1
+  startDate: 04/18/2006
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition izlaists 2007. gada 19. februārī.\n\n## <a name=\"editions\"></a>Izdevumos \n* Saspiešana\n* Attīstītājs\n* Iegulta\n* Enterprise\n* Enterprise for Itanium bāzes sistēmas\n* Enterprise x64\n* Express\n* Ekspress ar mūsdienīgiem pakalpojumiem\n* Standarta\n* Standartā Itanium bāzes sistēmām\n* Standarta x64\n* Darbgrupas"
