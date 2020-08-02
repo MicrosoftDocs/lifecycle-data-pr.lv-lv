@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows krātuves serveris 2003
+  description: Windows krātuves serveris 2003 seko fiksētai dzīves cikla politikai.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "827798"
+name: Windows krātuves serveris 2003
+summary: >
+  Windows krātuves serveris 2003 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+
+
+
+  > [!IMPORTANT]
+
+  > Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/05/2003
+  end: 10/11/2011
+  extendedEnd: 10/09/2016
+releases:
+- version: Original Release
+  startDate: 05/05/2003
+  endDate: 04/10/2007
+content: "\n## <a name=\"links\"></a>Saites \n* [Pārskats par Windows Server jaunināšanu](/windows-server/upgrade/upgrade-overview)\n* [Papildu informācija par jaunināšanu](/windows-server/get-started/installation-and-upgrade)"
