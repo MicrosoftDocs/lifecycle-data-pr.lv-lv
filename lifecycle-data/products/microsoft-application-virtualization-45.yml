@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Application Virtualization 4,5
+  description: Microsoft Application Virtualization 4,5 seko fiksētā dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828536"
+name: Microsoft Application Virtualization 4,5
+summary: >
+  Microsoft Application Virtualization 4,5 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politika.
+
+
+  Tas attiecas uz šādiem izdevumiem: termināļa pakalpojumiem Windows darbstacijām
+
+
+  > [!IMPORTANT]
+
+  > Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tā kā App-V 4,6 klients izmanto lietojumprogrammu-V 4,5 serveri, programma-V 4,5 serveris arī turpmāk tiks atbalstīts atbilstoši programmas-V 4,6 lietošanas cikla datumiem, ja tiek izmantoti kopā ar atbalstīto lietojumprogrammu-V 4,6 klientu.\n\n## <a name=\"editions\"></a>Izdevumos \n* Termināļa pakalpojumiem\n* Windows galddatoriem"
