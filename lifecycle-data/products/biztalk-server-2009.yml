@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: BizTalk Server 2009
+  description: BizTalk Server 2009 seko fiksēta dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828731"
+name: BizTalk Server 2009
+summary: >
+  BizTalk Server 2009 seko [Fiksēta](/lifecycle/policies/fixed) dzīves cikla politika.
+
+
+  Tas attiecas uz šādiem izdevumiem: filiāle, izstrādātājs, uzņēmums, standarts
+
+
+  > [!IMPORTANT]
+
+  > Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Informācija par versiju](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Filiāle\n* Attīstītājs\n* Enterprise\n* Standarta"

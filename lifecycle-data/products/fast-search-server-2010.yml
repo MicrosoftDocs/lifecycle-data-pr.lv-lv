@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (interneta vietnēm, iekšējām lietojumprogrammām)
+  description: FAST Search Server 2010 (interneta vietnēm, iekšējām lietojumprogrammām) seko fiksēto dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828574"
+name: FAST Search Server 2010 (interneta vietnēm, iekšējām lietojumprogrammām)
+summary: >+
+  FAST Search Server 2010 (interneta vietnēm, iekšējām lietojumprogrammām) seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+
+
+  Tas attiecas uz šādiem izdevumiem: iekšējas lietojumprogrammas, interneta vietnes
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dzīves cikla bieži uzdotie jautājumi — Vispārīgi](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Izslēdz versijas, kas iepriekš tika atbalstītas. Šī produkta atbalsts ir pakļauts tā iegādes nosacījumiem.\n\n## <a name=\"editions\"></a>Izdevumos \n* Iekšējās lietojumprogrammas\n* Interneta vietnes"

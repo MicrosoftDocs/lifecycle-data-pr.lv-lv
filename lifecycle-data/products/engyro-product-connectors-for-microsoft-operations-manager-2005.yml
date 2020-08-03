@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Engyro produktu savienojumi Microsoft Operations Manager 2005
+  description: Engyro produktu savienotāji programmai Microsoft Operations Manager 2005 seko fiksēto dzīves cikla politikai.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828583"
+name: Engyro produktu savienojumi Microsoft Operations Manager 2005
+summary: >+
+  Engyro produktu savienotāji programmai Microsoft Operations Manager 2005 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/01/2007
+  end: 12/31/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/01/2007
+  endDate: 01/13/2015
+content: ''
