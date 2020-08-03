@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2017
+  description: Visual Studio 2017 ievēro fiksēto dzīves cikla politiku.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "870821"
+name: Visual Studio 2017
+summary: >+
+  Visual Studio 2017 ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+
+
+  Tas attiecas uz šādiem izdevumiem: aģenti, būvējumu rīki, sabiedrība, uzņēmums, atsauksmju klients, Mac, IntelliTrace savrupais kolekcionārs, veiktspējas rīki, profesionālie, attālie rīki, grupas Explorer, testa profesionālis, Visual C++ izplatāmā daļa
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 03/07/2017
+  end: 04/12/2022
+  extendedEnd: 04/13/2027
+releases:
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Saites \n* [Paziņojumu](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Informācija par apkopi](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Dienesta pārstāvji\n* Rīku izveide\n* Kopienas\n* Enterprise\n* Atsauksmju klients\n* darbam ar Mac\n* IntelliTrace savrupais savācējs\n* Veiktspējas rīki\n* Professional\n* Attālie rīki\n* Team Explorer\n* Testēt profesionāli\n* Visual C++ izplatāmā pakotne"
