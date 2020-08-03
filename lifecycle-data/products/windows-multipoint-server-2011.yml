@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows punktu serveris 2011
+  description: Windows vairākos punktos Server 2011 seko fiksētā dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858492"
+name: Windows punktu serveris 2011
+summary: >+
+  Windows vairākos punktos Server 2011 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politika.
+
+
+  Tas attiecas uz šādiem izdevumiem: Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/12/2011
+  end: 07/12/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Original Release
+  startDate: 05/12/2011
+  endDate: 07/13/2021
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/windows-server/get-started/installation-and-upgrade)\n* [Informācija par produktu](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Premium\n* Standarta"

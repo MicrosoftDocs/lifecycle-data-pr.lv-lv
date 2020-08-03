@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure virtuālā mašīna
+  description: Azure virtuālā mašīna ir ievērota mūsdienīgajā dzīves cikla politikā.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858489"
+name: Azure virtuālā mašīna
+summary: >+
+  Azure virtuālā mašīna ir ievērota [mūsdienīgajā](/lifecycle/policies/modern) dzīves cikla politikā.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par apkopi](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

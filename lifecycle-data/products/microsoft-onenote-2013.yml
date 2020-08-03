@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft OneNote 2013
+  description: Programmā Microsoft OneNote 2013 ir ievērota fiksēto dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8bb63a60952c80abd00cac4785199d2b0a98bd4e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858693"
+name: Microsoft OneNote 2013
+summary: >+
+  Programmā Microsoft OneNote 2013 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+
+
+  Tas attiecas uz šādiem izdevumiem: standarta
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Standarta"
