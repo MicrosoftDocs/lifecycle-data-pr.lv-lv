@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.5.2
+  description: Microsoft .NET Framework 4.5.2 ievēro komponentu dzīves cikla politiku.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c893ea681fc98a81689a258a44b5b320b82b2582
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858700"
+name: Microsoft .NET Framework 4.5.2
+summary: >+
+  Microsoft .NET Framework 4.5.2 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 05/05/2014
+releases:
+- version: Original Release
+  startDate: 05/05/2014
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [.NET Framework dzīves cikla bieži uzdotie jautājumi](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework ir Windows OS komponents. Komponenti saņem tādu pašu atbalstu kā to vecākobjekts vai platforma."

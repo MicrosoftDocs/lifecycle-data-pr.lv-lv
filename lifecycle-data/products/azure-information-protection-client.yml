@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure informācijas aizsardzības klients
+  description: Azure informācijas aizsardzības klients ievēro mūsdienīgo dzīves cikla politiku.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "858244"
+name: Azure informācijas aizsardzības klients
+summary: >+
+  Azure informācijas aizsardzības klients ievēro [mūsdienīgo](/lifecycle/policies/modern) dzīves cikla politiku.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par apkopi](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Migrācijas norādījumi](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Lai nodrošināt vienotu un racionalizētu klientu pieredzi, Azure informācijas aizsardzības klienta (Classic) un Label Management Azure portālā ir novecojis, sākot ar 31. martu, 2021. Šajā laika posmā visi pašreizējie Azure Information Protection klienti var pāriet uz mūsu vienotās marķēšanas risinājumu, izmantojot Microsoft informācijas aizsardzības vienotās marķēšanas platformu."
