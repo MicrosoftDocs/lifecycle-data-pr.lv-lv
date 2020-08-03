@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 seko fiksētai dzīves cikla politikai.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828685"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+
+
+  Tas attiecas uz šādiem izdevumiem: datu centrus, datu centru, kas nav Hyper-V, Enterprise, Enterprise bez Hyper-V, Itanium bāzes sistēmām, Foundation, Standard, Standard bez Hyper-V, tīmeklis
+
+
+  > [!IMPORTANT]
+
+  > Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://aka.ms/AA1ovn4)\n* [Informācija par servera jaunināšanu](/windows-server/upgrade/upgrade-overview)\n* [Paplašinātā drošības atjaunināšanas programma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Paplašinātās drošības atjauninājumi (ESU) ir pieejami, izmantojot noteiktas lielapjoma licencēšanas programmas, kas paredzētas šī produkta izdevumos datu centrā, standarta, Enterprise un Embedded Editions, ne vairāk kā trīs gadus pēc atbalsta beigšanas. Lai uzzinātu vairāk, sazinieties ar savu Microsoft partneri vai konta grupu. \n\nLaidiena-------------------------------sākuma datums----beigšanas datums\n\nPaplašinātais drošības atjauninājums Year 3---01/11/2022---01/10/2023\n\nPaplašinātais drošības atjauninājums 2---01/12/2021---01/11/2022\n\nPaplašinātais drošības atjauninājums Year 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation izlaists 21. maijā, 2009\n\n## <a name=\"editions\"></a>Izdevumos \n* Datacenter\n* Datu centrs, neizmantojot Hyper-V\n* Enterprise\n* Uzņēmums, kurā nav Hyper-V\n* Itanium bāzes sistēmām\n* Fonda\n* Standarta\n* Standarts, neizmantojot Hyper-V\n* Tīmekļa"

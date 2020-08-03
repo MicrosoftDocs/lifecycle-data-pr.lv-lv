@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Cloud pakalpojumi
+  description: Azure Cloud pakalpojumos ir ievērota mūsdienīga dzīves cikla politika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828737"
+name: Azure Cloud pakalpojumi
+summary: >+
+  Azure Cloud pakalpojumos ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/27/2008
+releases:
+- version: Original Release
+  startDate: 10/27/2008
+content: "\n## <a name=\"links\"></a>Saites \n* [Azure viesu OS atbalsta un pensijas politikas informācija](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

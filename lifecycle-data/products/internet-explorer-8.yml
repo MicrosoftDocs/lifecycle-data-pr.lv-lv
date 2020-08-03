@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 8
+  description: Internet Explorer 8 seko komponentu dzīves cikla politikai.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "828547"
+name: Internet Explorer 8
+summary: >+
+  Internet Explorer 8 seko [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politikai.
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 06/17/2009
+releases:
+- version: Original Release
+  startDate: 06/17/2009
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://www.microsoft.com/itpro/microsoft-edge)\n* [Bieži uzdotie jautājumi par Internet Explorer dzīves cikla politiku](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Sākot no 1. janvāra līdz 2016, tikai jaunākā Internet Explorer versija, kas pieejama atbalstītai operētājsistēmai, saņems tehnisko atbalstu un drošības atjauninājumus."
