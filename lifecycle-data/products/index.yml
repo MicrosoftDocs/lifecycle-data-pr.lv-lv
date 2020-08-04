@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Produkta un pakalpojumu dzīves cikla informācijas meklēšana (priekšskatījums)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Šī lapa ir izstrādes stadijā. Pilnu sarakstu ar Microsoft produktiem un to atbalsta laika skalām un detalizētu informāciju, lūdzu, apmeklējiet vietni [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n\n\nMicrosoft dzīves ciklā ir nodrošinātas pastāvīgas un paredzamas vadlīnijas, lai nodrošinātu atbalstu visā produkta kalpošanas laikā, palīdzot klientiem pārvaldīt savus IT ieguldījumus un vides, vienlaikus plānojot stratēģisko plānošanu nākotnē.\n\n\nMeklējiet šeit sarakstu ar Microsoft komerciālajiem produktiem un pakalpojumiem un pēc tam atlasiet rezultātu, lai atrastu atbalsta un apkalpošanas laika grafikus, nepieciešamos atjauninājumus, migrācijas informāciju un sistēmas prasības."
+summary: "\n\n> [!IMPORTANT]\n> Šī lapa ir izstrādes stadijā. Pilnu sarakstu ar Microsoft produktiem un to atbalsta laika skalām un detalizētu informāciju, lūdzu, apmeklējiet vietni [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksportējiet informāciju par dzīves [cikla eksportēšanu](/lifecycle/export/products) .\n\n\nMicrosoft dzīves ciklā ir nodrošinātas pastāvīgas un paredzamas vadlīnijas, lai nodrošinātu atbalstu visā produkta kalpošanas laikā, palīdzot klientiem pārvaldīt savus IT ieguldījumus un vides, vienlaikus plānojot stratēģisko plānošanu nākotnē.\n\n\nMeklējiet šeit sarakstu ar Microsoft komerciālajiem produktiem un pakalpojumiem un pēc tam atlasiet rezultātu, lai atrastu atbalsta un apkalpošanas laika grafikus, nepieciešamos atjauninājumus, migrācijas informāciju un sistēmas prasības."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "828557"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882444"
