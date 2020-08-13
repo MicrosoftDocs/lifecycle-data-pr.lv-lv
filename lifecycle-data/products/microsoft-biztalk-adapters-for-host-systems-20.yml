@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft BizTalk adapteri viesošanas sistēmām 2,0
   description: Microsoft BizTalk adapteri resursdatoru sistēmām 2,0 seko fiksētajai dzīves cikla politikai.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "828511"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893506"
 name: Microsoft BizTalk adapteri viesošanas sistēmām 2,0
 summary: >+
   Microsoft BizTalk adapteri resursdatoru sistēmām 2,0 seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.
