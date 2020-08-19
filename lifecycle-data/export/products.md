@@ -1,27 +1,27 @@
 ---
-title: Eksportēt produktus
+title: Dzīves cikla datu eksports
 description: Produkta dzīves cikla informācijas eksportēšana
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899810"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902410"
 ---
-# <a name="export"></a>Eksportēšana
+# <a name="lifecycle-data-export"></a>Dzīves cikla datu eksports
 
 > [!IMPORTANT]
 > Šī lapa ir izstrādes stadijā.
 
 ## <a name="export-all-products"></a>Visu produktu eksportēšana
-Eksportējiet visus produktus bez filtriem.
+Eksportējiet datu dzīves cikla datus visiem produktiem, noklikšķinot uz Tālāk.
 
 > [!div class="nextstepaction"]
 > [Visu produktu eksportēšana](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Produktu eksportēšana pēc kategorijas
-Atlasiet eksportējamo grupu:
+## <a name="export-products-by-family-and-group"></a>Produktu eksportēšana no ģimenes un grupas
+Atlasiet ģimeni un pēc tam grupu, kuru vēlaties eksportēt. Piezīme. eksportēšana sāksies, ja būs atlasīta grupas vērtība. 
 
 > [!div class="op_multi_selector" title1="Ģimenes" title2="Grupā"]
 > - [(.NET | Visas](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Atlasiet eksportējamo grupu:
 > - [(Windows | Drošības](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Produktu eksportēšana pēc atbalsta gada beigām
-Atlasiet gadu, lai eksportētu produktu beigu pakalpojumu attiecīgajā gadā:
+## <a name="export-products-by-end-of-support-date"></a>Produktu eksportēšana pēc atbalsta datuma beigām
+Atlasiet gadu, lai redzētu produktus, kas sasniedz atbalsta beigas. Piezīme. eksportēšana sāksies, kad ir atlasīta gada vērtība.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
