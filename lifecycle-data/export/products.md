@@ -1,27 +1,27 @@
 ---
 title: Dzīves cikla datu eksports
 description: Produkta dzīves cikla informācijas eksportēšana
-ms.date: 08/19/2020
-ms.openlocfilehash: a9831c67fa9c42ad557eb3d02d4a7c71621b92d2
-ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+ms.date: 08/20/2020
+ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
+ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
 ms.translationtype: MT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "903661"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "905219"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="419e5-103">Dzīves cikla datu eksports</span><span class="sxs-lookup"><span data-stu-id="419e5-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="5def3-103">Dzīves cikla datu eksports</span><span class="sxs-lookup"><span data-stu-id="5def3-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="419e5-104">Šī lapa ir izstrādes stadijā.</span><span class="sxs-lookup"><span data-stu-id="419e5-104">This page is under development.</span></span>
+> <span data-ttu-id="5def3-104">Šī lapa ir izstrādes stadijā.</span><span class="sxs-lookup"><span data-stu-id="5def3-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="419e5-105">Visu produktu eksportēšana</span><span class="sxs-lookup"><span data-stu-id="419e5-105">Export all products</span></span>
-<span data-ttu-id="419e5-106">Eksportējiet datu dzīves cikla datus visiem produktiem, noklikšķinot uz Tālāk.</span><span class="sxs-lookup"><span data-stu-id="419e5-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="5def3-105">Visu produktu eksportēšana</span><span class="sxs-lookup"><span data-stu-id="5def3-105">Export all products</span></span>
+<span data-ttu-id="5def3-106">Eksportējiet datu dzīves cikla datus visiem produktiem, noklikšķinot uz Tālāk.</span><span class="sxs-lookup"><span data-stu-id="5def3-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="419e5-107">Visu produktu eksportēšana</span><span class="sxs-lookup"><span data-stu-id="419e5-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="5def3-107">Visu produktu eksportēšana</span><span class="sxs-lookup"><span data-stu-id="5def3-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="419e5-108">Produktu eksportēšana no ģimenes un grupas</span><span class="sxs-lookup"><span data-stu-id="419e5-108">Export products by Family and Group</span></span>
-<span data-ttu-id="419e5-109">Atlasiet ģimeni un pēc tam grupu, kuru vēlaties eksportēt.</span><span class="sxs-lookup"><span data-stu-id="419e5-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="419e5-110">Piezīme. eksportēšana sāksies, ja būs atlasīta grupas vērtība.</span><span class="sxs-lookup"><span data-stu-id="419e5-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="5def3-108">Produktu eksportēšana no ģimenes un grupas</span><span class="sxs-lookup"><span data-stu-id="5def3-108">Export products by Family and Group</span></span>
+<span data-ttu-id="5def3-109">Atlasiet ģimeni un pēc tam grupu, kuru vēlaties eksportēt.</span><span class="sxs-lookup"><span data-stu-id="5def3-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="5def3-110">Piezīme. eksportēšana sāksies, ja būs atlasīta grupas vērtība.</span><span class="sxs-lookup"><span data-stu-id="5def3-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Ģimenes" title2="Grupā"]
 > - [(.NET | Visas](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -81,8 +81,8 @@ ms.locfileid: "903661"
 > - [(Windows | Drošības](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="419e5-169">Produktu eksportēšana pēc atbalsta datuma beigām</span><span class="sxs-lookup"><span data-stu-id="419e5-169">Export products by end of support date</span></span>
-<span data-ttu-id="419e5-170">Atlasiet gadu, lai redzētu produktus, kas sasniedz atbalsta beigas.</span><span class="sxs-lookup"><span data-stu-id="419e5-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="419e5-171">Piezīme. eksportēšana sāksies, kad ir atlasīta gada vērtība.</span><span class="sxs-lookup"><span data-stu-id="419e5-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="5def3-169">Produktu eksportēšana pēc atbalsta datuma beigām</span><span class="sxs-lookup"><span data-stu-id="5def3-169">Export products by end of support date</span></span>
+<span data-ttu-id="5def3-170">Atlasiet gadu, lai redzētu produktus, kas sasniedz atbalsta beigas.</span><span class="sxs-lookup"><span data-stu-id="5def3-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="5def3-171">Piezīme. eksportēšana sāksies, kad ir atlasīta gada vērtība.</span><span class="sxs-lookup"><span data-stu-id="5def3-171">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
