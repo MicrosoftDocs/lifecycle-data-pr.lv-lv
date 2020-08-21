@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2019 LTSC
-  description: Windows 10 IoT 2019 LTSC seko fiksētajai dzīves cikla politikai.
+  description: Windows 10 IoT 2019 LTSC ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870812"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
-  Windows 10 IoT 2019 LTSC seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows 10 IoT 2019 LTSC ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Core, Enterprise
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows 10 IoT pamatpakalpojumi](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [viņš Windows 10 oktobra atjauninājums (versija 1809) tika atkārtoti izlaists gada 13. novembrī, 2018. Atbalsta datumi ir atbilstoši pielāgoti.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC bieži uzdotie jautājumi](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 ilgtermiņa apkalpošanas kanāls\n\n## <a name=\"editions\"></a>Izdevumos \n* Core\n* Enterprise"
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Windows 10 oktobra atjauninājums (1809. versija) tika atkārtoti laists klajā 2018. gada 13. novembrī. Atbalsta datumi ir attiecīgi koriģēti.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Bieži uzdotie jautājumi par Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 ilgtermiņa apkalpošanas kanāls\n\n## <a name=\"editions\"></a>Izdevumi \n* Core\n* Enterprise"

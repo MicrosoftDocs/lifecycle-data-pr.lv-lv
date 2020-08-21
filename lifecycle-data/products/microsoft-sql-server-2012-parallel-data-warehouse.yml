@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012 paralēlā datu noliktava (analīzes platformas sistēma)
-  description: Microsoft SQL Server 2012 paralēlā datu noliktava (analīzes platformas sistēma) seko fiksēto dzīves cikla politikai.
+  title: Microsoft SQL Server 2012 paralēlā datu noliktava (Analytics platformas sistēma)
+  description: Microsoft SQL Server 2012 paralēlā datu noliktava (Analytics platformas sistēma) ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870897"
-name: Microsoft SQL Server 2012 paralēlā datu noliktava (analīzes platformas sistēma)
+name: Microsoft SQL Server 2012 paralēlā datu noliktava (Analytics platformas sistēma)
 summary: >
-  Microsoft SQL Server 2012 paralēlā datu noliktava (analīzes platformas sistēma) seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft SQL Server 2012 paralēlā datu noliktava (Analytics platformas sistēma) ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > SQL Server 2012 paralēlā datu noliktava (PDW) ir pārveidota par APS (analīzes platformas sistēma)
+  > SQL Server 2012 paralēlā datu noliktava (PDW) ir pārdēvēta par APS (Analytics Platform System)
 products:
 - sql-server
 policyType: fixed
