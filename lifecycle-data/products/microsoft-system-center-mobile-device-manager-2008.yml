@@ -2,17 +2,19 @@
 metadata:
   title: Microsoft System Center Mobile ierīču pārvaldnieks 2008
   description: Microsoft System Center Mobile Device Manager 2008 ir ievērota fiksēto dzīves cikla politika.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/21/2020
+  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "828401"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906292"
 name: Microsoft System Center Mobile ierīču pārvaldnieks 2008
 summary: >+
   Microsoft System Center Mobile Device Manager 2008 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
 
+
+  Tas attiecas uz šādiem izdevumiem: visi attiecināmie, wSQL
 
 products:
 - msc
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Visi piemērojamie\n* wSQL"
