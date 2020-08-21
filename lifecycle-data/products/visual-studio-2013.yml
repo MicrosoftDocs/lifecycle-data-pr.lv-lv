@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2013
-  description: Visual Studio 2013 ievēro fiksēto dzīves cikla politiku.
+  title: Visual Studio 2013
+  description: Visual Studio 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858727"
-name: Visual Studio 2013
+name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Visual Studio 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: aģenti, all, Community, Express for Internet, Express for Windows, Express for Windows, IntelliTrace Collector, modelēšanas SDK, daudzbaitu MFC bibliotēka, Premium, Professional, Release Management, Remote Tools, SDK, Shell (integrēta), Shell (izolēts), Team Explorer, testa profesionālis, Ultimate, Visual C++ atdalītājs, tīmekļa rīku paplašinājumi
+  Tas attiecas uz šādiem izdevumiem: Aģenti, visi, Community, Express tīmeklim, Express sistēmai Windows, Express sistēmai Windows Desktop, IntelliTrace Collector, modelēšanas SDK, Multibyte MFC Library, Premium, Professional, Release Management, attālie rīki, SDK, Shell (integrēta), Shell (izolēta), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par apkopi](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Dienesta pārstāvji\n* Visas\n* Kopienas\n* Express tīmeklī\n* Express darbam ar Windows\n* Express for Windows datora versija\n* IntelliTrace savācējs\n* Modelēšanas SDK\n* Daudzbaitu MFC bibliotēka\n* Premium\n* Professional\n* Laidienu pārvaldība\n* Attālie rīki\n* SDK\n* Čaula (integrēta)\n* Čaula (izolēts)\n* Team Explorer\n* Testēt profesionāli\n* Ultimate\n* Visual C++ izplatāmā pakotne\n* Tīmekļa rīku paplašinājumi"
+content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Visi\n* Kopiena\n* Express darbam tīmeklī\n* Express sistēmai Windows\n* Express operētājsistēmas Windows darbvirsmai\n* IntelliTrace kolektors\n* Modelēšanas SDK\n* Multibyte MFC Library\n* Premium\n* Profesionālā versija\n* Release Management\n* Attālie rīki\n* SDK\n* Shell (integrēta)\n* Shell (izolēta)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi"

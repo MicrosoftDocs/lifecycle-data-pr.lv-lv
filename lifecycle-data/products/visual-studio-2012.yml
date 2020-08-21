@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2012
-  description: Visual Studio 2012 ievēro fiksēto dzīves cikla politiku.
+  title: Visual Studio 2012
+  description: Visual Studio 2012 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858457"
-name: Visual Studio 2012
+name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Visual Studio 2012 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: aģenti, Kopienas 2013, Express for Internet, Express for Windows 8, Express for Windows datora, IntelliTrace savācējs, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (izolēts), SQL Server datu rīki, komanda Explorer, testa profesionālie 2013, Ultimate, Visual C++ izplatāmā versija.
+  Tas attiecas uz šādiem izdevumiem: Aģenti, Community 2013, Express darbam tīmeklī, Express operētājsistēmai Windows 8, Express operētājsistēmas Windows darbvirsmai, IntelliTrace kolektors, Microsoft Azure rīki, Premium, Professional, attālie rīki, Shell (integrēta), Shell (izolēta), SQL Server datu rīki, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, tīmekļa rīku paplašinājumi
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Visual Studio produkta dzīves cikls un apkope](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Dienesta pārstāvji\n* Kopienas 2013\n* Express tīmeklī\n* Express darbam ar Windows 8\n* Express for Windows datora versija\n* IntelliTrace savācējs\n* Microsoft Azure rīki\n* Premium\n* Professional\n* Attālie rīki\n* Čaula (integrēta)\n* Čaula (izolēts)\n* SQL Server datu rīki\n* Team Explorer\n* Testēt Professional 2013\n* Ultimate\n* Visual C++ izplatāmā pakotne\n* Tīmekļa rīku paplašinājumi"
+content: "\n## <a name=\"links\"></a>Saites \n* [Visual Studio produkta dzīves cikls un apkope](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Community 2013\n* Express darbam tīmeklī\n* Express operētājsistēmai Windows 8\n* Express operētājsistēmas Windows darbvirsmai\n* IntelliTrace kolektors\n* Microsoft Azure rīki\n* Premium\n* Profesionālā versija\n* Attālie rīki\n* Shell (integrēta)\n* Shell (izolēta)\n* SQL Server datu rīki\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi\n\n"

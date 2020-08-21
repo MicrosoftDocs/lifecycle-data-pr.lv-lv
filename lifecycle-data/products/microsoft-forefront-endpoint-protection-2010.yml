@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Endpoint Protection 2010
-  description: Microsoft Forefront Endpoint Protection 2010 seko fiksētā dzīves cikla politikai.
+  title: Microsoft Forefront Endpoint Protection 2010
+  description: Microsoft Forefront Endpoint Protection 2010 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858565"
-name: Microsoft Forefront Endpoint Protection 2010
+name: Microsoft Forefront Endpoint Protection 2010
 summary: >
-  Microsoft Forefront Endpoint Protection 2010 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Forefront Endpoint Protection 2010 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+  > Atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas.
 products:
 - office
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Informācija par apkopi](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Klientiem ir jāpaliek pašreizējām ar jaunāko ļaunprogrammatūras novēršanas platformas atjauninājumu, kas tiek pilnībā atbalstīts. Forefront Endpoint Protection 2010 attiecas uz tādu pašu dzīves cikla politiku kā System Center Configuration Manager 2007 gan pamata, gan paplašinātā atbalsta dienestam."
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Apkalpošanas informācija](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Lai saņemtu pilnu atbalstu, klientiem ir vajadzīgi aktuālie jaunākie ļaunprogrammatūras novēršanas platformas atjauninājumi. Uz Forefront Endpoint Protection 2010 attiecas tāda pati dzīves cikla politika kā uz System Center Configuration Manager 2007 — gan pamata, gan paplašinātajam atbalstam.\n\n\n"

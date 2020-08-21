@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded POSReady 7
-  description: Operētājsistēmā Windows Embedded POSReady 7 ir ievērota fiksēto dzīves cikla politika.
+  description: Windows Embedded POSReady 7 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858627"
 name: Windows Embedded POSReady 7
 summary: >+
-  Operētājsistēmā Windows Embedded POSReady 7 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Windows Embedded POSReady 7 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Saites \n* [* Extended Security Update Program (ESU)-paplašinātie drošības atjauninājumi Select Embedded Products ir pieejami, izmantojot OEM.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT iegultais režīms](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>Saites \n* [* Pie OEM ir pieejama paplašināto drošības atjauninājumu programma —  paplašinātie drošības atjauninājumi (Extended Security Updates — ESU) noteiktiem iegultajiem produktiem.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT iegultais režīms](/windows/iot-core/develop-your-app/embeddedmode)\n\n\n\n"

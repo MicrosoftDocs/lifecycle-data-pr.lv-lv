@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Azure Pack (Windows Server 2016)
-  description: Windows Azure Pack (operētājsistēmā Windows Server 2016) seko fiksēto dzīves cikla politika.
+  title: Windows Azure pakotne (sistēmā Windows Server 2016)
+  description: Windows Azure pakotne (sistēmā Windows Server 2016) ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858287"
-name: Windows Azure Pack (Windows Server 2016)
+name: Windows Azure pakotne (sistēmā Windows Server 2016)
 summary: >+
-  Windows Azure Pack (operētājsistēmā Windows Server 2016) seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Windows Azure pakotne (sistēmā Windows Server 2016) ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Saites \n* [Papildinformācija](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack sistēmai Windows Server ir hibrīdais mākoņa risinājums, kas Windows Azure tehnoloģijas nodrošina jūsu datu centrā. Tas sniedz iespēju Microsoft klientiem piedāvāt bagātīgu, patstāvīgi izmantojamu vairāku nomnieku mākoni jūsu datu centra aparatūrā bez papildu maksas."
+content: "\n## <a name=\"links\"></a>Saites \n* [Vairāk informācijas](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure pakotne sistēmai Windows Server ir hibrīds mākoņrisinājums, kas Windows Data Azure tehnoloģijas ienes jūsu datu centrā. Tas ļauj Microsoft klientiem bez papildu maksas piedāvāt bagātīgu pašapkalpošanās, vairāku nomnieku mākoni jūsu datu centra aparatūrā."

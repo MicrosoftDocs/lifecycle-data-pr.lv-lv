@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT kodols
-  description: Windows 10 IoT kodols atbilst modernās dzīves cikla politikai.
+  title: Windows 10 IoT Core
+  description: Windows 10 IoT Core ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858548"
-name: Windows 10 IoT kodols
+name: Windows 10 IoT Core
 summary: >
-  Windows 10 IoT kodols atbilst [modernās](/lifecycle/policies/modern) dzīves cikla politikai.
+  Windows 10 IoT Core ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows/iot-core/windows-iot-core)\n* [Windows dzīves cikla faktu lapa](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Dzīves cikla bieži uzdotie jautājumi — Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ja nav atlikts, turpmākie Windows 10 pusgada kanāla līdzekļu atjauninājumi var tikt instalēti pirms norādītā galvenā atbalsta datuma."
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows/iot-core/windows-iot-core)\n* [Windows dzīves cikla faktu lapa](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Ja vien nav iestatīts pagarinājums, turpmākie Windows 10 pusgada kanāla līdzekļu atjauninājumi var tikt instalēti pirms norādītā galvenā atbalsta beigu datuma.\n\n\n"

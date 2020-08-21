@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2016
-  description: Windows Server 2016 seko fiksētai dzīves cikla politikai.
+  title: Windows Server 2016
+  description: Windows Server 2016 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858707"
-name: Windows Server 2016
+name: Windows Server 2016
 summary: >+
-  Windows Server 2016 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Server 2016 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, punktu Premium, Standard
+  Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, MultiPoint Premium, standarta versija
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows-server/get-started/server-basics)\n* [Dzīves cikla bieži uzdotie jautājumi — Windows produkti](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Datacenter\n* Essentials\n* Daudzpunkte Premium\n* Standarta"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows-server/get-started/server-basics)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standarta versija"

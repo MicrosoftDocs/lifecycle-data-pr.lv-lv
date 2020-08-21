@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: SQL Server 2014 seko fiksētai dzīves cikla politikai.
+  description: SQL Server 2014 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858679"
 name: SQL Server 2014
 summary: >+
-  SQL Server 2014 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  SQL Server 2014 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: biznesa informācija, izstrādātājs, Enterprise, Enterprise Core, Express, Standard, Web
+  Tas attiecas uz šādiem izdevumiem: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, standarta versija, tīmekļa versija
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Biznesa informācija\n* Attīstītājs\n* Enterprise\n* Uzņēmuma kodols\n* Express\n* Standarta\n* Tīmekļa"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standarta versija\n* Tīmekļa versija"
