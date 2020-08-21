@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows krātuves serveris 2008
-  description: Windows krātuves serveris 2008 seko fiksētai dzīves cikla politikai.
+  title: Windows Storage Server 2008
+  description: Windows Storage Server 2008 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827797"
-name: Windows krātuves serveris 2008
+name: Windows Storage Server 2008
 summary: >
-  Windows krātuves serveris 2008 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Storage Server 2008 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: pamata, pamata 32 bitu, pamata 64 bitu, pamata iegults, pamata iegults 32 bitu, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
+  Tas attiecas uz šādiem izdevumiem: Basic, Basic 32 bitu versija, Basic 64 bitu versija, Basic Embedded, Basic Embedded 32 bitu versija, Enterprise, Enterprise Embedded, Standard, Standard Embedded, darba grupa
 
 
   > [!IMPORTANT]
 
-  > Šis produkts ir sasniedzis atbalsta beigas. Skatiet zemāk migrācijas norādījumus.
+  > Atbalsta sniegšana šim produktam tiek izbeigta. Migrācijas norādījumus skatiet tālāk.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informācija par servera jaunināšanu](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Pamata\n* Pamata 32 bitu\n* Pamata 64 bitu\n* Pamata iegults\n* Pamata iegultā 32 bitu\n* Enterprise\n* Uzņēmuma iegults\n* Standarta\n* Standarta iegulšana\n* Darbgrupas"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Servera jaunināšanas informācija](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Basic\n* Basic 32 bitu versija\n* Basic 64 bitu versija\n* Basic Embedded\n* Basic Embedded 32 bitu versija\n* Enterprise\n* Enterprise Embedded\n* Standarta versija\n* Embedded standarta versija\n* Darbgrupa"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application virtualizācijas viesošana 4,6 darbam ar Windows datoriem
-  description: Microsoft lietojumprogrammu virtualizācijas viesošanas 4,6 for Windows datori ievēro fiksēto dzīves cikla politiku.
+  title: Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām
+  description: Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828528"
-name: Microsoft Application virtualizācijas viesošana 4,6 darbam ar Windows datoriem
+name: Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām
 summary: >+
-  Microsoft lietojumprogrammu virtualizācijas viesošanas 4,6 for Windows datori ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Windows galddatoriem
+  Tas attiecas uz šādiem izdevumiem: Windows darbvirsmām
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tā kā App-V 4,6 klients izmanto lietojumprogrammu-V 4,5 serveri, programma-V 4,5 serveris arī turpmāk tiks atbalstīts atbilstoši programmas-V 4,6 lietošanas cikla datumiem, ja tiek izmantoti kopā ar atbalstīto lietojumprogrammu-V 4,6 klientu.\n\n## <a name=\"editions\"></a>Izdevumos \n* Windows galddatoriem"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktiem un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kopš lietotnes versijas 4.6 klients izmanto lietotnes versijas 4.5 serveri, lietotnes versijas 4.5 serveris turpinās saņemt atbalstu saskaņā ar dzīves cikla datumu lietotnes versijai 4.6, ja tas tiks lietots ar atbalstītu lietotnes versijas 4.6 klientu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Windows darbvirsmām"

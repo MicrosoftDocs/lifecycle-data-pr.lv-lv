@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2008 R2 paralēlās datu noliktavas
-  description: Microsoft SQL Server 2008 R2 paralēlās datu noliktavas atbilst fiksētās dzīves cikla politikai.
+  title: SQL Server 2008 R2 paralēlā datu noliktava
+  description: Microsoft SQL Server 2008 R2 paralēlā datu noliktava ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828085"
-name: Microsoft SQL Server 2008 R2 paralēlās datu noliktavas
+name: SQL Server 2008 R2 paralēlā datu noliktava
 summary: >+
-  Microsoft SQL Server 2008 R2 paralēlās datu noliktavas atbilst [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft SQL Server 2008 R2 paralēlā datu noliktava ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

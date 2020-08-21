@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (darbvieta, noformētājs)
-  description: Microsoft SharePoint 2010 (darbvieta, noformētājs) seko fiksēto dzīves cikla politikai.
+  title: Microsoft SharePoint 2010 (Workspace, Designer)
+  description: Microsoft SharePoint 2010 (Workspace, Designer) ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827857"
-name: Microsoft SharePoint 2010 (darbvieta, noformētājs)
+name: Microsoft SharePoint 2010 (Workspace, Designer)
 summary: >+
-  Microsoft SharePoint 2010 (darbvieta, noformētājs) seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft SharePoint 2010 (Workspace, Designer) ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: noformētājs, darbvieta
+  Tas attiecas uz šādiem izdevumiem: Designer, Workspace
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Izstrādātāja dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Produkta dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Designer\n* Darbvietas"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Izstrādātāja dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Produkta dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Designer\n* Workspace"

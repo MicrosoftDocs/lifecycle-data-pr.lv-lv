@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 4,6
-  description: Microsoft Application Virtualization 4,6 seko fiksētā dzīves cikla politika.
+  title: Microsoft Application Virtualization 4.6
+  description: Microsoft Application Virtualization 4.6 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828534"
-name: Microsoft Application Virtualization 4,6
+name: Microsoft Application Virtualization 4.6
 summary: >+
-  Microsoft Application Virtualization 4,6 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft Application Virtualization 4.6 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: attālās darbvirsmas pakalpojumiem, Windows datoriem, sequencer
+  Tas attiecas uz šādiem izdevumiem: attālās darbvirsmas pakalpojumiem, Windows darbvirsmām, sekvensatoru
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migrācijas norādījumi](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tā kā App-V 4,6 klients izmanto lietojumprogrammu-V 4,5 serveri, programma-V 4,5 serveris arī turpmāk tiks atbalstīts atbilstoši programmas-V 4,6 lietošanas cikla datumiem, ja tiek izmantoti kopā ar atbalstīto lietojumprogrammu-V 4,6 klientu.\n\n## <a name=\"editions\"></a>Izdevumos \n* Attālās darbvirsmas pakalpojumos\n* Windows galddatoriem\n* Sequencer"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktiem un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migrācijas vadlīnijas](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kopš lietotnes versijas 4.6 klients izmanto lietotnes versijas 4.5 serveri, lietotnes versijas 4.5 serveris turpinās saņemt atbalstu saskaņā ar dzīves cikla datumu lietotnes versijai 4.6, ja tas tiks lietots ar atbalstītu lietotnes versijas 4.6 klientu.\n\n## <a name=\"editions\"></a>Izdevumi \n* attālās darbvirsmas pakalpojumiem\n* Windows darbvirsmām\n* Sekvenceris"

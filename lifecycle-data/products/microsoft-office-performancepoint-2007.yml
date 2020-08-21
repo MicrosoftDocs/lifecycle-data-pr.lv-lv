@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office PerformancePoint 2007
-  description: Microsoft Office PerformancePoint 2007 seko fiksētās dzīves cikla politikai.
+  title: Microsoft Office PerformancePoint 2007
+  description: Microsoft Office PerformancePoint 2007 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9c4030975b8cd865165db64c6857ef9090b1888
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828790"
-name: Microsoft Office PerformancePoint 2007
+name: Microsoft Office PerformancePoint 2007
 summary: >+
-  Microsoft Office PerformancePoint 2007 seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Office PerformancePoint 2007 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: pārvaldības žurnālists
+  Tas attiecas uz šādiem izdevumiem: Management Reporter
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Pārvaldības žurnālists"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Management Reporter"

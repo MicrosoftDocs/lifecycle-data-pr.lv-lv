@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio 2005
-  description: Microsoft Visual Studio 2005 seko fiksētās dzīves cikla politikai.
+  description: Microsoft Visual Studio 2005 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827845"
 name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Visual Studio 2005 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Professional, Standard, Standard Edition Academic licence, Team Edition for Database Professionals, Team Edition programmatūras arhitektiem, Team Edition programmatūras izstrādātājiem, Team Edition programmatūrai testētājiem, Team Suite, grupas testa slodzes aģents, Microsoft Office sistēmas līdzekļi, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Tas attiecas uz šādiem izdevumiem: Professional, Standard, Standard Edition akadēmiskā licence, Team Edition datu bāzes profesionāļiem, Team Edition programmatūras arhitektiem, Team Edition programmatūras izstrādātājiem, Team Edition programmatūras testētājiem, Team Suite, Team Test slodzes aģents, Microsoft Office sistēmas rīki, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Saites \n* [Visual J# atbalsta informācija](https://msdn.microsoft.com/vstudio/bb188593)\n* [Migrācijas norādījumi](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informācija par produktu Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Šī produkta atbalsts ir pārtraukts. Skatiet zemāk migrācijas norādījumus.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition datu bāzu profesionāļiem, kas izlaisti 2007. gada 2. martā.\n\n## <a name=\"editions\"></a>Izdevumos \n* Professional\n* Standarta\n* Standarta izdevuma akadēmiskā licence\n* Team Edition datu bāzu profesionāļiem\n* Programmatūras arhitektu Team Edition\n* Programmatūras izstrādātājiem paredzēts Team Edition\n* Team Edition programmatūras testētājiem\n* Team Suite\n* Grupas testa slodzes aģents\n* Microsoft Office sistēmas rīki\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Saites \n* [Visual J# atbalsta informācija](https://msdn.microsoft.com/vstudio/bb188593)\n* [Migrācijas vadlīnijas](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informācija par Visual Studio produktu](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Šī produkta atbalsts ir beidzies. Migrācijas norādījumus skatiet tālāk.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition Database profesionāļiem laists klajā 2007. gada 2. martā.\n\n## <a name=\"editions\"></a>Izdevumi \n* Profesionālā versija\n* Standarta versija\n* Standard Edition akadēmiskā licence\n* Team Edition Database profesionāļiem\n* Team Edition programmatūras arhitektiem\n* Team Edition programmatūras izstrādātājiem\n* Team Edition programmatūras testētājiem\n* Team Suite\n* Team slodzes testa aģents\n* Rīki Microsoft Office sistēmai\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2003
-  description: Microsoft Office 2003 seko fiksēto dzīves cikla politikai.
+  description: Microsoft Office 2003 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828123"
 name: Microsoft Office 2003
 summary: >+
-  Microsoft Office 2003 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Office 2003 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
+  Tas attiecas uz šādiem izdevumiem: Basic, Professional, Professional Enterprise, Small Business, standarta, studentiem un skolotājiem paredzētās versijas, Web Components
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Pamata\n* Professional\n* Profesionāls uzņēmums\n* Mazs uzņēmums\n* Standarta\n* Skolēns un skolotājs\n* Tīmekļa komponenti"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Basic\n* Profesionālā versija\n* Professional Enterprise\n* Small Business\n* Standarta versija\n* Studentiem un skolotājiem\n* Web Components"

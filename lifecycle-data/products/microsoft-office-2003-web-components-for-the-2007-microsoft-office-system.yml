@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003 Web Components 2007 Microsoft Office sistēmai
-  description: Microsoft Office 2003 Web Components 2007 Microsoft Office sistēmai ir ievērota komponentu dzīves cikla politika.
+  title: Microsoft Office 2003 tīmekļa komponenti Microsoft Office 2007. gada sistēmai
+  description: Microsoft Office 2003 tīmekļa komponenti Microsoft Office 2007. gada sistēmai ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827879"
-name: Microsoft Office 2003 Web Components 2007 Microsoft Office sistēmai
+name: Microsoft Office 2003 tīmekļa komponenti Microsoft Office 2007. gada sistēmai
 summary: >+
-  Microsoft Office 2003 Web Components 2007 Microsoft Office sistēmai ir ievērota [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politika.
+  Microsoft Office 2003 tīmekļa komponenti Microsoft Office 2007. gada sistēmai ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/office/troubleshoot/support/office-2007-not-support)"

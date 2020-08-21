@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2005
-  description: Visual Studio Team Foundation Server 2005 seko fiksēto dzīves cikla politika.
+  description: Visual Studio Team Foundation Server 2005 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 881badd8c2a2954697d7a63f329250f4a07b9581
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827849"
 name: Visual Studio Team Foundation Server 2005
-summary: >+
-  Visual Studio Team Foundation Server 2005 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
-
-
+summary: "Visual Studio Team Foundation Server 2005 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku. \n\n\n"
 products:
 - vs
 policyType: fixed
@@ -28,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/17/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Migrācijas norādījumi](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Šī produkta atbalsts ir pārtraukts. Skatiet zemāk migrācijas norādījumus."
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Migrācijas vadlīnijas](https:// https://msdn.microsoft.com/library/vs/alm/tfs/upgrade/tfs-2005-to-2015)\n\n> [!NOTE]\n> Šī produkta atbalsts ir beidzies. Migrācijas norādījumus skatiet tālāk."

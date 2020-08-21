@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics GP 10,0
-  description: Dynamics GP 10,0 seko fiksētai dzīves cikla politikai.
+  title: Dynamics GP 10.0
+  description: Dynamics GP 10.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2cf687c6b390751074f0c89bbbd354f19257a5fe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828590"
-name: Dynamics GP 10,0
+name: Dynamics GP 10.0
 summary: >+
-  Dynamics GP 10,0 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Dynamics GP 10.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 08/04/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Migrācijas norādījumi](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> Šis produkts nav atbalstīts, skatiet tālāk informāciju par migrāciju."
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Migrācijas vadlīnijas](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> Šim produktam atbalsts netiek nodrošināts, skatiet tālāk sniegto migrācijas informāciju."
