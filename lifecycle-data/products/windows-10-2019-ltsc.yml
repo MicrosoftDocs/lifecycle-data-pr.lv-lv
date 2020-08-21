@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 2019 LTSC
-  description: Windows 10 2019 LTSC seko fiksētai dzīves cikla politikai.
+  description: Windows 10 2019 LTSC ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870838"
 name: Windows 10 2019 LTSC
 summary: >+
-  Windows 10 2019 LTSC seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows 10 2019 LTSC ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Enterprise
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows 10 oktobra atjauninājums (versija 1809) atkārtota izlaišana](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 LTSC bieži uzdotie jautājumi](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows 10 oktobra atjauninājums (versija 1809) atkārtots laidiens](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Bieži uzdotie jautājumi par Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise"

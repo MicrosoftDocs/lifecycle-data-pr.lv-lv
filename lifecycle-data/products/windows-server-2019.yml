@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2019
-  description: Windows Server 2019 seko fiksētai dzīves cikla politikai.
+  title: Windows Server 2019
+  description: Windows Server 2019 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870802"
-name: Windows Server 2019
+name: Windows Server 2019
 summary: >+
-  Windows Server 2019 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Server 2019 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, Standard
+  Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, standarta versija
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows-server/get-started-19/whats-new-19)\n* [Atjauninājums Windows Server 2019 pieejamībā](https://aka.ms/WSRelaunchBlog)\n* [Dzīves cikla bieži uzdotie jautājumi — Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Operētājsistēmā Windows Server 2019 un Windows Server versija 1809 tika atkārtoti izlaista 2018. gada 13. novembrī. Atbalsta datumi ir atbilstoši pielāgoti.\n\n## <a name=\"editions\"></a>Izdevumos \n* Datacenter\n* Essentials\n* Standarta"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 atjauninājuma pieejamība](https://aka.ms/WSRelaunchBlog)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 un Windows Server versija 1809 tika atkārtoti laista klajā 2018. gada 13. novembrī. Attiecīgi tika koriģēti atbalsta datumi.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Standarta versija"
