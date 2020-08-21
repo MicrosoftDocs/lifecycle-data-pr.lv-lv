@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2008 darbam ar Mac
-  description: Microsoft Office 2008 for Mac izmanto fiksēto dzīves cikla politiku.
+  description: Microsoft Office 2008 darbam ar Mac ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828118"
 name: Microsoft Office 2008 darbam ar Mac
-summary: "Microsoft Office 2008 for Mac izmanto [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. \n"
+summary: "Microsoft Office 2008 darbam ar Mac ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku. \n\nTas attiecas uz šādiem izdevumiem: Izdevumi darbam, skolēniem un mājas lietošanai, kā arī īpašais mediju izdevums\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 for Mac Special Media Edition sākuma datums ir 2008. gada 12. marts.\n\n## <a name=\"editions\"></a>Izdevumos \n* Biznesa\n* Skolēniem un mājas lietošanai\n* Īpašas multivides Editon"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 darbam ar Mac īpašā mediju izdevuma darbības sākuma datums ir 2008. gada 12. marts.\n\n## <a name=\"editions\"></a>Izdevumi \n* Darbam\n* Skolēniem un mājas lietošanai\n* Īpašais mediju izdevums"

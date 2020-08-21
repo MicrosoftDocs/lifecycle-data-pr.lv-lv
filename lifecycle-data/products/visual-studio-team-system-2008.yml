@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio grupu sistēmas 2008
-  description: Visual Studio Team System 2008 seko fiksētās dzīves cikla politikai.
+  title: Visual Studio Team System 2008
+  description: Visual Studio Team System 2008 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828345"
-name: Visual Studio grupu sistēmas 2008
+name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Visual Studio Team System 2008 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: visi, arhitektūra, datu bāze, attīstība, komandu pārlūks, grupas testa slodzes aģents
+  Tas attiecas uz šādiem izdevumiem: Visi, arhitektūra, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > Atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+  > Atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas.
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Migrācijas norādījumi](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Visas\n* Arhitektūra\n* Datu bāzes\n* Attīstības\n* Team Explorer\n* Grupas testa slodzes aģents"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Migrācijas vadlīnijas](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Visi\n* Arhitektūra\n* Database\n* Development\n* Team Explorer\n* Team slodzes testa aģents"

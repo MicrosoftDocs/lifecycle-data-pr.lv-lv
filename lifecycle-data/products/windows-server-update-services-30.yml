@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server atjaunināšanas pakalpojumi 3,0
-  description: Windows Server atjaunināšanas pakalpojumi 3,0 seko fiksēto dzīves cikla politikai.
+  title: Windows Server Update Services 3.0
+  description: Windows Server Update Services 3.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828683"
-name: Windows Server atjaunināšanas pakalpojumi 3,0
+name: Windows Server Update Services 3.0
 summary: >
-  Windows Server atjaunināšanas pakalpojumi 3,0 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Server Update Services 3.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+  > Atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Atbalsts tika pagarināts no 7/11/2017 uz 1/14/2020."
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Atbalsts tika pagarināts no 7/11/2017 līdz 1/14/2020."

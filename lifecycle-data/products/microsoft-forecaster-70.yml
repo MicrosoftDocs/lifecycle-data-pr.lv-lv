@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forecaster 7,0
-  description: Microsoft Forecaster 7,0 seko fiksētās dzīves cikla politikai.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828463"
-name: Microsoft Forecaster 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecaster 7,0 seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Forecaster 7.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Prognožu atbalsta termiņš beidzas datumā, kas norādīts, ja vien tas netiek izplatīts kā Dynamics produkta sastāvdaļa. Ja tiek izplatīts ar Dynamics produktu, dinamikas dzīves cikla datumi ignorē prognozes datumu."
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Prognozētāja atbalsts beidzas norādītajā datumā, ja vien tas netiek izplatīts kā Dynamics produkta komponents. Izplatot kopā ar Dynamics produktu, Dynamics dzīves cikla datumi ignorē Forecaster datumu."

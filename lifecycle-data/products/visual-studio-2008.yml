@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio 2008
-  description: Visual Studio 2008 ievēro fiksēto dzīves cikla politiku.
+  title: Visual Studio 2008
+  description: Visual Studio 2008 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827979"
-name: Visual Studio 2008
+name: Visual Studio 2008
 summary: >+
-  Visual Studio 2008 ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Visual Studio 2008 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: all, Pro w/MSDN Premium, Professional, Professional w/MSDN, Team Suite, grupas testa slodzes aģents, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+  Tas attiecas uz šādiem izdevumiem: Visi, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ietver Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express un Visual Studio grupas sistēmas izdevumus\n\n## <a name=\"editions\"></a>Izdevumos \n* Visas\n* Pro w/MSDN Premium\n* Professional\n* Profesionāls w/MSDN \n* Team Suite\n* Grupas testa slodzes aģents\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ietver Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express un Visual Studio Team System izdevumus\n\n## <a name=\"editions\"></a>Izdevumi \n* Visi\n* Pro ar MSDN Premium\n* Profesionālā versija\n* Profesionālā versija ar MSDN \n* Team Suite\n* Team slodzes testa aģents\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

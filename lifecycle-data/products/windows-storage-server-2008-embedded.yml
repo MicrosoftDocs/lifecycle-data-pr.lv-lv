@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows krātuves serveris 2008 iegults
-  description: Windows krātuves serveris 2008 iegults atbilst fiksēto dzīves cikla politikai.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827963"
-name: Windows krātuves serveris 2008 iegults
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows krātuves serveris 2008 iegults atbilst [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Storage Server 2008 Embedded ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: 32 bit, 64 bit, Basic, Basic 32-bit, Enterprise, Standard, Workgroup
+  Tas attiecas uz šādiem izdevumiem: 32 bitu versija, 64 bitu versija, Basic, Basic 32 bitu versija, Enterprise, standarta versija, darba grupa
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Šis produkts ir sasniedzis atbalsta beigas. Skatiet zemāk migrācijas norādījumus.\n\n## <a name=\"editions\"></a>Izdevumos \n* 32 bit\n* 64 bit\n* Pamata\n* Pamata 32 bitu\n* Enterprise\n* Standarta\n* Darbgrupas"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Atbalsta sniegšana šim produktam tiek izbeigta. Migrācijas norādījumus skatiet tālāk.\n\n## <a name=\"editions\"></a>Izdevumi \n* 32 bitu versija\n* 64 bitu versija\n* Basic\n* Basic 32 bitu versija\n* Enterprise\n* Standarta versija\n* Darbgrupa"

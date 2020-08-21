@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (interneta vietnēm)
-  description: Microsoft SharePoint 2010 (interneta vietnēm) seko fiksēto dzīves cikla politikai.
+  title: Microsoft SharePoint 2010 (interneta vietnēm)
+  description: Microsoft SharePoint 2010 (interneta vietnēm) ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828421"
-name: Microsoft SharePoint 2010 (interneta vietnēm)
+name: Microsoft SharePoint 2010 (interneta vietnēm)
 summary: >+
-  Microsoft SharePoint 2010 (interneta vietnēm) seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft SharePoint 2010 (interneta vietnēm) ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Internet sites Enterprise — interneta vietņu standarts
+  Tas attiecas uz šādiem izdevumiem: Enterprise interneta vietnēm, standarta versija interneta vietnēm
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Saites \n* [Produkta dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Izstrādātāja dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Šī produkta atbalsta termiņš ir pagarināts no 13. oktobra līdz 2021. gada 13. apr 2020.\n\n## <a name=\"editions\"></a>Izdevumos \n* Internet sites Enterprise\n* Interneta vietņu standarts"
+content: "\n## <a name=\"links\"></a>Saites \n* [Produkta dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Izstrādātāja dokumentācija](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Šā produkta atbalsta termiņš ir pagarināts no 2020. gada 13. oktobra līdz 2021. gada 13. aprīlim.\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise interneta vietnēm\n* standarta versija interneta vietnēm\n\n"
