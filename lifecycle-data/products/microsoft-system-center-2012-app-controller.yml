@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center 2012 lietojumprogrammu kontrolleris
-  description: Microsoft System Center 2012 lietojumprogrammu kontrolleris seko fiksētās dzīves cikla politikai.
+  description: Microsoft System Center 2012 lietojumprogrammu kontrolleris ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858472"
 name: Microsoft System Center 2012 lietojumprogrammu kontrolleris
 summary: >+
-  Microsoft System Center 2012 lietojumprogrammu kontrolleris seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft System Center 2012 lietojumprogrammu kontrolleris ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par sistēmas centru](/system-center/#pivot=components&panel=components-all)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 satur komponentus: konfigurācijas pārvaldnieka datu aizsardzības pārvaldnieka darbību pārvaldnieka pakalpojumu pārvaldnieka pakalpojumu pārvaldības automatizācijas Virtuālā datora pārvaldnieka pakalpojumu sniedzēja Foundation"
+content: "\n## <a name=\"links\"></a>Saites \n* [System Center informācija](/system-center/#pivot=components&panel=components-all)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 sastāv no šādiem komponentiem: Konfigurācijas pārvaldnieks Data Protection Manager Operāciju pārvaldnieks Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"

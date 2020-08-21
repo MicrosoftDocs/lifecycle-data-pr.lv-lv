@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Phone 8,1
-  description: Windows Phone 8,1 seko fiksētai dzīves cikla politikai.
+  title: Windows Phone 8.1
+  description: Windows Phone 8.1 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858546"
-name: Windows Phone 8,1
+name: Windows Phone 8.1
 summary: >
-  Windows Phone 8,1 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Phone 8.1 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts.
+  > Šī produkta atbalsts ir beidzies.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows Phone 8,1 bieži uzdotie jautājumi](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft nodrošinās atjauninājumus, kas pieejami operētājsistēmai, ieskaitot drošības atjauninājumus, vismaz 36 mēnešus pēc dzīves cikla sākuma datuma. Šie atjauninājumi būs pieaugošs, un katrs atjauninājums, kas izveidots, pamatojoties uz iepriekšējo atjauninājumu. Lai saglabātu atbalstu, klientiem ir jāinstalē katrs atjauninājums. Šo papildu atjauninājumu sadalījumu var kontrolēt mobilo sakaru operators vai tālruņa ražotājs, no kura iegādājāties tālruni, un instalēšanai būs nepieciešams, lai jūsu tālrunim būtu iepriekš atjaunināti. Atjaunināšanas pieejamība arī būs atšķirīga atkarībā no valsts, reģiona un aparatūras iespējām."
+content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft nodrošina atjauninājumus operētājsistēmai, tostarp drošības atjauninājumus, vismaz 36 mēnešus pēc dzīves cikla sākuma datuma. Šie atjauninājumi tiks nodrošināti pakāpeniski, un katrs atjauninājums tiks veidots, pamatojoties uz iepriekšējo atjauninājumu. Klientiem jāinstalē katrs atjauninājums, lai saglabātu atbalstu. Šo papildu atjauninājumu izplatīšanu var kontrolēt mobilais operators vai tā tālruņa ražotājs, no kura iegādājāties tālruni, un to instalēšanai tālrunī būs nepieciešami iepriekšējie atjauninājumi. Atjauninājumu pieejamība būs atkarīga arī no valsts, reģiona un aparatūras iespējām."

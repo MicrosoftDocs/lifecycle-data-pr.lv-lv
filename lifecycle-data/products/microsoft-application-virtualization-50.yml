@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization 5,0
-  description: Microsoft Application Virtualization 5,0 seko fiksētā dzīves cikla politika.
+  title: Microsoft Application Virtualization 5.0
+  description: Microsoft Application Virtualization 5.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858404"
-name: Microsoft Application Virtualization 5,0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5,0 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft Application Virtualization 5.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: attālajiem darbvirsmas pakalpojumiem, termināļa pakalpojumiem, Windows datoriem
+  Tas attiecas uz šādiem izdevumiem: attālās darbvirsmas pakalpojumiem, termināļa pakalpojumiem, Windows darbvirsmām
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Attālās darbvirsmas pakalpojumos\n* Termināļa pakalpojumiem\n* Windows galddatoriem"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* attālās darbvirsmas pakalpojumiem\n* termināļa pakalpojumiem\n* Windows darbvirsmām"

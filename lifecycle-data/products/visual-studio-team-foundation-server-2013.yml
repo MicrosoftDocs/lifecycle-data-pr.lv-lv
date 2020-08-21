@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: Visual Studio Team Foundation Server 2013 seko fiksēto dzīves cikla politika.
+  description: Visual Studio Team Foundation Server 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858636"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  Visual Studio Team Foundation Server 2013 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Visual Studio Team Foundation Server 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: visa laidiena pārvaldība
+  Tas attiecas uz šādiem izdevumiem: Visi, laidienu pārvaldība
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informācija par apkopi](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laidienu pārvaldības serverim for TFS 2013, atjauninājums 4 tiks atbalstīts atbilstoši politikas vadlīnijām līdz 4/9/2024.\n\n## <a name=\"editions\"></a>Izdevumos \n* Visas\n* Laidienu pārvaldība"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Apkalpošanas informācija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Pakalpojumu pakotnes polise](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Atbilstoši politikas vadlīnijām TFS 2013 Release Management Server 4. atjauninājums tiks atbalstīts līdz 4/9/2024.\n\n## <a name=\"editions\"></a>Izdevumi \n* Visi\n* Laidiena pārvaldība"

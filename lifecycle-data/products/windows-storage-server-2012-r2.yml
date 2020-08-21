@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows krātuves serveris 2012 R2
-  description: Windows krātuves serveris 2012 R2 seko fiksētajai dzīves cikla politikai.
+  title: Windows Storage Server 2012 R2
+  description: Windows Storage Server 2012 R2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858659"
-name: Windows krātuves serveris 2012 R2
+name: Windows Storage Server 2012 R2
 summary: >+
-  Windows krātuves serveris 2012 R2 seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Storage Server 2012 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Essentials, Standard, Workgroup
+  Tas attiecas uz šādiem izdevumiem: Essentials, standarta versija, darba grupa
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Šī produkta pamata un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientus ar standarta dzīves cikla pārejas laika skalu.\n> [!NOTE]\n> Essentials Edition sākuma datums ir 25. septembris, 2014. \n\n## <a name=\"editions\"></a>Izdevumos \n* Essentials\n* Standarta\n* Darbgrupas"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku.\n> [!NOTE]\n> Essentials izdevuma darbības sākuma datums ir 2014. gada 25. septembris. \n\n## <a name=\"editions\"></a>Izdevumi \n* Essentials\n* Standarta versija\n* Darbgrupa"

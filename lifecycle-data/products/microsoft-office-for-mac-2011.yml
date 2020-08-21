@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office darbam ar Mac 2011
-  description: Microsoft Office darbam ar Mac 2011 seko fiksēto dzīves cikla politikai.
+  title: Microsoft Office for Mac 2011
+  description: Microsoft Office for Mac 2011 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858355"
-name: Microsoft Office darbam ar Mac 2011
+name: Microsoft Office for Mac 2011
 summary: >+
-  Microsoft Office darbam ar Mac 2011 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Office for Mac 2011 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: akadēmiskā, mājas un darba, Home and Business Home Use Program, Home and Student, Standard
+  Tas attiecas uz šādiem izdevumiem: Academic, Home and Business, Home and Business Home Use Program, skolēniem un mājas lietošanai, standarta versija
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Office for Mac 2011 pamata atbalsts tiek pagarināts, kā parādīts, lai nodrošinātu visiem klientiem standarta dzīves cikla pārejas laika skalu.\n\n## <a name=\"editions\"></a>Izdevumos \n* Izglītības iestādēm\n* Sākums un darbs\n* Mājas un darba programmas Home Use Program\n* Skolēniem un mājas lietošanai\n* Standarta"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Pamata atbalsts sistēmai Microsoft Office for Mac 2011 tiek paplašināts, kā norādīts, lai nodrošinātu visiem klientiem standarta dzīves cikla pārejas laika grafiku.\n\n## <a name=\"editions\"></a>Izdevumi \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Skolēniem un mājas lietošanai\n* Standarta versija"
