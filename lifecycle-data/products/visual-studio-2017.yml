@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
+  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870821"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907111"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Aģenti, izveides rīki, kopiena, Enterprise, atsauksmju klients, darbam ar Mac, IntelliTrace savrupais kolektors, veiktspējas rīki, Professional, attālie rīki, Team Explorer, Test Professional, Visual C ++ Redistributable
+  Tas attiecas uz šādiem izdevumiem: Aģenti, Build Tools, Community, Enterprise, ESM, Feedback Client, darbam ar Mac, IntelliTrace Standalone Collector, veiktspējas rīki, Professional, PSM, attālie rīki, Team Explorer, Test Professional, Visual C ++ Redistributable.
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Saites \n* [Paziņojums](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Apkalpošanas informācija](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Izveides rīki\n* Kopiena\n* Enterprise\n* Atsauksmju klients\n* darbam ar Mac\n* IntelliTrace savrupais kolektors\n* Veiktspējas rīki\n* Profesionālā versija\n* Attālie rīki\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Saites \n* [Paziņojums](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Apkalpošanas informācija](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Izveides rīki\n* Kopiena\n* Enterprise\n* ESM\n* Atsauksmju klients\n* darbam ar Mac\n* IntelliTrace savrupais kolektors\n* Veiktspējas rīki\n* Profesionālā versija\n* PSM\n* Attālie rīki\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
