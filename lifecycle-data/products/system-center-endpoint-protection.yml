@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System Center Endpoint Protection
+  description: Sistēmas centra galapunkta aizsardzība atbilst mūsdienīgai dzīves cikla politikai.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
+  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 08/31/2020
+  ms.locfileid: "924663"
+name: System Center Endpoint Protection
+summary: >+
+  Sistēmas centra galapunkta aizsardzība atbilst [mūsdienīgai](/lifecycle/policies/modern) dzīves cikla politikai.
+
+
+products:
+- msc
+policyType: modern-on-prem
+supportDates:
+  start: 12/08/2015
+releases:
+- version: Original Release
+  startDate: 12/08/2015
+content: "\n## <a name=\"links\"></a>Saites \n* [Atbalsts System Center Endpoint Protection versijām (iepriekš dēvēts par konfigurācijas pārvaldnieka pašreizējo filiāli)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
