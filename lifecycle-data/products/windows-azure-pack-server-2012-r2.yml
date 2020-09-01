@@ -2,13 +2,14 @@
 metadata:
   title: Windows Azure pakotne (Server 2012 R2)
   description: Windows Azure pakotne (Server 2012 R2) ievēro komponentu dzīves cikla politiku.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: e5e578924beb6eada37c05ac523dbcdf48445841
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: on Windows Server 2012 R2
+  ms.openlocfilehash: 70414fc5234140541a7193f29b07b4c298430272
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894078"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937011"
 name: Windows Azure pakotne (Server 2012 R2)
 summary: >+
   Windows Azure pakotne (Server 2012 R2) ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
@@ -29,4 +30,4 @@ releases:
 - version: V2 Web Sites
   startDate: 01/14/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows Azure pakotnes Web Sites V2 atbalsta dzīves cikla datumi](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Azure pakotnes sistēmai Windows Server produkta informācija](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Izdevumi \n* sistēmā Windows Server 2012 R2\n\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows Azure pakotnes Web Sites V2 atbalsta dzīves cikla datumi](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Azure pakotnes sistēmai Windows Server produkta informācija](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Izdevumi \n* sistēmā Windows Server 2012 R2\n"

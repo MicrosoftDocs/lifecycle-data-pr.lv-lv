@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
+  ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858457"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937492"
 name: Visual Studio 2012
 summary: >+
   Visual Studio 2012 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Visual Studio produkta dzīves cikls un apkope](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Community 2013\n* Express darbam tīmeklī\n* Express operētājsistēmai Windows 8\n* Express operētājsistēmas Windows darbvirsmai\n* IntelliTrace kolektors\n* Microsoft Azure rīki\n* Premium\n* Profesionālā versija\n* Attālie rīki\n* Shell (integrēta)\n* Shell (izolēta)\n* SQL Server datu rīki\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi\n\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Visual Studio produkta dzīves cikls un apkope](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Community 2013\n* Express darbam tīmeklī\n* Express operētājsistēmai Windows 8\n* Express operētājsistēmas Windows darbvirsmai\n* IntelliTrace kolektors\n* Microsoft Azure rīki\n* Premium\n* Profesionālā versija\n* Attālie rīki\n* Shell (integrēta)\n* Shell (izolēta)\n* SQL Server datu rīki\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi\n"
