@@ -2,15 +2,16 @@
 metadata:
   title: Virtuālais serveris 2005 R2
   description: Virtuālais serveris 2005 R2 seko fiksētajai dzīves cikla politikai.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "828347"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937936"
 name: Virtuālais serveris 2005 R2
-summary: "Virtuālais serveris 2005 R2 seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.\n\nTas attiecas uz šādiem izdevumiem: Enterprise, Standard\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. \n"
+summary: "Virtuālais serveris 2005 R2 seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.\n\nTas attiecas uz šādiem izdevumiem: Enterprise, standarta versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Enterprise\n* Standarta"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Standarta versija"

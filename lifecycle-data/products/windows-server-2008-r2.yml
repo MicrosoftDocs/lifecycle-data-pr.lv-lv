@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 08/27/2020
-  ms.openlocfilehash: 531fe1d11032fd9fb6ae5fa6e4db46d01b7f63e4
-  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
+  ms.date: 09/01/2020
+  keywords: Datacenter,Enterprise,HPC Edition,Itanium-Based Systems,Standard,Web
+  ms.openlocfilehash: d11313c6b34939376f603efe48a886993b46d8ef
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "922922"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939675"
 name: Windows Server 2008 R2
 summary: "Windows Server 2008 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: Datacenter, Enterprise, HPC izdevums, Itanium tipa sistēmas, standarta versija, tīmekļa versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas. \n"
 products:
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://aka.ms/AA1ovn4)\n* [Servera jaunināšanas informācija](/windows-server/upgrade/upgrade-overview)\n* [Paplašinātā drošības atjauninājuma programma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Paplašinātie drošības atjauninājumi (Extended Security Update — ESU) ir pieejami, izmantojot īpašas lielapjoma licencēšanas programmas izdevumiem Datacenter, Standard, Enterprise un Embedded vēl papildus trīs gadus pēc atbalsta beigām. Lai uzzinātu vairāk, sazinieties ar Microsoft partneri vai konta komandu. \n\nLaidiens-------------------------------Sākuma datums----Beigu datums\n\nPaplašinātā drošības atjauninājuma gads 3---01/11/2022---01/10/2023\n\nPaplašinātā drošības atjauninājuma gads 2---01/12/2021---01/11/2022\n\nPaplašinātais drošības atjauninājuma gads 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Enterprise\n* HPC izdevums\n* Itanium tipa sistēmas\n* Standarta versija\n* Tīmekļa versija\n\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://aka.ms/AA1ovn4)\n* [Servera jaunināšanas informācija](/windows-server/upgrade/upgrade-overview)\n* [Paplašinātā drošības atjauninājuma programma (ESU)](/lifecycle/faq/extended-security-updates)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Paplašinātie drošības atjauninājumi (Extended Security Update — ESU) ir pieejami, izmantojot īpašas lielapjoma licencēšanas programmas izdevumiem Datacenter, Standard, Enterprise un Embedded vēl papildus trīs gadus pēc atbalsta beigām. Lai uzzinātu vairāk, sazinieties ar Microsoft partneri vai konta komandu. \n\nLaidiens-------------------------------Sākuma datums----Beigu datums\n\nPaplašinātā drošības atjauninājuma gads 3---01/11/2022---01/10/2023\n\nPaplašinātā drošības atjauninājuma gads 2---01/12/2021---01/11/2022\n\nPaplašinātais drošības atjauninājuma gads 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Enterprise\n* HPC izdevums\n* Itanium tipa sistēmas\n* Standarta versija\n* Tīmekļa versija\n"

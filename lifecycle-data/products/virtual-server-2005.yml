@@ -2,13 +2,14 @@
 metadata:
   title: Virtuālais serveris 2005
   description: Virtuālais serveris 2005 seko fiksēto dzīves cikla politikai.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Management Pack,Standard
+  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827985"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937899"
 name: Virtuālais serveris 2005
 summary: >+
   Virtuālais serveris 2005 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Enterprise\n* Pārvaldības pakotne\n* Standarta"
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Pārvaldības pakotne\n* Standarta versija"

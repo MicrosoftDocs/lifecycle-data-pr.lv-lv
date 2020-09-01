@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 Home un Pro
   description: Windows 10 Home un Pro ievēro mūsdienīga dzīves cikla politiku.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/01/2020
+  keywords: Home,Pro,Pro for Education,Pro for Workstations,Professional
+  ms.openlocfilehash: f29020250717040eb218ffd3154c65492201e51b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879187"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938380"
 name: Windows 10 Home un Pro
 summary: >
   Windows 10 Home un Pro ievēro [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politiku.
@@ -57,4 +58,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows dzīves cikla faktu lapa](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation pirmo reizi tika laista klajā kā versija 1703\n> [!NOTE]\n> Ja vien nav iestatīts pagarinājums, turpmākie Windows 10 pusgada kanāla līdzekļu atjauninājumi var tikt instalēti pirms norādītā galvenā atbalsta beigu datuma.\n\n## <a name=\"editions\"></a>Izdevumi \n* Mājām\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Profesionālā versija\n\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows kā pakalpojums (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows dzīves cikla faktu lapa](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation pirmo reizi tika laista klajā kā versija 1703\n> [!NOTE]\n> Ja vien nav iestatīts pagarinājums, turpmākie Windows 10 pusgada kanāla līdzekļu atjauninājumi var tikt instalēti pirms norādītā galvenā atbalsta beigu datuma.\n\n## <a name=\"editions\"></a>Izdevumi \n* Mājām\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Profesionālā versija\n"

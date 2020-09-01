@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server IoT 2019
   description: Windows Server IoT 2019 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Datacenter,Essentials,Standard,Telecommunications
+  ms.openlocfilehash: c4a5890e2ad230275c41bf77dcdb77699f5b8232
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870799"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939268"
 name: Windows Server IoT 2019
 summary: >+
   Windows Server IoT 2019 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Uz visām Windows Server IoT 2019 versijām attiecas Windows Server 2019 dzīves cikls.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Standarta versija\n* Telekomunikācijas\n\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Uz visām Windows Server IoT 2019 versijām attiecas Windows Server 2019 dzīves cikls.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Standarta versija\n* Telekomunikācijas\n"
