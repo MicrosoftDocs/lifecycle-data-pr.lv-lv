@@ -2,13 +2,14 @@
 metadata:
   title: Lync 2013
   description: Lync 2013 seko fiksēto dzīves cikla politikai.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858373"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933348"
 name: Lync 2013
 summary: >+
   Lync 2013 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Skype darbam 2015 klienta laidiens ir Lync 2013 klienta atjauninājums, un tas tiks ievērots tajā pašā produkta dzīves ciklā.\nLync 2013 SDK sākuma datums ir 2013. gada 23. februārī. \n\n## <a name=\"editions\"></a>Izdevumos \n* SDK\n* Standarta"
+content: "\n\n> [!NOTE]\n> Skype darbam 2015 klienta laidiens ir Lync 2013 klienta atjauninājums, un tas tiks ievērots tajā pašā produkta dzīves ciklā.\nLync 2013 SDK sākuma datums ir 2013. gada 23. februārī. \n\n## <a name=\"editions\"></a>Izdevumi \n* SDK\n* Standarta versija"
