@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded Standard 7
   description: Windows Embedded Standard 7 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 7f5d0506d9edabddc83dea9cf2a8e7d25433dee1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "828330"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939897"
 name: Windows Embedded Standard 7
 summary: >+
   Windows Embedded Standard 7 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
@@ -39,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Saites \n* [* Pie OEM ražotājiem ir pieejami paplašināto drošības atjauninājumu programmas atjauninājumi (Extended Security Update — ESU) noteiktiem iegultajiem produktiem](/lifecycle/faq/extended-security-updates)\n* [Migrācijas vadlīnijas](https://support.microsoft.com/help/4057281)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> * Pie OEM ir pieejami paplašinātie drošības atjauninājumi (Extended Security Updates — ESU) sistēmai Windows Embedded Standard 7 līdz pat papildus trīs gadiem pēc atbalsta beigām. Lai uzzinātu vairāk, sazinieties ar Microsoft partneri vai konta komandu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Standarta versija\n\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [* Pie OEM ražotājiem ir pieejami paplašināto drošības atjauninājumu programmas atjauninājumi (Extended Security Update — ESU) noteiktiem iegultajiem produktiem](/lifecycle/faq/extended-security-updates)\n* [Migrācijas vadlīnijas](https://support.microsoft.com/help/4057281)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> * Pie OEM ir pieejami paplašinātie drošības atjauninājumi (Extended Security Updates — ESU) sistēmai Windows Embedded Standard 7 līdz pat papildus trīs gadiem pēc atbalsta beigām. Lai uzzinātu vairāk, sazinieties ar Microsoft partneri vai konta komandu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Standarta versija\n"
