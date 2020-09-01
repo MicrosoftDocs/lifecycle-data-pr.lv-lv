@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server
   description: Windows Server ievēro mūsdienīgā dzīves cikla politiku.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Datacenter,Standard
+  ms.openlocfilehash: ce5748c194d033b6c5dd88b476b07a4dfa402e09
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "870903"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939231"
 name: Windows Server
 summary: "Windows Server ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku. \n\nTas attiecas uz šādiem izdevumiem: Datacenter, standarta versija\n\n"
 products:
@@ -35,4 +36,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows Server apkopes kanāli: LTSC un SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 oktobra atjauninājums (versija 1809) tika atkārtoti laists klajā 2018. gada 13. novembrī. Attiecīgi tika koriģēti atbalsta datumi.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Standarta versija\n\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows Server apkopes kanāli: LTSC un SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 oktobra atjauninājums (versija 1809) tika atkārtoti laists klajā 2018. gada 13. novembrī. Attiecīgi tika koriģēti atbalsta datumi.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Standarta versija\n"
