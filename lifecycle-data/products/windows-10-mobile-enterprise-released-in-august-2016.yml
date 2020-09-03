@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 Mobile Enterprise, izlaists 2016. gada augustā
-  description: Windows 10 Mobile Enterprise, kas izlaists 2016. gada augustā, seko fiksēto dzīves cikla politikai.
+  description: Windows 10 Mobile Enterprise, kas tika izlaists 2016. gada augustā, ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be5f436289a8bcbb309b5b3e9eea4c43abbec7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858543"
 name: Windows 10 Mobile Enterprise, izlaists 2016. gada augustā
 summary: >
-  Windows 10 Mobile Enterprise, kas izlaists 2016. gada augustā, seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows 10 Mobile Enterprise, kas tika izlaists 2016. gada augustā, ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts.
+  > Šī produkta atbalsts ir beidzies.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/16/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par ierīču OS dzīves ciklu](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile beidzās atbalsts 2019. gada 10. decembrī](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par ierīces OS dzīves ciklu](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile atbalsts beidzās 2019. gada 10. decembrī](/lifecycle/announcements/windows-10-mobile-end-of-support)"

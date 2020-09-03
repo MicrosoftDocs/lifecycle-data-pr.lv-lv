@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 instrumentācija
-  description: Microsoft System Center 2012 organizētājs seko fiksētajai dzīves cikla politikai.
+  title: Microsoft System Center 2012 Orchestrator
+  description: Microsoft System Center 2012 Orchestrator ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858467"
-name: Microsoft System Center 2012 instrumentācija
+name: Microsoft System Center 2012 Orchestrator
 summary: >+
-  Microsoft System Center 2012 organizētājs seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft System Center 2012 Orchestrator ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Sistēmas centra dokumentācija](/system-center/#pivot=components&panel=components-all)\n* [Sistēmas centra resursi](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [System Center dokumentācija](/system-center/#pivot=components&panel=components-all)\n* [System Center resursi](https://www.microsoft.com/system-center/resources)"

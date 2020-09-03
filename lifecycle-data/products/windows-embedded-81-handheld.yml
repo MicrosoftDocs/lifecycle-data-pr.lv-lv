@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8,1 Handheld
-  description: Windows Embedded 8,1 Handheld ievēro fiksēto dzīves cikla politiku.
+  title: Windows Embedded 8.1 Handheld
+  description: Windows Embedded 8.1 Handheld ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858724"
-name: Windows Embedded 8,1 Handheld
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Windows Embedded 8,1 Handheld ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Windows Embedded 8.1 Handheld ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts. Ja jūsu organizācija joprojām uztur šīs platformas un ir papildu jautājumi, lūdzu, sazinieties ar savu konta grupu.
+  > Šī produkta atbalsts ir beidzies. Ja jūsu organizācija joprojām uztur šīs platformas un tai ir papildu jautājumi, lūdzu, sazinieties ar sava konta komandu.
 products:
 - windows
 policyType: fixed-mainstream-only

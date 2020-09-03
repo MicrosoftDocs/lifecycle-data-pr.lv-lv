@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 R2 konfigurācijas pārvaldnieks
-  description: Microsoft System Center 2012 R2 konfigurācijas pārvaldnieks ievēro fiksēto dzīves cikla politiku.
+  title: Microsoft System Center 2012 R2 Configuration Manager
+  description: Microsoft System Center 2012 R2 Configuration Manager ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858354"
-name: Microsoft System Center 2012 R2 konfigurācijas pārvaldnieks
+name: Microsoft System Center 2012 R2 Configuration Manager
 summary: >+
-  Microsoft System Center 2012 R2 konfigurācijas pārvaldnieks ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Microsoft System Center 2012 R2 Configuration Manager ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Konfigurēšanas pārvaldnieka dokumentācija](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Dokumentācija komponentam Configuration Manager](/mem/configmgr/core/misc/online-documentation)"

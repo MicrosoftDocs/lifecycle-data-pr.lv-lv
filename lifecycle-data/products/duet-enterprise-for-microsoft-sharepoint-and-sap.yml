@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Duet Enterprise for Microsoft SharePoint un SAP
-  description: Duet Enterprise for Microsoft SharePoint un SAP seko fiksētās dzīves cikla politikai.
+  title: Duet Enterprise videi Microsoft SharePoint un SAP
+  description: Duet Enterprise videi Microsoft SharePoint un SAP ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858532"
-name: Duet Enterprise for Microsoft SharePoint un SAP
+name: Duet Enterprise videi Microsoft SharePoint un SAP
 summary: >
-  Duet Enterprise for Microsoft SharePoint un SAP seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Duet Enterprise videi Microsoft SharePoint un SAP ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts. Šo produktu pārdod un atbalsta SAP.
+  > Šī produkta atbalsts ir beidzies. Šo produktu pārdod un atbalsta SAP.
 products:
 - office
 policyType: fixed
