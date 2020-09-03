@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Threat Management Gateway tīmekļa aizsardzības pakalpojumi
-  description: Microsoft Forefront Threat Management Gateway tīmekļa aizsardzības pakalpojumi ievēro fiksēto dzīves cikla politiku.
+  title: Microsoft Forefront Threat Management Gateway Web Protection Services
+  description: Microsoft Forefront Threat Management Gateway Web Protection Services ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828455"
-name: Microsoft Forefront Threat Management Gateway tīmekļa aizsardzības pakalpojumi
+name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  Microsoft Forefront Threat Management Gateway tīmekļa aizsardzības pakalpojumi ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Microsoft Forefront Threat Management Gateway Web Protection Services ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>Saites \n* [Priekšplāna ceļvedis](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Ir mainīts ceļvedis par drošības produktiem priekšplānā.Šis produkts ir izbeigts, sākot ar 31. decembri, 2015."
+content: "\n## <a name=\"links\"></a>Saites \n* [Forefront ceļvedis](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Drošības produktu ceļvedis ar Forefront zīmolu ir mainījies. Šī produkta darbība tika pārtraukta ar 2015. gada 31. decembri.\n\n\n"

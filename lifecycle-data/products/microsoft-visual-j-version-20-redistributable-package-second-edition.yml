@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# versija 2,0 izplatāms pakotnes otrais izdevums
-  description: Microsoft Visual J# versija 2,0 izplatāms pakotnes otrais izdevums seko fiksētās dzīves cikla politikai.
+  title: 'Microsoft Visual J # versijas 2.0 atkārtoti izplatāms pakotnes otrais izdevums'
+  description: 'Microsoft Visual J # versijas 2.0 atkārtoti izplatāmās pakotnes otrais izdevums ievēro fiksētā dzīves cikla politiku.'
   ms.date: 07/28/2020
   ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827995"
-name: Microsoft Visual J# versija 2,0 izplatāms pakotnes otrais izdevums
+name: 'Microsoft Visual J # versijas 2.0 atkārtoti izplatāms pakotnes otrais izdevums'
 summary: >+
-  Microsoft Visual J# versija 2,0 izplatāms pakotnes otrais izdevums seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Visual J# versijas 2.0 izplatāmās pakotnes otrais izdevums ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Visual J# atbalsta informācija](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Šī produkta atbalsts ir pārtraukts. Skatiet zemāk migrācijas norādījumus."
+content: "\n## <a name=\"links\"></a>Saites \n* [Visual J# atbalsta informācija](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Šī produkta atbalsts ir beidzies. Migrācijas norādījumus skatiet tālāk."

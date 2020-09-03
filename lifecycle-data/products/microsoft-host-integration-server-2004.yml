@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Host Integration Server 2004
-  description: Microsoft viesošanas integrācijas serveris 2004 seko fiksēto dzīves cikla politikai.
+  description: Microsoft Host Integration Server 2004 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828138"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft viesošanas integrācijas serveris 2004 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.\n\nTas attiecas uz šādiem izdevumiem: izstrādātājs, Enterprise, Standard\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. \n"
+summary: "Microsoft Host Integration Server 2004 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: Developer, Enterprise, standarta versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Attīstītājs\n* Enterprise\n* Standarta"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Developer\n* Enterprise\n* Standarta versija"
