@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync Phone Edition
-  description: Programmā Microsoft Lync Phone Edition ir ievērota fiksēto dzīves cikla politika.
+  title: Microsoft Lync izdevums Phone
+  description: Microsoft Lync izdevums Phone ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879517"
-name: Microsoft Lync Phone Edition
+name: Microsoft Lync izdevums Phone
 summary: >+
-  Programmā Microsoft Lync Phone Edition ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft Lync izdevums Phone ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Papildinformācija](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition tiek atbalstīts ar Lync Server 2010 un Lync Server 2013. Lync Phone Edition atbalsta datums ir pagarināts par 2 gadiem, lai tos līdzinātu ar Lync Server 2013 dzīves ciklu."
+content: "\n## <a name=\"links\"></a>Saites \n* [Papildinformācija](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone izdevums tiek atbalstīts ar Lync Server 2010 un Lync Server 2013. Lync Phone izdevuma atbalsta datuma termiņš ir pagarināts vēl uz diviem gadiem, lai saskaņotu ar Lync Server 2013 dzīves ciklu."

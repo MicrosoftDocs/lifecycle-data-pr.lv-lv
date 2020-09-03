@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 5
-  description: Silverlight 5 ievēro fiksēto dzīves cikla politiku.
+  description: Silverlight 5 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870850"
 name: Silverlight 5
 summary: >+
-  Silverlight 5 ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Silverlight 5 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Saites \n* [Silverlight 5 atbalstīs pārlūkprogrammas, kas uzskaitītas šeit, izmantojot 10/12/2021 vai pamata pārlūkprogrammu dzīves ciklu, atkarībā no tā, kura ir īsāka.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight atbalsta beigas](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft nodrošina vismaz 12 mēnešu paziņojumu, pirms pārtraucat atbalstu rīkiem."
+content: "\n## <a name=\"links\"></a>Saites \n* [Silverlight 5 atbalstīs šeit norādītās pārlūkprogrammas līdz 10.12.2021. vai arī visu pamatā esošo pārlūkprogrammu dzīves ciklā, atkarībā no tā, kurš no šiem termiņiem ir īsāks.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [ Silverlight atbalsta beigas ](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft vismaz 12 mēnešus pirms rīku atbalsta beigām par to paziņos.\n\n\n"

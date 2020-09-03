@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 for klientu iesaistīšanās lietojumprogrammas, versija 9.0.2 (Lokālais atjauninājums)
-  description: Dynamics 365 for klientu iesaistīšanās lietojumprogrammas, versija 9.0.2 (lokālās atjaunināšanas) atbilst fiksētās dzīves cikla politikai.
+  title: Dynamics 365 for Customer Engagement Apps, versija 9.0.2 (lokālais atjauninājums)
+  description: Dynamics 365 for Customer Engagement Apps, versija 9.0.2 (lokālais atjauninājums) ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 11e70e4e8ef3fb18ab06a385fbe4d9a434121ac6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870774"
-name: Dynamics 365 for klientu iesaistīšanās lietojumprogrammas, versija 9.0.2 (Lokālais atjauninājums)
+name: Dynamics 365 for Customer Engagement Apps, versija 9.0.2 (lokālais atjauninājums)
 summary: >+
-  Dynamics 365 for klientu iesaistīšanās lietojumprogrammas, versija 9.0.2 (lokālās atjaunināšanas) atbilst [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Dynamics 365 for Customer Engagement Apps, versija 9.0.2 (lokālais atjauninājums) ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

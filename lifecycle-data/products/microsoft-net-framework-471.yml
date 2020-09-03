@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.7.1
-  description: Microsoft .NET Framework 4.7.1 ir ievērots komponentu dzīves cikla politika.
+  description: Microsoft .NET Framework 4.7.1 ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: e57e809b4800ee789f7ae748bf0dd67d28966f91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870851"
 name: Microsoft .NET Framework 4.7.1
 summary: >+
-  Microsoft .NET Framework 4.7.1 ir ievērots [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politika.
+  Microsoft .NET Framework 4.7.1 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [.NET Framework dzīves cikla bieži uzdotie jautājumi](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework ir Windows OS komponents. Komponenti saņem tādu pašu atbalstu kā to vecākobjekts vai platforma."
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [BIEŽI UZDOTIE JAUTĀJUMI par .NET Framework dzīves ciklu](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework ir operētājsistēmas Windows komponents. Komponenti saņem to pašu atbalstu, ko pamata produkts vai platforma."

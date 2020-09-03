@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: System Center Virtual Machine Manager pusgada kanāls
-  description: System Center Virtual Machine Manager pusgada kanāls ir ievērots mūsdienīgajā dzīves cikla politikā.
+  description: System Center Virtual Machine Manager pusgada kanāls ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870878"
 name: System Center Virtual Machine Manager pusgada kanāls
 summary: >
-  System Center Virtual Machine Manager pusgada kanāls ir ievērots [mūsdienīgajā](/lifecycle/policies/modern) dzīves cikla politikā.
+  Sistēmas System Center Virtual Machine Manager pusgada kanāls ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk.
+  > Atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas.
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"
