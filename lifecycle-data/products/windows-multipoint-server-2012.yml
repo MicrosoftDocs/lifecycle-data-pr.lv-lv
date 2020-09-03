@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows punktu serveris 2012
-  description: Windows vairākos punktos Server 2012 seko fiksētā dzīves cikla politika.
+  title: Windows MultiPoint Server 2012
+  description: Windows MultiPoint Server 2012 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 680c62e4b7aa1f0393f32386deb68f9c976b7c9b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858490"
-name: Windows punktu serveris 2012
+name: Windows MultiPoint Server 2012
 summary: >+
-  Windows vairākos punktos Server 2012 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politika.
+  Windows MultiPoint Server 2012 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Premium, Standard
+  Tas attiecas uz šādiem izdevumiem: Premium, standarta versija
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Šī produkta pamata un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientus ar standarta dzīves cikla pārejas laika skalu.\n\n## <a name=\"editions\"></a>Izdevumos \n* Premium\n* Standarta"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku.\n\n## <a name=\"editions\"></a>Izdevumi \n* Premium\n* Standarta versija"

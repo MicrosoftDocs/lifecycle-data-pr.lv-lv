@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure virtuālā mašīna (klasiskais) (pirms publicēšanas pārliecinieties, vai Azure-bez galapunkta datuma režģa)
-  description: Microsoft Azure Virtual Machine (Classic) (pirms publicēšanas pārliecinieties, ka Azure-bez derīguma datuma režģa) tiek ievērota mūsdienīga dzīves cikla politika.
+  title: Microsoft Azure virtuālā mašīna (klasiskā versija) (pirms publicēšanas apstipriniet ar Azure - datumu režģī nav beigu datuma)
+  description: Microsoft Azure virtuālā mašīna (klasiskā versija) (pirms publicēšanas apstipriniet ar Azure - datumu režģī nav beigu datuma) ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858582"
-name: Microsoft Azure virtuālā mašīna (klasiskais) (pirms publicēšanas pārliecinieties, vai Azure-bez galapunkta datuma režģa)
+name: Microsoft Azure virtuālā mašīna (klasiskā versija) (pirms publicēšanas apstipriniet ar Azure - datumu režģī nav beigu datuma)
 summary: >+
-  Microsoft Azure Virtual Machine (Classic) (pirms publicēšanas pārliecinieties, ka Azure-bez derīguma datuma režģa) tiek ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  Microsoft Azure virtuālā mašīna (klasiskā versija) (pirms publicēšanas apstipriniet ar Azure - datumu režģī nav beigu datuma) ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 06/07/2012
   endDate: 03/01/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/azure/virtual-machines/classic-vm-deprecation)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/azure/virtual-machines/classic-vm-deprecation)"

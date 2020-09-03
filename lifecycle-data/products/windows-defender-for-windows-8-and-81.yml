@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Defender darbam ar Windows 8 un 8,1
-  description: Operētājsistēmā Windows 8 un 8,1 ir ievērota komponentu dzīves cikla politika.
+  title: Windows Defender operētājsistēmām Windows 8 un 8.1
+  description: Windows Defender operētājsistēmām Windows 8 un 8.1 ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858285"
-name: Windows Defender darbam ar Windows 8 un 8,1
+name: Windows Defender operētājsistēmām Windows 8 un 8.1
 summary: >+
-  Operētājsistēmā Windows 8 un 8,1 ir ievērota [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politika.
+  Windows Defender operētājsistēmām Windows 8 un 8.1 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: For Windows 8
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> Šis laidiens ir zināms kā komponents, kas seko tā pirmavota produkta dzīves ciklam."
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> Šis laidiens ir zināms kā komponents, kas ievēro tā pamatprodukta dzīves ciklu."

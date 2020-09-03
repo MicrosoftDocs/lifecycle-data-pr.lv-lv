@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Phone 7,8
-  description: Windows Phone 7,8 seko fiksētai dzīves cikla politikai.
+  title: Windows Phone 7.8
+  description: Windows Phone 7.8 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858718"
-name: Windows Phone 7,8
+name: Windows Phone 7.8
 summary: >
-  Windows Phone 7,8 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Phone 7.8 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts.
+  > Šī produkta atbalsts ir beidzies.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft nodrošinās atjauninājumus, kas pieejami jūsu tālruņa operētājsistēmai, ieskaitot drošības atjauninājumus, 18 mēnešus pēc dzīves cikla sākuma datuma. Atjauninājumu sadali, iespējams, kontrolē mobilo sakaru operators vai tālruņa ražotājs, no kura iegādājāties tālruni. Atjaunināšanas pieejamība arī būs atšķirīga atkarībā no valsts, reģiona un aparatūras iespējām."
+content: "\n\n> [!NOTE]\n> Microsoft darīs pieejamus jūsu tālruņa operētājsistēmas atjauninājumus, tostarp drošības atjauninājumus, 18 mēnešus pēc dzīves cikla sākuma datuma. Atjauninājumu izplatīšanu var kontrolēt mobilo sakaru operators vai tālruņa ražotājs, no kura iegādājāties tālruni. Atjauninājumu pieejamība būs atkarīga arī no valsts, reģiona un aparatūras iespējām."
