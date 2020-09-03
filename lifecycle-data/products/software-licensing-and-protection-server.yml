@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Programmatūras licencēšanas un aizsardzības serveris
-  description: Programmatūras licencēšanas un aizsardzības serveris ievēro fiksēto dzīves cikla politiku.
+  description: Programmatūras licencēšanas un aizsardzības serveris ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827846"
 name: Programmatūras licencēšanas un aizsardzības serveris
 summary: >
-  Programmatūras licencēšanas un aizsardzības serveris ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Programmatūras licencēšanas un aizsardzības serveris ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Enterprise, Standard
+  Tas attiecas uz šādiem izdevumiem: Enterprise, standarta versija
 
 
   > [!IMPORTANT]
 
-  > Programmatūras licencēšanas un aizsardzības servera (SLPS) nodalīšanas dēļ Microsoft atbalstīja SLPS līdz 24. septembrim, 2009.
+  > Sakarā ar programmatūras licencēšanas un aizsardzības servera (SLPS) nodalīšanu Microsoft atbalstīja SLPS līdz 2009. gada 24. septembrim.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Saites \n* [Programmatūras licencēšanas un aizsardzības serveris (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Enterprise\n* Standarta"
+content: "\n## <a name=\"links\"></a>Saites \n* [Programmatūras licencēšanas un aizsardzības serveris (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Standarta versija"

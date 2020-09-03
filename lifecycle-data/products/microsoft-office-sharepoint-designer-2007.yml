@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office SharePoint Designer 2007
-  description: Programmā Microsoft Office SharePoint Designer 2007 ir ievērota fiksēto dzīves cikla politika.
+  description: Microsoft Office SharePoint Designer 2007 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0224051cc3edc793e7c87b5c5cefdc0f9f95153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828433"
 name: Microsoft Office SharePoint Designer 2007
 summary: >+
-  Programmā Microsoft Office SharePoint Designer 2007 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft Office SharePoint Designer 2007 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/office/troubleshoot/support/office-2007-not-support)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/office/troubleshoot/support/office-2007-not-support)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Operations Manager (MOM) 2005
-  description: Microsoft Operations Manager (MOM) 2005 seko fiksēto dzīves cikla politikai.
+  description: Microsoft Operations Manager (MOM) 2005 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827863"
 name: Microsoft Operations Manager (MOM) 2005
 summary: >
-  Microsoft Operations Manager (MOM) 2005 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Operations Manager (MOM) 2005 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: darbgrupa
+  Tas attiecas uz šādiem izdevumiem: darba grupas versija
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts.
+  > Šī produkta atbalsts ir beidzies.
 products:
 - msc
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Darbību pārvaldnieks](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Darbgrupas\n\nAtslēgvārdi: mamma"
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Darbgrupa\n\natslēgvārdi:  MOM"

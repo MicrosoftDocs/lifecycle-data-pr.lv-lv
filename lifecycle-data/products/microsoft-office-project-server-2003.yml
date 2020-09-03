@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Project Server 2003
-  description: Microsoft Office Project Server 2003 seko fiksēto dzīves cikla politikai.
+  description: Microsoft Office Project Server 2003 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: f3cdcd67ab11f44ba8ae5e4b54165274e1016016
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828439"
 name: Microsoft Office Project Server 2003
 summary: >+
-  Microsoft Office Project Server 2003 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Office Project Server 2003 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

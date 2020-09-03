@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Communicator Phone Edition
-  description: Microsoft Office Communicator Phone Edition ir ievērota fiksēto dzīves cikla politika.
+  title: Microsoft Office Communicator izdevums Phone
+  description: Microsoft Office Communicator izdevums Phone ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828802"
-name: Microsoft Office Communicator Phone Edition
+name: Microsoft Office Communicator izdevums Phone
 summary: >+
-  Microsoft Office Communicator Phone Edition ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft Office Communicator izdevums Phone ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: tālrunis
+  Tas attiecas uz šādiem izdevumiem: Phone
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Izdevumos \n* Tālruņa"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Phone"
