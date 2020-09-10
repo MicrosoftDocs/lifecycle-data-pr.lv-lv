@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen ievēro fiksētā dzīves cikla politiku.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
+  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "828538"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001989"
 name: Microsoft Antigen
 summary: >+
   Microsoft Antigen ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/17/2006
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Drošības produktu ceļvedis ar Forefront zīmolu ir mainījies. Šī produkta darbība tika pārtraukta ar 2015. gada 31. decembri.\n\n## <a name=\"editions\"></a>Izdevumi \n* 9.0 programmatūrai Exchange\n* Enterprise Manager 9.0\n* SMTP vārtejām\n* Spam Manager\n\n"
+content: "\n\n> [!NOTE]\n> Drošības produktu ceļvedis ar Forefront zīmolu ir mainījies. Šī produkta darbība tika pārtraukta ar 2015. gada 31. decembri.\n\n## <a name=\"editions\"></a>Izdevumi \n* 9.0 programmatūrai Exchange\n* Enterprise Manager 9.0\n* SMTP vārtejām\n* Spam Manager\n"
