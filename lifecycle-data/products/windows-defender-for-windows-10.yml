@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Defender darbam ar Windows 10
-  description: Windows Defender darbam ar Windows 10 ir ievērota komponentu dzīves cikla politika.
+  title: Windows Defender operētājsistēmai Windows 10
+  description: Windows Defender operētājsistēmai Windows 10 ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828344"
-name: Windows Defender darbam ar Windows 10
+name: Windows Defender operētājsistēmai Windows 10
 summary: >+
-  Windows Defender darbam ar Windows 10 ir ievērota [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politika.
+  Windows Defender operētājsistēmai Windows 10 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Šis laidiens ir zināms kā komponents, kas seko tā vecākā produkta dzīves ciklam (Windows 10)."
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Šis laidiens ir zināms kā komponents, kas ievēro tā vecākprodukta Windows 10 dzīves ciklu."

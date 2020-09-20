@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Hyper-V Server 2008 R2
-  description: Hyper-V Server 2008 R2 ir ievērota fiksēto dzīves cikla politika.
+  description: Hyper-V Server 2008 R2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828561"
 name: Hyper-V Server 2008 R2
-summary: "Hyper-V Server 2008 R2 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.\n\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. Skatīt migrācijas norādījumus zemāk. \n"
+summary: "Hyper-V Server 2008 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/windows-server/get-started/modernize-windows-server-2008)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows-server/get-started/modernize-windows-server-2008)"
