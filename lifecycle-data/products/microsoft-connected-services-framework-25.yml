@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft pievienotās pakalpojumu struktūras 2,5
-  description: Microsoft Connected Services Framework 2,5 seko fiksēto dzīves cikla politikai.
+  title: Microsoft Connected Services Framework 2.5
+  description: Microsoft Connected Services Framework 2.5 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
   ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934125"
-name: Microsoft pievienotās pakalpojumu struktūras 2,5
+name: Microsoft Connected Services Framework 2.5
 summary: >+
-  Microsoft Connected Services Framework 2,5 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Connected Services Framework 2.5 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: pasūtījumu apstrādes standarta biznesa pasākuma 2,5, serveris, pakalpojumu sniedzējs
+  Tas attiecas uz šādiem izdevumiem: Order Handling Standard Business Event 2.5, Server, Service Provider
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Pasūtījuma apstrādes standarta darba pasākuma 2,5\n* Server\n* Pakalpojumu sniedzējs"
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Order Handling Standard Business Event 2.5\n* Server\n* Service Provider"

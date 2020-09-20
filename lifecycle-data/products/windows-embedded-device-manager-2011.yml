@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded Device Manager 2011
-  description: Windows Embedded Device Manager 2011 seko fiksētā dzīves cikla politika.
+  description: Windows Embedded Device Manager 2011 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939934"
 name: Windows Embedded Device Manager 2011
 summary: >
-  Windows Embedded Device Manager 2011 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politika.
+  Windows Embedded Device Manager 2011 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: klients, SDK, Server
+  Tas attiecas uz šādiem izdevumiem: Client, SDK, Server
 
 
   > [!IMPORTANT]

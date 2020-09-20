@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows krātuves serveris 2003 R2
-  description: Windows krātuves serveris 2003 R2 seko fiksētajai dzīves cikla politikai.
+  title: Windows Storage Server 2003 R2
+  description: Windows Storage Server 2003 R2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
   ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940892"
-name: Windows krātuves serveris 2003 R2
-summary: "Windows krātuves serveris 2003 R2 seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.\n\nTas attiecas uz šādiem izdevumiem: Standarta versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies.\nŠis produkts ir piegādāts kopā ar Windows Server 2003 1. servisa pakotni. \n"
+name: Windows Storage Server 2003 R2
+summary: "Windows Storage Server 2003 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: standarta versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies.\nŠis produkts tika piegādāts kopā ar Windows Server 2003 1. servisa pakotni. \n"
 products:
 - windows
 policyType: fixed

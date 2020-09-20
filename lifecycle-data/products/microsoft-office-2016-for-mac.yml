@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2016 darbam ar Mac
-  description: Microsoft Office 2016 for Mac izmanto fiksēto dzīves cikla politiku.
+  title: Microsoft Office 2016 for Mac
+  description: Microsoft Office 2016 for Mac ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Standard
   ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936308"
-name: Microsoft Office 2016 darbam ar Mac
+name: Microsoft Office 2016 for Mac
 summary: >+
-  Microsoft Office 2016 for Mac izmanto [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Microsoft Office 2016 for Mac ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Sākums un darbs, skolēniem un mājas lietošanai, standarta
+  Tas attiecas uz šādiem izdevumiem: skolēniem un mājas lietošanai, standarta versija
 
 products:
 - office

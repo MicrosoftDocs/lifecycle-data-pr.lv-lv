@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Enterprise datora virtualizācijas 2,0
-  description: Microsoft Enterprise datora virtualizācijas 2,0 seko fiksēto dzīves cikla politikai.
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization  2.0 ievēro fiksēto dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933903"
-name: Microsoft Enterprise datora virtualizācijas 2,0
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  Microsoft Enterprise datora virtualizācijas 2,0 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Enterprise Desktop Virtualization 2.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Enterprise
