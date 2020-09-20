@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Mākoņa platformas sistēma
-  description: Mākoņa platformas sistēma ievēro fiksēto dzīves cikla politiku.
+  title: Cloud Platform System
+  description: Cloud Platform System ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932053"
-name: Mākoņa platformas sistēma
+name: Cloud Platform System
 summary: >+
-  Mākoņa platformas sistēma ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Cloud Platform System ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Standarta versija
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Mākoņa platformas sistēmas atbalsts tiek pagarināts, kā parādīts, lai nodrošinātu visiem klientiem standarta dzīves cikla pārejas laika skalu.\n> [!NOTE]\n> Mākoņa platformas sistēmas standarts, kas izlaists 2017. gada 18. septembrī.\n\n## <a name=\"editions\"></a>Izdevumi \n* Standarta versija"
+content: "\n\n> [!NOTE]\n> Cloud Platform System atbalsts tiek paplašināts, kā parādīts, lai visiem klientiem nodrošinātu pārejas grafiku uz standarta dzīves ciklu.\n> [!NOTE]\n> Cloud Platform System Standard laists klajā 2017. gada 18. septembrī.\n\n## <a name=\"editions\"></a>Izdevumi \n* Standarta versija"

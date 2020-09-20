@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 4. izteiksme
-  description: Izteiksmē 4 ir ievērota fiksēto dzīves cikla politika.
+  title: Expression 4
+  description: Expression 4 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930869"
-name: 4. izteiksme
+name: Expression 4
 summary: >+
-  Izteiksmē 4 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Expression 4 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Noformējums, kodētājs, Studio Ultimate, Web
+  Tas attiecas uz šādiem izdevumiem: Design, Encoder, Studio Ultimate, tīmekļa versija
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Programmas Expression Studio Ultimate 4 galvenā atbalsta beigas ir 2015. gada 13. oktobris.\n\n## <a name=\"editions\"></a>Izdevumi \n* Noformējums\n* Encoder\n* Studio Ultimate\n* Tīmekļa versija"
+content: "\n\n> [!NOTE]\n> Expression Studio Ultimate 4 galvenā atbalsta beigas ir 2015. gada 13. oktobris.\n\n## <a name=\"editions\"></a>Izdevumi \n* Design\n* Encoder\n* Studio Ultimate\n* Tīmekļa versija"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2016
-  description: Microsoft Office 2016 seko fiksēto dzīves cikla politikai.
+  description: Microsoft Office 2016 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
   ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930499"
 name: Microsoft Office 2016
 summary: >+
-  Microsoft Office 2016 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Office 2016 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Home and Business, Home and Student, Personal, Professional, Professional Plus, Standard
+  Tas attiecas uz šādiem izdevumiem: Home and Business, skolēniem un mājas lietošanai, Personal, Professional, Professional Plus, standarta versija
 
 products:
 - office

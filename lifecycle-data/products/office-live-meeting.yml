@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office Live sapulce
-  description: Office Live Meeting ievēro mūsdienīgo dzīves cikla politiku.
+  title: Office Live Meeting
+  description: Office Live Meeting ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928908"
-name: Office Live sapulce
-summary: "Office Live Meeting ievēro [mūsdienīgo](/lifecycle/policies/modern) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: Standarta versija\n\n> [!IMPORTANT]\n> Šī pakalpojuma atbalsts ir pārtraukts. Skatiet tālāk sniegtās migrācijas vadlīnijas. \n"
+name: Office Live Meeting
+summary: "Office Live Meeting ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: Standarta versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas. \n"
 products:
 - office
 policyType: modern-online

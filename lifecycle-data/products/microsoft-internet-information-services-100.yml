@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Internet Information Services 10,0
-  description: Microsoft Internet Information Services 10,0 seko komponentu dzīves cikla politikai.
+  title: Microsoft Internet Information Services 10.0
+  description: Microsoft Internet Information Services 10.0 ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858382"
-name: Microsoft Internet Information Services 10,0
+name: Microsoft Internet Information Services 10.0
 summary: >+
-  Microsoft Internet Information Services 10,0 seko [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politikai.
+  Microsoft Internet Information Services 10.0 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> Šis laidiens ir zināms kā komponents, kas seko tā vecākobjekta galvenā produkta atbalsta dzīves ciklam, Windows Server 2016."
+content: "\n\n> [!NOTE]\n> Šis laidiens ir zināms kā komponents, kas ievēro tā galvenā vecākprodukta Windows Server 2016 atbalsta dzīves ciklu."

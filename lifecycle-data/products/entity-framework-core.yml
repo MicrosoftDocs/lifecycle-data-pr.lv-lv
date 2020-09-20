@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Entītijas pamatprincipi
-  description: Pamatelementa pamatprincipi ir ievērota mūsdienīgajā dzīves cikla politikā.
+  title: Entity Framework Core
+  description: Entity Framework Core ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858591"
-name: Entītijas pamatprincipi
+name: Entity Framework Core
 summary: >+
-  Pamatelementa pamatprincipi ir ievērota [mūsdienīgajā](/lifecycle/policies/modern) dzīves cikla politikā.
+  Entity Framework Core ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi — .NET Core](/lifecycle/faq/dotnet-core)\n* [Informācija par apkopi](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET ceļvedis](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - .NET Core](/lifecycle/faq/dotnet-core)\n* [Apkalpošanas informācija](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET ceļvedis](https://github.com/dotnet/core/blob/master/roadmap.md)"

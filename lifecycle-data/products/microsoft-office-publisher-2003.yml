@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: Programmā Microsoft Office Publisher 2003 ir ievērota fiksēto dzīves cikla politika.
+  description: Microsoft Office Publisher 2003 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930351"
 name: Microsoft Office Publisher 2003
 summary: >+
-  Programmā Microsoft Office Publisher 2003 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft Office Publisher 2003 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: standarta, ar digitālo attēlveidošanu
+  Tas attiecas uz šādiem izdevumiem: standarta versija, ar digitālo attēlveidošanu
 
 products:
 - office

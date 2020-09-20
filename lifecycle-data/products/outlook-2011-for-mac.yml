@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Outlook 2011 darbam ar Mac
-  description: Programmā Outlook 2011 darbam ar Mac tiek ievērota fiksēto dzīves cikla politika.
+  title: Outlook 2011 for Mac
+  description: Outlook 2011 darbam ar Mac ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61a62fb9ad78ceb10de85cd875d2435072b9c770
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858315"
-name: Outlook 2011 darbam ar Mac
-summary: "Programmā Outlook 2011 darbam ar Mac tiek ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.\n\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. \n"
+name: Outlook 2011 for Mac
+summary: "Outlook 2011 darbam ar Mac ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Microsoft Office darbam ar Mac 2011 pamata atbalsts tika pagarināts, kā parādīts, lai nodrošinātu visiem klientiem standarta dzīves cikla pārejas laika grafiku"
+content: "\n\n> [!NOTE]\n> Tika paplašināts Microsoft Office for Mac 2011 atbalsts, kā parādīts, lai nodrošinātu visiem klientiem pārejas laika grafiku uz standarta dzīves ciklu"
