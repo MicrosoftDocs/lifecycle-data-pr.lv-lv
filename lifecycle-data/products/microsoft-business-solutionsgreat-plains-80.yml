@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions-Great Plains 8,0
-  description: Microsoft Business Solutions-Great Plains 8,0 seko fiksēto dzīves cikla politikai.
+  title: Microsoft Business Solution--Great Plains 8.0
+  description: Microsoft Business Solution--Great Plains 8.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934680"
-name: Microsoft Business Solutions-Great Plains 8,0
+name: Microsoft Business Solution--Great Plains 8.0
 summary: >
-  Microsoft Business Solutions-Great Plains 8,0 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Business Solution--Great Plains 8.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Standarta versija
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts 13. oktobrī, 2009
+  > Šī produkta atbalsts ir beidzies 2009. gada 13. oktobrī.
 products:
 - dynamics
 policyType: fixed-mainstream-only

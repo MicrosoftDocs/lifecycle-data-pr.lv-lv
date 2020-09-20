@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2019
-  description: SQL Server 2019 seko fiksētai dzīves cikla politikai.
+  description: SQL Server 2019 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: on Linux (all editions),on Windows (all editions)
   ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937973"
 name: SQL Server 2019
 summary: >+
-  SQL Server 2019 seko [fiksētai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  SQL Server 2019 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: operētājsistēmā Linux (visi izdevumi) Windows (visi izdevumi)
+  Tas attiecas uz šādiem izdevumiem: Linux (visi izdevumi), Windows (visi izdevumi)
 
 products:
 - sql-server
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2019
   endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* operētājsistēmā Linux (visi izdevumi)\n* operētājsistēmā Windows (visi izdevumi)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* sistēmā Linux (visi izdevumi)\n* sistēmā Windows (visi izdevumi)"

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Server 2013
-  description: SharePoint Server 2013 seko fiksēto dzīves cikla politikai.
+  description: SharePoint Server 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: ccd15eb6ef3e1766b31cadaa08b558c6071fddf9
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941604"
 name: SharePoint Server 2013
 summary: >+
-  SharePoint Server 2013 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  SharePoint Server 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Apkalpošanas informācija](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Skatiet rakstu [produkta](https://docs.microsoft.com/sharepoint/sharepoint-server) un [izstrādātāja](https://developer.microsoft.com/sharepoint/docs) dokumentācija."
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Apkalpošanas informācija](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Skatiet [produkta](https://docs.microsoft.com/sharepoint/sharepoint-server) un [izstrādātāja](https://developer.microsoft.com/sharepoint/docs) dokumentāciju."

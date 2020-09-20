@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: Lync 2013 seko fiksēto dzīves cikla politikai.
+  description: Lync 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933348"
 name: Lync 2013
 summary: >+
-  Lync 2013 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Lync 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: SDK, Standard
+  Tas attiecas uz šādiem izdevumiem: SDK, standarta versija
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Skype darbam 2015 klienta laidiens ir Lync 2013 klienta atjauninājums, un tas tiks ievērots tajā pašā produkta dzīves ciklā.\nLync 2013 SDK sākuma datums ir 2013. gada 23. februārī. \n\n## <a name=\"editions\"></a>Izdevumi \n* SDK\n* Standarta versija"
+content: "\n\n> [!NOTE]\n> Skype darbam 2015 klienta laidiens ir Lync 2013 klienta atjauninājums, un tas ievēros to pašu produkta dzīves ciklu.\nLync 2013 SDK darbības sākuma datums ir 2013. gada 23. februāris. \n\n## <a name=\"editions\"></a>Izdevumi \n* SDK\n* Standarta versija"

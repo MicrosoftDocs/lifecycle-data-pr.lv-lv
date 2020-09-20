@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator for RosettaNet 3,0
-  description: Microsoft BizTalk Accelerator for RosettaNet 3,0 seko fiksēto dzīves cikla politikai.
+  title: Microsoft BizTalk Accelerator for RosettaNet 3.0
+  description: Microsoft BizTalk Accelerator for RosettaNet 3.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934828"
-name: Microsoft BizTalk Accelerator for RosettaNet 3,0
+name: Microsoft BizTalk Accelerator for RosettaNet 3.0
 summary: >+
-  Microsoft BizTalk Accelerator for RosettaNet 3,0 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft BizTalk Accelerator for RosettaNet 3.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Enterprise, standarta versija
