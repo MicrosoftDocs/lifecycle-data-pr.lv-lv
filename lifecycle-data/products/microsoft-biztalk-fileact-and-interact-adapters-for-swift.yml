@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk FileAct un mijiedarbība adapteru for SWIFT
-  description: Microsoft BizTalk FileAct un darbojas ar adapteri SWIFT, kas seko fiksētajai dzīves cikla politikai.
+  title: SWIFT paredzētie Microsoft BizTalk FileAct un InterAct adapteri
+  description: SWIFT paredzētie Microsoft BizTalk FileAct un InterAct adapteri ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828509"
-name: Microsoft BizTalk FileAct un mijiedarbība adapteru for SWIFT
+name: SWIFT paredzētie Microsoft BizTalk FileAct un InterAct adapteri
 summary: >+
-  Microsoft BizTalk FileAct un darbojas ar adapteri SWIFT, kas seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  SWIFT paredzētie Microsoft BizTalk FileAct un InterAct adapteri ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

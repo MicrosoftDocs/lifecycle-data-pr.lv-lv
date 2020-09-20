@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync for Mac 2011
-  description: Microsoft Lync for Mac 2011 seko fiksēto dzīves cikla politikai.
+  title: Microsoft Lync darbam ar Mac 2011
+  description: Microsoft Lync darbam ar Mac 2011 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827881"
-name: Microsoft Lync for Mac 2011
+name: Microsoft Lync darbam ar Mac 2011
 summary: >+
-  Microsoft Lync for Mac 2011 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Lync darbam ar Mac 2011 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Saites \n* [Skype darbam Mac datorā](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Microsoft Lync for Mac 2011 atbalsts tiek pagarināts, kā parādīts, lai nodrošinātu visiem klientiem ar dzīves cikla pārejas laika grafiku uz Skype darbam Mac datorā."
+content: "\n## <a name=\"links\"></a>Saites \n* [Skype darbam Mac datorā](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Tiek pagarināts Microsoft Lync darbam ar Mac 2011 atbalsts, kā parādīts, lai visiem klientiem nodrošinātu dzīves cikla pārejas grafiku uz Skype darbam Mac datorā."

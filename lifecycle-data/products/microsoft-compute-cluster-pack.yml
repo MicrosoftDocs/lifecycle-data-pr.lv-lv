@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Compute Cluster Pack
-  description: Microsoft Compute Cluster Pack ievēro fiksēto dzīves cikla politiku.
+  description: Microsoft Compute Cluster Pack ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828483"
 name: Microsoft Compute Cluster Pack
 summary: >
-  Microsoft Compute Cluster Pack ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Microsoft Compute Cluster Pack ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts.
+  > Šī produkta atbalsts ir beidzies.
 products:
 - windows
 policyType: fixed

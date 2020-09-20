@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft BizTalk adapteri resursdatoru sistēmām
-  description: Microsoft BizTalk adapteri resursdatoru sistēmām atbilst fiksētās dzīves cikla politikai.
+  description: Microsoft BizTalk adapteri resursdatoru sistēmām ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828512"
 name: Microsoft BizTalk adapteri resursdatoru sistēmām
 summary: >+
-  Microsoft BizTalk adapteri resursdatoru sistēmām atbilst [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft BizTalk adapteri resursdatoru sistēmām ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)"
