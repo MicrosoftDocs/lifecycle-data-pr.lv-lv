@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics SL 6,5
-  description: Dynamics SL 6,5 seko fiksētajai dzīves cikla politikai.
+  title: Dynamics SL 6.5
+  description: Dynamics SL 6.5 ievēro fiksētā dzīves cikla politiku.
   ms.date: 08/13/2020
   ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
   ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894841"
-name: Dynamics SL 6,5
+name: Dynamics SL 6.5
 summary: >+
-  Dynamics SL 6,5 seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Dynamics SL 6.5 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

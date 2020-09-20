@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2. izteiksme
-  description: Izteiksmē 2 ir ievērota fiksēto dzīves cikla politika.
+  title: Expression 2
+  description: Expression 2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
   ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930832"
-name: 2. izteiksme
-summary: "Izteiksmē 2 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.\n\nTas attiecas uz šādiem izdevumiem: maisījums, noformējums, kodētājs, studija, tīmeklis\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir pārtraukts. \n"
+name: Expression 2
+summary: "Expression 2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: Blend, Design, Encoder, Studio, tīmekļa versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. \n"
 products:
 - expression
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Iegūt šādi\n* Noformējums\n* Encoder\n* Studio\n* Tīmekļa versija"
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Blend\n* Design\n* Encoder\n* Studio\n* Tīmekļa versija"

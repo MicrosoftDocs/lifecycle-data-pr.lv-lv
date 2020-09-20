@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2013
-  description: Exchange Server 2013 seko fiksēta dzīves cikla politika.
+  description: Exchange Server 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931313"
 name: Exchange Server 2013
 summary: >+
-  Exchange Server 2013 seko [Fiksēta](/lifecycle/policies/fixed) dzīves cikla politika.
+  Exchange Server 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Enterprise, standarta versija

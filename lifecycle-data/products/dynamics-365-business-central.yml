@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 Business Central
-  description: Dynamics 365 Business Central ir ievērota mūsdienīga dzīves cikla politika.
+  description: Dynamics 365 Business Central ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858531"
 name: Dynamics 365 Business Central
 summary: >+
-  Dynamics 365 Business Central ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  Dynamics 365 Business Central ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Microsoft Dynamics 365 ceļvedis](https://aka.ms/businessappsreleasenotes)\n* [Informācija par apkopi](/dynamics365/business-central/dev-itpro/faq)\n* [Sistēmas prasības](/dynamics365/business-central/product-requirements)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Microsoft Dynamics 365 ceļvedis](https://aka.ms/businessappsreleasenotes)\n* [Apkalpošanas informācija](/dynamics365/business-central/dev-itpro/faq)\n* [Sistēmas prasības](/dynamics365/business-central/product-requirements)"

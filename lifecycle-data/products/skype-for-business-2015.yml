@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Skype darbam 2015
-  description: Skype darbam 2015 seko fiksēto dzīves cikla politikai.
+  description: Skype darbam 2015 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858645"
 name: Skype darbam 2015
 summary: >+
-  Skype darbam 2015 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Skype darbam 2015 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Klients: Skype darbam 2015 klienta laidiens ir Lync 2013 klienta atjauninājums, un tas tiks ievērots tajā pašā produkta dzīves ciklā."
+content: "\n\n> [!NOTE]\n> Klients: Skype darbam 2015 klienta laidiens ir Lync 2013 klienta atjauninājums, un tas ievēros to pašu produkta dzīves ciklu."
