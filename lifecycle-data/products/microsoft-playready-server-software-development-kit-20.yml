@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft PlayReady servera programmatūras izstrādes komplekts 2,0
-  description: Microsoft PlayReady servera programmatūras izstrādes komplekta 2,0 seko fiksētā dzīves cikla politika.
+  title: Microsoft PlayReady Server Software Development Kit 2.0
+  description: Microsoft PlayReady Server Software Development Kit 2.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 08/21/2020
   ms.openlocfilehash: 61635292b88f853a5daeda3ffcc766a1786e42cd
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908066"
-name: Microsoft PlayReady servera programmatūras izstrādes komplekts 2,0
+name: Microsoft PlayReady Server Software Development Kit 2.0
 summary: >+
-  Microsoft PlayReady servera programmatūras izstrādes komplekta 2,0 seko [fiksētā](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft PlayReady Server Software Development Kit 2.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

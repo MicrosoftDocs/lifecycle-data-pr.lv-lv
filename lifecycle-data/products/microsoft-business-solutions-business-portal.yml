@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions uzņēmumu portāls
-  description: Microsoft Business Solutions darba portālā ir ievērota fiksēto dzīves cikla politika.
+  title: Microsoft Business Solutions biznesa portāls
+  description: Microsoft Business Solutions biznesa portāls ievēro fiksētā dzīves cikla politiku.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904308"
-name: Microsoft Business Solutions uzņēmumu portāls
+name: Microsoft Business Solutions biznesa portāls
 summary: >+
-  Microsoft Business Solutions darba portālā ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Microsoft Business Solutions biznesa portāls ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2,5 tika atbalstīts tikai ar lieliskiem līdzenumiem 8,0 vai Solomon 6,0."
+content: "\n\n> [!NOTE]\n> Microsoft Business Solutions Business Portal 2.5 tika atbalstīts tikai tad, ja tas tika izmantots kopā ar Great Plains 8.0 vai Solomon 6.0."

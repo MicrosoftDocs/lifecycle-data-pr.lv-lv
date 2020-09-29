@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Edge Legacy
-  description: Microsoft Edge Legacy ievēro komponentu dzīves cikla politiku.
+  title: Microsoft Edge mantotā versija
+  description: Microsoft Edge mantotā versija ievēro komponentu dzīves cikla politiku.
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908819"
-name: Microsoft Edge Legacy
+name: Microsoft Edge mantotā versija
 summary: >
-  Microsoft Edge Legacy ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
+  Microsoft Edge mantotā versija ievēro [fiksētā](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Lūdzu, ņemiet vērā, ka šī produkta atbalsts beidzas 2021. gada 9. martā. Dodieties [šeit](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) , lai iegūtu papildinformāciju.
+  > Lūdzu, ņemiet vērā, ka šī produkta atbalsts beidzas 2021. gada 9. martā. Lai uzzinātu vairāk, skatiet [šeit](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 products:
 - microsoft-edge
 policyType: component

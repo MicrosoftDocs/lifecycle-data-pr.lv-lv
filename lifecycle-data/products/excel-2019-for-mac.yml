@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2019 darbam ar Mac
-  description: Programmā Excel 2019 darbam ar Mac tiek ievērota fiksēto dzīves cikla politika.
+  description: Excel 2019 darbam ar Mac ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4945b6b496565c5870184daf9fff71c99c1d8979
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870763"
 name: Excel 2019 darbam ar Mac
 summary: >+
-  Programmā Excel 2019 darbam ar Mac tiek ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Excel 2019 darbam ar Mac ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
