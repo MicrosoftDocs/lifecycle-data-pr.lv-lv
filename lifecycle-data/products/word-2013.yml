@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Word 2013
-  description: Programmā Word 2013 ir ievērota fiksēto dzīves cikla politika.
+  title: Word 2013.
+  description: Word 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938676"
-name: Word 2013
+name: Word 2013.
 summary: >+
-  Programmā Word 2013 ir ievērota [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Word 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Standarta versija

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Web Server 2008
-  description: Windows Web Server 2008 seko fiksētās dzīves cikla politikai.
+  description: Windows Web Server 2008 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938898"
 name: Windows Web Server 2008
 summary: >+
-  Windows Web Server 2008 seko [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Web Server 2008 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Standarta versija
+  Tas attiecas uz šādiem izdevumiem: standarta versija
 
 products:
 - windows
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/10/2018
-content: "\n\n> [!NOTE]\n> Katrā Windows Server 2008 2. servisa pakotnē šis produkts sasniedza atbalstu gada 2020 14. janvārī.\n\n## <a name=\"editions\"></a>Izdevumi \n* Standarta versija"
+content: "\n\n> [!NOTE]\n> Saskaņā ar Windows Server 2008 2. servisa pakotni šis produkts sasniedza atbalsta beigas 2020. gada 14. janvārī.\n\n## <a name=\"editions\"></a>Izdevumi \n* Standarta versija"
