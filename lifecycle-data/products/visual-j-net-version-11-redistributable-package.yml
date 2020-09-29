@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual J# .NET versija 1,1 izplatāmā pakotne
-  description: Visual J# .NET versija 1,1 izplatāmā pakotne atbilst fiksēto dzīves cikla politikai.
+  title: Visual J# .NET versijas 1.1 izplatāmā pakotne
+  description: Visual J# .NET versijas 1.1 izplatāmā pakotne ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5cd64a881e213e1db23e4d7a0f7fe32baf3d8b12
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827980"
-name: Visual J# .NET versija 1,1 izplatāmā pakotne
+name: Visual J# .NET versijas 1.1 izplatāmā pakotne
 summary: >+
-  Visual J# .NET versija 1,1 izplatāmā pakotne atbilst [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Visual J# .NET versijas 1.1 izplatāmā pakotne ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

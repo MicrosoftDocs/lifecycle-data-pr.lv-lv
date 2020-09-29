@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows automobiļu 5,0
-  description: Windows Automotive 5,0 seko fiksēto dzīves cikla politikai.
+  title: Windows Automotive 5.0
+  description: Windows Automotive 5.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: a4f2c864058596a97be1ad6430eded5ccb422803
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827805"
-name: Windows automobiļu 5,0
+name: Windows Automotive 5.0
 summary: >
-  Windows Automotive 5,0 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Automotive 5.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts.
+  > Šī produkta atbalsts ir beidzies.
 products:
 - windows
 policyType: fixed

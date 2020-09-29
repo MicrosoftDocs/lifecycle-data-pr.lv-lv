@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics Mobile izstrādes rīki
-  description: Dynamics Mobile izstrādes rīki ievēro komponentu dzīves cikla politiku.
+  title: Dynamics Mobile Development Tools
+  description: Dynamics Mobile Development Tools ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828159"
-name: Dynamics Mobile izstrādes rīki
+name: Dynamics Mobile Development Tools
 summary: >+
-  Dynamics Mobile izstrādes rīki ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
+  Dynamics Mobile Development Tools ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:

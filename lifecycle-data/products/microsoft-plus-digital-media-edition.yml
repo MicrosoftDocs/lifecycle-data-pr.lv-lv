@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Plus! Digitālais multivides izdevums
-  description: Microsoft Plus! Digitālās multivides izdevums atbilst fiksētās dzīves cikla politikai.
+  title: Microsoft Plus! Digital Media Edition
+  description: Microsoft Plus! Digital Media Edition ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827862"
-name: Microsoft Plus! Digitālais multivides izdevums
+name: Microsoft Plus! Digital Media Edition
 summary: >+
-  Microsoft Plus! Digitālās multivides izdevums atbilst [fiksētās](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Plus! Digital Media Edition ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

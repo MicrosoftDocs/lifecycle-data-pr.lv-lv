@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Communication Foundation RIA pakalpojumi
-  description: Windows Communication Foundation RIA pakalpojumi tiek ievēroti fiksēto dzīves cikla politika.
+  title: Windows Communication Foundation  RIA Services
+  description: Windows Communication Foundation  RIA Services ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827812"
-name: Windows Communication Foundation RIA pakalpojumi
+name: Windows Communication Foundation  RIA Services
 summary: >+
-  Windows Communication Foundation RIA pakalpojumi tiek ievēroti [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Windows Communication Foundation  RIA Services ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

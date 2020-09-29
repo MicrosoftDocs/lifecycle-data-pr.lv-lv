@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Home Server
-  description: Windows Home Server ievēro fiksēto dzīves cikla politiku.
+  description: Windows Home Server ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7858655cfe6489b145f6ec8ef4d2d113c0a1e22b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828325"
 name: Windows Home Server
 summary: >+
-  Windows Home Server ievēro [fiksēto](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Windows Home Server ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
