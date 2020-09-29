@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure Cloud pakalpojumi
-  description: Azure Cloud pakalpojumos ir ievērota mūsdienīga dzīves cikla politika.
+  title: Azure Cloud Services
+  description: Azure Cloud Services ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828737"
-name: Azure Cloud pakalpojumi
+name: Azure Cloud Services
 summary: >+
-  Azure Cloud pakalpojumos ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  Azure Cloud Services ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>Saites \n* [Azure viesu OS atbalsta un pensijas politikas informācija](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Operētājsistēmas Azure Guest atbalsts un norakstīšanas politikas informācija](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

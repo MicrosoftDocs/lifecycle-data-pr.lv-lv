@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows automobiļu 4,2
-  description: Windows Automotive 4,2 seko fiksēto dzīves cikla politikai.
+  title: Windows Automotive 4.2
+  description: Windows Automotive 4.2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "827814"
-name: Windows automobiļu 4,2
+name: Windows Automotive 4.2
 summary: >
-  Windows Automotive 4,2 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Windows Automotive 4.2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Šī produkta atbalsts ir pārtraukts.
+  > Šī produkta atbalsts ir beidzies.
 products:
 - windows
 policyType: fixed

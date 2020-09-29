@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Learning Essentials 2,0 darbam ar Microsoft Office
-  description: Mācību Essentials 2,0 sistēmai Microsoft Office ir ievērota komponentu dzīves cikla politika.
+  title: Learning Essentials 2.0 Microsoft Office programmai
+  description: Learning Essentials 2.0 Microsoft Office programmai ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "828543"
-name: Learning Essentials 2,0 darbam ar Microsoft Office
+name: Learning Essentials 2.0 Microsoft Office programmai
 summary: >+
-  Mācību Essentials 2,0 sistēmai Microsoft Office ir ievērota [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politika.
+  Learning Essentials 2.0 Microsoft Office programmai ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
