@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Groove 3,1
-  description: Groove 3,1 seko fiksēto dzīves cikla politikai.
+  title: Groove 3.1
+  description: Groove 3.1 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950853"
-name: Groove 3,1
+name: Groove 3.1
 summary: >+
-  Groove 3,1 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Groove 3.1 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Enterprise backup Service, Enterprise Data Bridge, Enterprise relay Server, hosted Management Services, hosted relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
+  Tas attiecas uz šādiem izdevumiem: Enterprise dublēšanas pakalpojumi, Enterprise datu tilts, Enterprise  pārraides serveris, viesotie pārvaldības pakalpojumi, viesotie apmaiņas pakalpojumi, Office Project, virtuālā Office failu koplietošana, Virtual Office Professional, tīmekļa pakalpojumu izstrādes komplekts
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Uzņēmuma dublējuma pakalpojums\n* Uzņēmuma datu tilts\n* Enterprise relay serveris\n* Viesotie pārvaldības pakalpojumi\n* Viesotie pārraides pakalpojumi\n* Office Project\n* Virtuālā Office failu koplietošana\n* Virtuālais Office Professional\n* Tīmekļa pakalpojumu izstrādes komplekts"
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise dublēšanas pakalpojums\n* Enterprise datu tilts\n* Enterprise pārraides serveris\n* Viesotie pārvaldības pakalpojumi\n* Viesotie apmaiņas pakalpojumi\n* Office Project\n* Virtuālā Office failu koplietošana\n* Virtual Office Professional\n* Tīmekļa pakalpojumu izstrādes komplekts"
