@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure konteinera pakalpojums
-  description: Azure Container Service ievēro mūsdienīgo dzīves cikla politiku.
+  title: Azure Container Service
+  description: Azure Container Service ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858255"
-name: Azure konteinera pakalpojums
+name: Azure Container Service
 summary: >+
-  Azure Container Service ievēro [mūsdienīgo](/lifecycle/policies/modern) dzīves cikla politiku.
+  Azure Container Service ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/18/2016
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/azure/aks/acs-aks-migration)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/azure/aks/acs-aks-migration)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics nav 2017
-  description: Dynamics nav 2017 seko fiksēto dzīves cikla politikai.
+  title: Dynamics NAV 2017
+  description: Dynamics NAV 2017 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b936cca350da64d99a63eb15f0571e477cdb3ea
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858596"
-name: Dynamics nav 2017
+name: Dynamics NAV 2017
 summary: >+
-  Dynamics nav 2017 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Dynamics NAV 2017 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

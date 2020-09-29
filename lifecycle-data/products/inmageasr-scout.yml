@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Nemags izlūks Azure vietnes atkopšana
-  description: Nemags skauts Azure vietnes atjaunošanā ir ievērota mūsdienīga dzīves cikla politika.
+  title: InMage Scout pakalpojumā Azure Site Recovery
+  description: InMage SScout pakalpojumā Azure Site Recovery ievēro mūsdienīgā dzīves cikla politiku
   ms.date: 07/28/2020
   ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858413"
-name: Nemags izlūks Azure vietnes atkopšana
+name: InMage Scout pakalpojumā Azure Site Recovery
 summary: >+
-  Nemags skauts Azure vietnes atjaunošanā ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  InMage Scout pakalpojumā Azure Site Recovery ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 12/31/2020
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://aka.ms/asr-scout-doc)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://aka.ms/asr-scout-doc)"

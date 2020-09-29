@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure plānotājs
-  description: Azure plānotājs ievēro moderno dzīves cikla politiku.
+  description: Azure plānotājs ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858248"
 name: Azure plānotājs
 summary: >+
-  Azure plānotājs ievēro [moderno](/lifecycle/policies/modern) dzīves cikla politiku.
+  Azure plānotājs ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2014
   endDate: 09/30/2019
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/azure/scheduler/migrate-from-scheduler-to-logic-apps)"

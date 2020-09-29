@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Teams
-  description: Microsoft Teams ievēro mūsdienīgo dzīves cikla politiku.
+  description: Microsoft Teams ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858684"
 name: Microsoft Teams
 summary: >+
-  Microsoft Teams ievēro [mūsdienīgo](/lifecycle/policies/modern) dzīves cikla politiku.
+  Microsoft Teams ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Sistēmas prasības](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Informācija par apkopi](/microsoftteams/teams-client-update)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Sistēmas prasības](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Apkalpošanas informācija](/microsoftteams/teams-client-update)"

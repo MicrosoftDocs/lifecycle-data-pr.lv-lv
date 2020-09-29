@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Home Server 2011
-  description: Windows Home Server 2011 seko fiksēto dzīves cikla politika.
+  description: Windows Home Server 2011 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: cd7602894a6ba0f2cda537685202a0f45f43443e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858628"
 name: Windows Home Server 2011
 summary: >+
-  Windows Home Server 2011 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politika.
+  Windows Home Server 2011 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
