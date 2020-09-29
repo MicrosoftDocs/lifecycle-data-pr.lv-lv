@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype Room Systems v2
-  description: Skype Room Systems v2 ir ievērota mūsdienīga dzīves cikla politika.
+  title: Skype telpas sistēma v2
+  description: Skype telpas sistēma v2 ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858641"
-name: Skype Room Systems v2
+name: Skype telpas sistēma v2
 summary: >+
-  Skype Room Systems v2 ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  Skype telpas sistēma v2 ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/18/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par apkopi](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

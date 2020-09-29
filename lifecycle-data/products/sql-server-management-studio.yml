@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL Server pārvaldības studija
-  description: SQL Server pārvaldības studijā ir ievērota mūsdienīga dzīves cikla politika.
+  title: SQL Server Management Studio
+  description: SQL Server Management Studio ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858678"
-name: SQL Server pārvaldības studija
+name: SQL Server Management Studio
 summary: >+
-  SQL Server pārvaldības studijā ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  SQL Server Management Studio ievēro [fiksētā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/27/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par apkopi](/sql/ssms/support-policy?view)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](/sql/ssms/support-policy?view)"

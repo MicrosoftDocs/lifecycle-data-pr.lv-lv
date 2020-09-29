@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft atskaišu skatītājs 2012 izpildlaiks
-  description: Microsoft atskaišu skatītājs 2012 izpildlaiks seko fiksētajai dzīves cikla politikai.
+  title: Microsoft Report Viewer 2012 Runtime
+  description: Microsoft Report Viewer 2012 Runtime ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0196fc49180deffdca7cde2bb35c0ab53dcb6c01
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "858568"
-name: Microsoft atskaišu skatītājs 2012 izpildlaiks
+name: Microsoft Report Viewer 2012 Runtime
 summary: >+
-  Microsoft atskaišu skatītājs 2012 izpildlaiks seko [fiksētajai](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Report Viewer 2012 Runtime ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
