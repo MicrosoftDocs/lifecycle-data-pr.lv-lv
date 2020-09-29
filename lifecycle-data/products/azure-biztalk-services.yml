@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure BizTalk pakalpojumi
-  description: Azure BizTalk pakalpojumi ievēro moderno dzīves cikla politiku.
+  title: Azure BizTalk Services
+  description: Azure BizTalk Services ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904299"
-name: Azure BizTalk pakalpojumi
+name: Azure BizTalk Services
 summary: >+
-  Azure BizTalk pakalpojumi ievēro [moderno](/lifecycle/policies/modern) dzīves cikla politiku.
+  Azure BizTalk Services ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://azure.microsoft.com/services/biztalk-services)"

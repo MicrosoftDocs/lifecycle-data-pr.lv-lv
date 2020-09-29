@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense komerciālā aparatūra 1,0
-  description: PixelSense komerciālā aparatūra 1,0 seko fiksēto dzīves cikla politikai.
+  title: PixelSense Commercial Hardware 1.0
+  description: PixelSense Commercial Hardware 1.0 ievēro fiksētā dzīves cikla politiku.
   ms.date: 08/12/2020
   ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894075"
-name: PixelSense komerciālā aparatūra 1,0
+name: PixelSense Commercial Hardware 1.0
 summary: >+
-  PixelSense komerciālā aparatūra 1,0 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  PixelSense Commercial Hardware 1.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:

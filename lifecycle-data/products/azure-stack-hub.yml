@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure steka centrmezgls
-  description: Azure Stack Hub ir ievērota mūsdienīga dzīves cikla politika.
+  title: Azure Stack Hub
+  description: Azure Stack Hub ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 07/28/2020
   ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "870792"
-name: Azure steka centrmezgls
+name: Azure Stack Hub
 summary: >+
-  Azure Stack Hub ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  Azure Stack Hub ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/31/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par apkopi un laika grafiki](/azure/azure-stack/azure-stack-servicing-policy)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija un grafiki](/azure/azure-stack/azure-stack-servicing-policy)."

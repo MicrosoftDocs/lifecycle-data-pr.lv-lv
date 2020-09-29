@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 produktu ieskati
-  description: Dynamics 365 produktu ieskati ir mūsdienīga dzīves cikla politika.
+  title: Dynamics 365 Product Insights
+  description: Dynamics 365 Product Insights ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 08/25/2020
   ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
   ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/26/2020
   ms.locfileid: "911402"
-name: Dynamics 365 produktu ieskati
+name: Dynamics 365 Product Insights
 summary: >+
-  Dynamics 365 produktu ieskati ir [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  Dynamics 365 Product Insights ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 products:

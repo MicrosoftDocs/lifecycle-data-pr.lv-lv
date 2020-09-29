@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Edge
-  description: Pārlūkprogrammā Microsoft Edge tiek ievērota mūsdienīga dzīves cikla politika.
+  description: Microsoft Edge ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905915"
 name: Microsoft Edge
 summary: >
-  Pārlūkprogrammā Microsoft Edge tiek ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+  Microsoft Edge ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
 
   > [!IMPORTANT]
 
-  > Lūdzu, ņemiet vērā, ka šī produkta mantotā versija atbalsta 2021. gada 9. martā. Šeit dodieties  [šeit, lai uzzinātu](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) vairāk.
+  > Lūdzu, ņemiet vērā, ka no 2021. gada 9. marta šā produkta mantotā versija vairs netiks atbalstīta. Lai uzzinātu vairāk, skatiet   [šeit](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +26,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>Saites \n* [Microsoft Edge Atbalstītās operētājsistēmas](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>Saites \n* [Microsoft Edge atbalstītās operētājsistēmas](/deployedge/microsoft-edge-supported-operating-systems)"
