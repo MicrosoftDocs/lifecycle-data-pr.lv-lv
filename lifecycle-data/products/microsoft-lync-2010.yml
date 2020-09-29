@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync 2010
-  description: Microsoft Lync 2010 seko fiksēto dzīves cikla politikai.
+  title: Microsoft Lync 2010
+  description: Microsoft Lync 2010 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Attendant,Attendee,Group Chat,Standard
   ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933459"
-name: Microsoft Lync 2010
+name: Microsoft Lync 2010
 summary: >+
-  Microsoft Lync 2010 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Lync 2010 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: operators, dalībnieks, grupas tērzēšana, standarta
+  Tas attiecas uz šādiem izdevumiem: Attendant, Attendee, Group Chat, standarta versija
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Pavadonis\n* Dalībnieku\n* Grupas tērzēšana\n* Standarta versija"
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Attendant\n* Attendee\n* Group Chat\n* Standarta versija"

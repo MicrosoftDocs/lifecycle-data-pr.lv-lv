@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Basic .NET 2003
-  description: Microsoft Visual Basic .NET 2003 seko fiksēto dzīves cikla politikai.
+  description: Microsoft Visual Basic .NET 2003 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938158"
 name: Microsoft Visual Basic .NET 2003
 summary: >+
-  Microsoft Visual Basic .NET 2003 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Microsoft Visual Basic .NET 2003 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
   Tas attiecas uz šādiem izdevumiem: Standarta versija

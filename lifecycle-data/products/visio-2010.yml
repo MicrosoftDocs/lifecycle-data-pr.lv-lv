@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visio 2010
-  description: Visio 2010 seko fiksēto dzīves cikla politikai.
+  title: Visio 2010
+  description: Visio 2010 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937862"
-name: Visio 2010
+name: Visio 2010
 summary: >+
-  Visio 2010 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Visio 2010 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Premium, Professional, Standard
+  Tas attiecas uz šādiem izdevumiem: Premium, Professional, standarta versija
 
 products:
 - office

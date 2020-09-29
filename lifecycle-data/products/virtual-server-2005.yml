@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuālais serveris 2005
-  description: Virtuālais serveris 2005 seko fiksēto dzīves cikla politikai.
+  title: Virtual Server 2005
+  description: Virtual Server 2005 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: lv-LV
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937899"
-name: Virtuālais serveris 2005
+name: Virtual Server 2005
 summary: >+
-  Virtuālais serveris 2005 seko [fiksēto](/lifecycle/policies/fixed) dzīves cikla politikai.
+  Virtual Server 2005 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Enterprise, Management Pack, Standard
+  Tas attiecas uz šādiem izdevumiem: Enterprise, Management Pack, standarta versija
 
 products:
 - windows
