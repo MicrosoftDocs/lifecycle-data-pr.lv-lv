@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: HockeyApp
+  description: HockeyApp ir ievērota mūsdienīga dzīves cikla politika.
+  ms.date: 09/29/2020
+  keywords: 
+  ms.openlocfilehash: 2aa133457f61c84ce238eb2bb4ce559f64ab4257
+  ms.sourcegitcommit: 7914229438c6935bc9dd98b1924a805d478e9e14
+  ms.translationtype: MT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 09/29/2020
+  ms.locfileid: "1048755"
+name: HockeyApp
+summary: >+
+  HockeyApp ir ievērota [mūsdienīga](/lifecycle/policies/modern) dzīves cikla politika.
+
+
+products:
+- vs
+policyType: modern-online
+supportDates:
+  start: 12/31/2015
+  end: 11/16/2019
+releases:
+- version: Original Release
+  startDate: 12/31/2015
+  endDate: 11/16/2019
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas norādījumi](/appcenter/transition/)"
