@@ -2,14 +2,14 @@
 metadata:
   title: Dynamics 365 finansēm un operācijām
   description: Dynamics 365 finansēm un operācijām ievēro mūsdienīgā dzīves cikla politiku.
-  ms.date: 09/10/2020
-  keywords: Enterprise
-  ms.openlocfilehash: d4aa86f20aea4c570c467a0af08be2b70ac92aae
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.date: 09/29/2020
+  keywords: 
+  ms.openlocfilehash: 22bc725cf7f990b27f83a506f26a4108f3b9fea9
+  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "998844"
+  ms.lasthandoff: 09/29/2020
+  ms.locfileid: "1048277"
 name: Dynamics 365 finansēm un operācijām
 summary: >+
   Dynamics 365 finansēm un operācijām ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Microsoft Dynamics 365 ceļvedis](https://roadmap.dynamics.com/)\n* [Apkalpošanas informācija](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Sistēmas prasības](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Saites \n* [Microsoft Dynamics 365 ceļvedis](https://roadmap.dynamics.com/)\n* [Noņemtie vai novecojušie līdzekļi](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Apkalpošanas informācija](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Sistēmas prasības](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise"
