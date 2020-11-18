@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Klientiem ir jāpāriet uz Windows Emdedded 8.1, lai arī turpmāk saņemtu atbalstu\n\n## <a name=\"editions\"></a>Izdevumi \n* Pro\n* Standarta versija"
+content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Klientiem ir jāpāriet uz Windows Embedded 8.1, lai arī turpmāk saņemtu atbalstu\n\n## <a name=\"editions\"></a>Izdevumi \n* Pro\n* Standarta versija\n"

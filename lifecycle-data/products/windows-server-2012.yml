@@ -15,7 +15,7 @@ summary: >+
   Windows Server 2012 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, ārējais savienotājs, iegultajām sistēmām, Foundation, standarta versija
+  Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, ārējā piekļuve, iegultajām sistēmām, Foundation, standarta versija
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-overview)\n* [Informācija par produktu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku. Windows Server Essentials tika laists klajā 2013. gada 2. janvārī.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Ārējais savienotājs\n* iegultajām sistēmām\n* Foundation\n* Standarta versija"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-overview)\n* [Informācija par produktu](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku. Windows Server Essentials tika laists klajā 2013. gada 2. janvārī.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Ārējā piekļuve\n* Iegultajām sistēmām\n* Foundation\n* Standarta versija"

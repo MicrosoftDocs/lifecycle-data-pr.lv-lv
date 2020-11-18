@@ -15,7 +15,7 @@ summary: >+
   Windows Storage Server 2008 Embedded ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: 32 bitu versija, 64 bitu versija, Basic, Basic 32 bitu versija, Enterprise, standarta versija, darba grupa
+  Tas attiecas uz šādiem izdevumiem: 32 bitu versija, 64 bitu versija, Basic, Basic 32 bitu versija, Enterprise, standarta versija, Workgroup
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Atbalsta sniegšana šim produktam tiek izbeigta. Migrācijas norādījumus skatiet tālāk.\n\n## <a name=\"editions\"></a>Izdevumi \n* 32 bitu versija\n* 64 bitu versija\n* Basic\n* Basic 32 bitu versija\n* Enterprise\n* Standarta versija\n* Darbgrupa"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Atbalsta sniegšana šim produktam tiek izbeigta. Migrācijas norādījumus skatiet tālāk.\n\n## <a name=\"editions\"></a>Izdevumi \n* 32 bitu versija\n* 64 bitu versija\n* Basic\n* Basic 32 bitu versija\n* Enterprise\n* Standarta versija\n* Workgroup"

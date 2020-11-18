@@ -15,7 +15,7 @@ summary: >
   Windows Mobile 2003 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Pocket PC, viedtālruņiem, Second Edition programmatūra Pocket PC Phone, Second Edition programmatūra viedtālrunim
+  Tas attiecas uz šādiem izdevumiem: darbam ar Pocket PC, viedtālruņiem, Second Edition programmatūra darbam ar Pocket PC Phone, Second Edition programmatūra viedtālrunim
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* izdevumam Pocket PC\n* viedtālruņiem\n* Second Edition programmatūra, kas paredzēta Pocket PC Phone\n* Second Edition programmatūra viedtālrunim"
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Darbam ar Pocket PC\n* Viedtālruņiem\n* Second Edition programmatūra darbam ar Pocket PC Phone\n* Second Edition programmatūra viedtālrunim"

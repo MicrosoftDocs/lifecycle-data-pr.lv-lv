@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization Hosting 5.0 Windows datoriem
-  description: Microsoft Application Virtualization Hosting 5.0 sistēmai Windows darbvirsmām ievēro fiksētā dzīves cikla politiku.
+  description: Microsoft Application Virtualization Hosting 5.0 Windows datoriem ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 640b1312c2eba7e693edbd82f34378619036195e
@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "935383"
 name: Microsoft Application Virtualization Hosting 5.0 Windows datoriem
 summary: >+
-  Microsoft Application Virtualization Hosting 5.0 sistēmai Windows darbvirsmām ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
+  Microsoft Application Virtualization Hosting 5.0 Windows datoriem ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Windows darbvirsmām
+  Tas attiecas uz šādiem izdevumiem: Windows datoriem
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Windows darbvirsmām"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Windows datoriem"

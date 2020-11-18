@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Aģenti, Community 2013, Express darbam tīmeklī, Express operētājsistēmai Windows 8, Express operētājsistēmas Windows darbvirsmai, IntelliTrace kolektors, Microsoft Azure rīki, Premium, Professional, attālie rīki, Shell (integrēta), Shell (izolēta), SQL Server datu rīki, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, tīmekļa rīku paplašinājumi
+  Tas attiecas uz šādiem izdevumiem: Agents, Community 2013, Express darbam tīmeklī, Express operētājsistēmai Windows 8, Express Windows datoriem, IntelliTrace kolektors, Microsoft Azure rīki, Premium, Professional, attālie rīki, Shell (integrēta), Shell (izolēta), SQL Server datu rīki, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, tīmekļa rīku paplašinājumi
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Visual Studio produkta dzīves cikls un apkope](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Community 2013\n* Express darbam tīmeklī\n* Express operētājsistēmai Windows 8\n* Express operētājsistēmas Windows darbvirsmai\n* IntelliTrace kolektors\n* Microsoft Azure rīki\n* Premium\n* Profesionālā versija\n* Attālie rīki\n* Shell (integrēta)\n* Shell (izolēta)\n* SQL Server datu rīki\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Visual Studio produkta dzīves cikls un apkope](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Agents\n* Community 2013\n* Express darbam tīmeklī\n* Express operētājsistēmai Windows 8\n* Express Windows datoriem\n* IntelliTrace kolektors\n* Microsoft Azure rīki\n* Premium\n* Professional\n* Attālie rīki\n* Shell (integrēta)\n* Shell (izolēta)\n* SQL Server datu rīki\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi\n"
