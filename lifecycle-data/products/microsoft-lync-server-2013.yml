@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone izdevums tiek atbalstīts ar Lync Server 2010 un Lync Server 2013. Lync Phone izdevuma atbalsta datuma termiņš ir pagarināts vēl uz diviem gadiem, lai saskaņotu ar Lync Server 2013 dzīves ciklu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Pastāvīgās tērzēšanas programmatūras izstrādes komplekts\n* Phone\n* SDK\n* Standarta versija"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone izdevums tiek atbalstīts, izmantojot ar Lync Server 2010 un Lync Server 2013. Lync Phone izdevuma atbalsta datuma termiņš ir pagarināts vēl uz diviem gadiem, lai saskaņotu ar Lync Server 2013 dzīves ciklu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Pastāvīgās tērzēšanas programmatūras izstrādes komplekts\n* Phone\n* SDK\n* Standarta versija\n"

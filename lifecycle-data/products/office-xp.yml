@@ -15,7 +15,7 @@ summary: >+
   Office XP ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Developer, Professional, Proofing Tools, standarta versija, tīmekļa komponenti
+  Tas attiecas uz šādiem izdevumiem: Developer, Professional, Proofing Tools, standarta versija, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Developer\n* Profesionālā versija\n* Proofing Tools\n* Standarta versija\n* Web Components"
+content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Developer\n* Professional\n* Proofing Tools\n* Standarta versija\n* Web Components"

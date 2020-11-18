@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Basic\n* Enterprise\n* Skolēniem un mājas lietošanai\n* Vairākvalodu pakotne\n* Profesionālā versija\n* Professional Plus\n* Small Business\n* Standarta versija\n* Ultimate"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Basic\n* Enterprise\n* Skolēniem un mājas lietošanai\n* Vairākvalodu pakotne\n* Professional\n* Professional Plus\n* Mazajiem uzņēmumiem\n* Standarta versija\n* Ultimate"

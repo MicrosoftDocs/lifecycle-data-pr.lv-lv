@@ -15,7 +15,7 @@ summary: >+
   Dynamics 365 for Talent ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Onboard
+  Tas attiecas uz šādiem izdevumiem: ievadapmācība un pieņemšana darbā
 
 products:
 - dynamics
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Saites \n* [Sistēmas prasības](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Migrācijas vadlīnijas](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Piesaistes un ievadapmācības un pieņemšanas darbā lietotnes tiks norakstītas 2022. gada 2. februārī.  Pamata HR 2020. gada 1. februārī tika atkārtoti laists klajā kā Dynamics 365 Human Resources, papildinformāciju skatiet migrācijas vadlīnijās.\n\n## <a name=\"editions\"></a>Izdevumi \n* Onboard"
+content: "\n## <a name=\"links\"></a>Saites \n* [Sistēmas prasības](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Migrācijas vadlīnijas](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Piesaistes un ievadapmācības un pieņemšanas darbā lietotnes tiks norakstītas 2022. gada 2. februārī.  Pamata HR 2020. gada 1. februārī tika atkārtoti laists klajā kā Dynamics 365 Human Resources, papildinformāciju skatiet migrācijas vadlīnijās.\n\n## <a name=\"editions\"></a>Izdevumi \n* Ievadapmācība un pieņemšana darbā"

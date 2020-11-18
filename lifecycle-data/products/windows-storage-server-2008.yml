@@ -15,7 +15,7 @@ summary: >
   Windows Storage Server 2008 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Basic, Basic 32 bitu versija, Basic 64 bitu versija, Basic Embedded, Basic Embedded 32 bitu versija, Enterprise, Enterprise Embedded, Standard, Standard Embedded, darba grupa
+  Tas attiecas uz šādiem izdevumiem: Basic, Basic 32 bitu versija, Basic 64 bitu versija, Basic Embedded, Basic Embedded 32 bitu versija, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Servera jaunināšanas informācija](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Basic\n* Basic 32 bitu versija\n* Basic 64 bitu versija\n* Basic Embedded\n* Basic Embedded 32 bitu versija\n* Enterprise\n* Enterprise Embedded\n* Standarta versija\n* Embedded standarta versija\n* Darbgrupa"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Servera jaunināšanas informācija](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Basic\n* Basic 32 bitu versija\n* Basic 64 bitu versija\n* Basic Embedded\n* Basic Embedded 32 bitu versija\n* Enterprise\n* Enterprise Embedded\n* Standarta versija\n* Embedded standarta versija\n* Workgroup"

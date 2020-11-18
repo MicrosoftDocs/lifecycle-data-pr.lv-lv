@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: visi piemērojamie, ārējais savienotājs
+  Tas attiecas uz šādiem izdevumiem: visi piemērojamie, ārējā piekļuve
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Visi piemērojamie\n* Ārējais savienotājs"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Visi piemērojamie\n* Ārējā piekļuve"

@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001790"
 name: Microsoft Office Communications Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: Visi piemērojamie, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. Skatiet migrācijas vadlīnijas. \n"
+summary: "Microsoft Office Communications Server 2007 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\nTas attiecas uz šādiem izdevumiem: visi piemērojamie, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. Skatiet migrācijas vadlīnijas. \n"
 products:
 - office
 policyType: fixed

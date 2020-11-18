@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: attālās darbvirsmas pakalpojumiem, termināļa pakalpojumiem, Windows darbvirsmām
+  Tas attiecas uz šādiem izdevumiem: attālās darbvirsmas pakalpojumiem, termināļa pakalpojumiem, Windows datoriem
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* attālās darbvirsmas pakalpojumiem\n* termināļa pakalpojumiem\n* Windows darbvirsmām"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Attālās darbvirsmas pakalpojumiem\n* Termināļa pakalpojumiem\n* Windows datoriem"

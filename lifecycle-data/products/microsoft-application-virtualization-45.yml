@@ -15,7 +15,7 @@ summary: >
   Microsoft Application Virtualization 4.5 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: for Terminal Services, for Windows Desktops
+  Tas attiecas uz šādiem izdevumiem: termināļa pakalpojumiem, Windows datoriem
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kopš lietotnes versijas 4.6 klients izmanto lietotnes versijas 4.5 serveri, lietotnes versijas 4.5 serveris turpinās saņemt atbalstu saskaņā ar dzīves cikla datumu lietotnes versijai 4.6, ja tas tiks lietots ar atbalstītu lietotnes versijas 4.6 klientu.\n\n## <a name=\"editions\"></a>Izdevumi \n* termināļa pakalpojumiem\n* Windows darbvirsmām"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tā kā Application Virtualization 4.6 klients izmanto Application Virtualization 4.5 Server, Application Virtualization 4.5 Server turpinās saņemt atbalstu saskaņā ar Application Virtualization 4.6 dzīves cikla datumu, ja tiks lietots ar atbalstītu Application Virtualization 4.6 klientu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Termināļa pakalpojumiem\n* Windows datoriem\n"
