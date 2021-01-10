@@ -1,25 +1,25 @@
 ---
 title: Dzīves cikla datu eksportēšana
 description: Eksportēt informāciju par produkta dzīves ciklu
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335892"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367571"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="8c723-103">Dzīves cikla datu eksportēšana</span><span class="sxs-lookup"><span data-stu-id="8c723-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="b1612-103">Dzīves cikla datu eksportēšana</span><span class="sxs-lookup"><span data-stu-id="b1612-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="8c723-104">Eksportēt visus produktus</span><span class="sxs-lookup"><span data-stu-id="8c723-104">Export all products</span></span>
-<span data-ttu-id="8c723-105">Eksportējiet visu produktu dzīves cikla datus, noklikšķinot tālāk:</span><span class="sxs-lookup"><span data-stu-id="8c723-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="b1612-104">Eksportēt visus produktus</span><span class="sxs-lookup"><span data-stu-id="b1612-104">Export all products</span></span>
+<span data-ttu-id="b1612-105">Eksportējiet visu produktu dzīves cikla datus, noklikšķinot tālāk:</span><span class="sxs-lookup"><span data-stu-id="b1612-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="8c723-106">Eksportēt visus produktus</span><span class="sxs-lookup"><span data-stu-id="8c723-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="b1612-106">Eksportēt visus produktus</span><span class="sxs-lookup"><span data-stu-id="b1612-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="8c723-107">Eksportēt produktus pēc saimes un grupas</span><span class="sxs-lookup"><span data-stu-id="8c723-107">Export products by Family and Group</span></span>
-<span data-ttu-id="8c723-108">Atlasiet eksportējamo saimi un pēc tam grupu.</span><span class="sxs-lookup"><span data-stu-id="8c723-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="8c723-109">Piezīme. Eksportēšana sāksies, kad tiks atlasīta grupas vērtība.</span><span class="sxs-lookup"><span data-stu-id="8c723-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="b1612-107">Eksportēt produktus pēc saimes un grupas</span><span class="sxs-lookup"><span data-stu-id="b1612-107">Export products by Family and Group</span></span>
+<span data-ttu-id="b1612-108">Atlasiet eksportējamo saimi un pēc tam grupu.</span><span class="sxs-lookup"><span data-stu-id="b1612-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="b1612-109">Piezīme. Eksportēšana sāksies, kad tiks atlasīta grupas vērtība.</span><span class="sxs-lookup"><span data-stu-id="b1612-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Saime" title2="Grupa"]
 > - [(.NET | Visi)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335892"
 > - [(Windows | Security)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | Server)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="8c723-170">Eksportējiet produktus līdz atbalsta datuma beigām</span><span class="sxs-lookup"><span data-stu-id="8c723-170">Export products by end of support date</span></span>
-<span data-ttu-id="8c723-171">Atlasiet gadu, lai redzētu, kuriem produktiem beidzas atbalsta termiņš.</span><span class="sxs-lookup"><span data-stu-id="8c723-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="8c723-172">Piezīme. Eksportēšana sāksies, kad būs atlasīta gada vērtība.</span><span class="sxs-lookup"><span data-stu-id="8c723-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="b1612-170">Eksportējiet produktus līdz atbalsta datuma beigām</span><span class="sxs-lookup"><span data-stu-id="b1612-170">Export products by end of support date</span></span>
+<span data-ttu-id="b1612-171">Atlasiet gadu, lai redzētu, kuriem produktiem beidzas atbalsta termiņš.</span><span class="sxs-lookup"><span data-stu-id="b1612-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="b1612-172">Piezīme. Eksportēšana sāksies, kad būs atlasīta gada vērtība.</span><span class="sxs-lookup"><span data-stu-id="b1612-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [Nākamie 12 mēneši](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Nākamie 6 mēneši](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
