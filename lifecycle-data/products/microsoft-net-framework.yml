@@ -2,19 +2,23 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework ievēro komponentu dzīves cikla politiku.
-  ms.date: 12/16/2020
+  ms.date: 04/26/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: ac0ceb3f06c50aca5da4d362e291d809d1353b17
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.openlocfilehash: 36c69b53dc4e37ba17b820fe0442e82744f98f41
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347408"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029476"
 name: Microsoft .NET Framework
-summary: >+
+summary: >
   Microsoft .NET Framework ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
+
+  > [!IMPORTANT]
+
+  > .NET Framework 4.5.2, 4.6 un 4.61 tiks norakstīta 2022. gada 26. aprīlī. Šīs konkrētās versijas iepriekš tika parakstītas, izmantojot droša jaukšanas algoritma (SHA-1) sertifikātus. Šis algoritms vairs netiek uzskatīts par drošu. Klienti tiek aicināti pāriet uz SHA-2. Lai uzzinātu vairāk, skatiet [šeit](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022).
 products:
 - dotnet
 policyType: component
@@ -33,10 +37,13 @@ releases:
   startDate: 08/02/2016
 - version: .NET Framework 4.6.1
   startDate: 11/30/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.6
   startDate: 07/29/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.2
   startDate: 05/05/2014
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.1
   startDate: 01/15/2014
   endDate: 01/12/2016
@@ -52,4 +59,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informācija par produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n\n> [!NOTE]\n> .NET Framework 3.5 servisa pakotne (SP1) ir atsevišķs produkts, kas ievēro fiksēto politiku, sākot ar Windows 10 versiju 1809 un Windows Server 2019. Pirms tam .NET Framework 3.5 SP1 tiek uzskatīta par operētājsistēmas Windows komponentu, kurā tā ir instalēta."
+content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informācija par produktu](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework tiks pārtraukts 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 servisa pakotne (SP1) ir atsevišķs produkts, kas ievēro fiksēto politiku, sākot ar Windows 10 versiju 1809 un Windows Server 2019. Pirms tam .NET Framework 3.5 SP1 tiek uzskatīta par operētājsistēmas Windows komponentu, kurā tā ir instalēta."
