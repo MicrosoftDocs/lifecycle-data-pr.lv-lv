@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2019
   description: Windows Server 2019 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,Standard
-  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: dbba3f3d791a3646dc46974ddf37f64c83207bed
+  ms.sourcegitcommit: 4e981a76c3185e8691faa3033ff05c685bba0999
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939342"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255335"
 name: Windows Server 2019
 summary: >+
   Windows Server 2019 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
+
   Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, standarta versija
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 atjauninājuma pieejamība](https://aka.ms/WSRelaunchBlog)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 un Windows Server versija 1809 tika atkārtoti laista klajā 2018. gada 13. novembrī. Attiecīgi tika koriģēti atbalsta datumi.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Standarta versija"
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows-server/get-started-19/whats-new-19)\n* [Windows Server 2019 atjauninājuma pieejamība](https://aka.ms/WSRelaunchBlog)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n* [Windows konteineru bāzes attēlu apkopes dzīves cikli.](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Konteineriem, kas izlaisti kopā ar Windows serveri 2019, ir tādi paši dzīves cikla datumi.\n> [!NOTE]\n> Windows Server 2019 un Windows Server versija 1809 tika atkārtoti laista klajā 2018. gada 13. novembrī. Attiecīgi tika koriģēti atbalsta datumi.\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Standarta versija"
