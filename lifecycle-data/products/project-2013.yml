@@ -1,31 +1,30 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project 2013
+  title: "Project\_2013"
   description: Project 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926466"
-name: Project 2013
-summary: >+
+  keywords: 'Professional,Standard'
+name: "Project\_2013"
+summary: |+
   Project 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: Professional, standarta versija
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Profesionālā versija\n* Standarta versija"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/11/2023
+content: |
+
+
+
+  ## <a name="editions"></a>Izdevumi 
+  * Profesionālā versija
+  * Standarta versija

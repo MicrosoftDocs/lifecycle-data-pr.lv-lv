@@ -1,41 +1,40 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.5 Windows datoriem
-  description: Microsoft Application Virtualization Hosting 4.5 Windows datoriem ievēro fiksētā dzīves cikla politiku.
+  title: Microsoft Application Virtualization Hosting 4.5 darbam ar Windows darbvirsmām
+  description: Microsoft Application Virtualization Hosting 4.5 darbam ar Windows darbvirsmām ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 50fe924f5e1b5968a41beea54c1cc30d5df28434
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935494"
-name: Microsoft Application Virtualization Hosting 4.5 Windows datoriem
-summary: >
-  Microsoft Application Virtualization Hosting 4.5 Windows datoriem ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
+name: Microsoft Application Virtualization Hosting 4.5 darbam ar Windows darbvirsmām
+summary: |
+  Microsoft Application Virtualization Hosting 4.5 darbam ar Windows darbvirsmām ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
-
-  Tas attiecas uz šādiem izdevumiem: Windows datoriem
-
+  Tas attiecas uz šādiem izdevumiem: Windows darbvirsmām
 
   > [!IMPORTANT]
-
   > Šī produkta atbalsts ir beidzies. Skatiet tālāk norādīto migrācijas informāciju.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/23/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 2
-  startDate: 08/15/2010
-  endDate: 01/08/2019
-- version: Service Pack 1
-  startDate: 12/13/2009
-  endDate: 10/11/2011
-- version: Original Release
-  startDate: 11/23/2008
-  endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktiem un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Windows datoriem"
+  - version: Service Pack 2
+    startDate: 08/15/2010
+    endDate: 01/08/2019
+  - version: Service Pack 1
+    startDate: 12/13/2009
+    endDate: 10/11/2011
+  - version: Original Release
+    startDate: 11/23/2008
+    endDate: 01/11/2011
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Informācija par produktiem un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Izdevumi 
+  * Windows darbvirsmām
