@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Lync Server 2013 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
-  ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 34538d98f2544a37c43ef4db5cddf07502111f81f4329ffa7883322caae0df1d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930684"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498520"
 name: Microsoft Lync Server 2013
 summary: >+
   Microsoft Lync Server 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone izdevums tiek atbalstīts, izmantojot ar Lync Server 2010 un Lync Server 2013. Lync Phone izdevuma atbalsta datuma termiņš ir pagarināts vēl uz diviem gadiem, lai saskaņotu ar Lync Server 2013 dzīves ciklu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Pastāvīgās tērzēšanas programmatūras izstrādes komplekts\n* Phone\n* SDK\n* Standarta versija\n"
+content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone izdevums tiek atbalstīts ar Lync Server 2010 un Lync Server 2013. Lync Phone izdevuma atbalsta datuma termiņš ir pagarināts vēl uz diviem gadiem, lai saskaņotu ar Lync Server 2013 dzīves ciklu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Pastāvīgās tērzēšanas programmatūras izstrādes komplekts\n* Phone\n* SDK\n* Standarta versija"
