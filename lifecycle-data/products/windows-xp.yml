@@ -4,12 +4,12 @@ metadata:
   description: Windows XP ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: Home,Professional,Professional for Embedded Systems,Professional x64,Starter
-  ms.openlocfilehash: 170f3edab926203a3a5ff5573a613709588e974e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 035c7cf7e0d224510a05a56848e61a2fbeb04306348d5ec9f69b948dd921d35f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938787"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510249"
 name: Windows XP
 summary: >
   Windows XP ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP Professional x64 izdevuma darbības sākuma datums bija 2005. gada 24. aprīlis.\n\n## <a name=\"editions\"></a>Izdevumi \n* Home\n* Professional\n* Professional iegultajām sistēmām\n* Professional x64\n* Starter"
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP Professional x64 izdevuma darbības sākuma datums bija 2005. gada 24. aprīlis.\n\n## <a name=\"editions\"></a>Izdevumi \n* Mājām\n* Profesionālā versija\n* Professional iegultajām sistēmām\n* Professional x64\n* Starter"
