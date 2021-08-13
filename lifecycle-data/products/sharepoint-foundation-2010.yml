@@ -4,32 +4,26 @@ metadata:
   description: SharePoint Foundation 2010 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162748"
 name: SharePoint Foundation 2010
-summary: >+
+summary: |+
   SharePoint Foundation 2010 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/21/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Atbalsta paplašinājums](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Microsoft SharePoint Foundation 2010 izstrādātāja dokumentācija](/previous-versions/office/ee535067(v=office.14))\n* [Microsoft SharePoint Foundation 2013 produkta dokumentācija](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Šā produkta atbalsta termiņš ir pagarināts no 2020. gada 13. oktobra līdz 2021. gada 13. aprīlim.\n\n"
+  - version: Service Pack 2
+    startDate: 07/21/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Atbalsta paplašinājums](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Microsoft SharePoint Foundation 2010 izstrādātāja dokumentācija](/previous-versions/office/ee535067(v=office.14))\n* [Microsoft SharePoint Foundation 2010 produkta dokumentācija](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Šā produkta atbalsta termiņš ir pagarināts no 2020.\_gada 13.\_oktobra līdz 2021.\_gada 13.\_aprīlim.\n\n"

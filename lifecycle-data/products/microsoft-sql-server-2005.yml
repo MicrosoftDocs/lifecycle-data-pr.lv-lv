@@ -3,45 +3,57 @@ metadata:
   title: Microsoft SQL Server 2005
   description: Microsoft SQL Server 2005 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
-  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
-  ms.openlocfilehash: ca451e6716bf5aed78c86dd83737d59a46a8203d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929759"
+  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
 name: Microsoft SQL Server 2005
-summary: >
+summary: |
   Microsoft SQL Server 2005 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: Compact, Developer, Embedded, Enterprise, Enterprise Itanium tipa sistēmām, Enterprise X64, Express, Express ar papildu pakalpojumiem, standarta versija, standarta versija Itanium tipa sistēmām, standarta versija X64, darba grupa
 
-
   > [!IMPORTANT]
-
   > Šī produkta atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas.
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 01/14/2006
   end: 04/12/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 4
-  startDate: 12/13/2010
-  endDate: 04/12/2016
-- version: Service Pack 3
-  startDate: 12/15/2008
-  endDate: 01/10/2012
-- version: Service Pack 2
-  startDate: 02/19/2007
-  endDate: 01/12/2010
-- version: Service Pack 1
-  startDate: 04/18/2006
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 01/14/2006
-  endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition tika laists klajā 2007. gada 19. februārī.\n\n## <a name=\"editions\"></a>Izdevumi \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise Itanium tipa sistēmām\n* Enterprise X64\n* Express\n* Express ar papildu pakalpojumiem\n* Standarta versija\n* Standarta versija Itanium tipa sistēmām\n* Standarta versija X64\n* Darbgrupa"
+  - version: Service Pack 4
+    startDate: 12/13/2010
+    endDate: 04/12/2016
+  - version: Service Pack 3
+    startDate: 12/15/2008
+    endDate: 01/10/2012
+  - version: Service Pack 2
+    startDate: 02/19/2007
+    endDate: 01/12/2010
+  - version: Service Pack 1
+    startDate: 04/18/2006
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 01/14/2006
+    endDate: 07/10/2007
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Migrācijas vadlīnijas](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Microsoft SQL Server 2005 Compact Edition tika laists klajā 2007. gada 19. februārī.
+
+  ## <a name="editions"></a>Izdevumi 
+  * Compact
+  * Developer
+  * Embedded
+  * Enterprise
+  * Enterprise Itanium tipa sistēmām
+  * Enterprise X64
+  * Express
+  * Express ar papildu pakalpojumiem
+  * Standarta versija
+  * Standarta versija Itanium tipa sistēmām
+  * Standarta versija X64
+  * Darbgrupa

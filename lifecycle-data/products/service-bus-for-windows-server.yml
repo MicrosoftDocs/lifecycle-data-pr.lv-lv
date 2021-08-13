@@ -3,29 +3,21 @@ metadata:
   title: Service Bus darbam ar Windows Server
   description: Service Bus sistēmai Windows Server ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858463"
 name: Service Bus darbam ar Windows Server
-summary: >
+summary: |
   Service Bus sistēmai Windows Server ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
-
   > [!IMPORTANT]
-
   > Ja Service Bus 1.1 ir sistēmas SharePoint Server 2016 vai SharePoint Server 2013 komponents, tas tiks atbalstīts atbilstoši attiecīgās SharePoint Server versijas atbalsta beigu datumiem.
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/18/2012
   end: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: ''
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |+
