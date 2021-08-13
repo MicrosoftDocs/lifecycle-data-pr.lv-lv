@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858546"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-
   > [!IMPORTANT]
-
   > Šī produkta atbalsts ir beidzies.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft nodrošina atjauninājumus operētājsistēmai, tostarp drošības atjauninājumus, vismaz 36 mēnešus pēc dzīves cikla sākuma datuma. Šie atjauninājumi tiks nodrošināti pakāpeniski, un katrs atjauninājums tiks veidots, pamatojoties uz iepriekšējo atjauninājumu. Klientiem jāinstalē katrs atjauninājums, lai saglabātu atbalstu. Šo papildu atjauninājumu izplatīšanu var kontrolēt mobilais operators vai tā tālruņa ražotājs, no kura iegādājāties tālruni, un to instalēšanai tālrunī būs nepieciešami iepriekšējie atjauninājumi. Atjauninājumu pieejamība būs atkarīga arī no valsts, reģiona un aparatūras iespējām."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Saites 
+  * [Bieži uzdotie jautājumi par Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft nodrošina atjauninājumus operētājsistēmai, tostarp drošības atjauninājumus, vismaz 36 mēnešus pēc dzīves cikla sākuma datuma. Šie atjauninājumi tiks nodrošināti pakāpeniski, un katrs atjauninājums tiks veidots, pamatojoties uz iepriekšējo atjauninājumu. Klientiem jāinstalē katrs atjauninājums, lai saglabātu atbalstu. Šo papildu atjauninājumu izplatīšanu var kontrolēt mobilais operators vai tā tālruņa ražotājs, no kura iegādājāties tālruni, un to instalēšanai tālrunī būs nepieciešami iepriekšējie atjauninājumi. Atjauninājumu pieejamība būs atkarīga arī no valsts, reģiona un aparatūras iespējām.

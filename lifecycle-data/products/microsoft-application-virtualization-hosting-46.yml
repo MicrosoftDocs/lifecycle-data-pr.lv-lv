@@ -1,40 +1,43 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 Windows datoriem
-  description: Microsoft Application Virtualization Hosting 4.6 Windows datoriem ievēro fiksētā dzīves cikla politiku.
+  title: Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām
+  description: Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935457"
-name: Microsoft Application Virtualization Hosting 4.6 Windows datoriem
-summary: >+
-  Microsoft Application Virtualization Hosting 4.6 Windows datoriem ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
+name: Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām
+summary: |+
+  Microsoft Application Virtualization Hosting 4.6 Windows darbvirsmām ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
-
-  Tas attiecas uz šādiem izdevumiem: Windows datoriem
+  Tas attiecas uz šādiem izdevumiem: Windows darbvirsmām
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Saites \n* [Informācija par produktiem un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tā kā Application Virtualization 4.6 klients izmanto Application Virtualization 4.5 Server, Application Virtualization 4.5 Server turpinās saņemt atbalstu saskaņā ar Application Virtualization 4.6 dzīves cikla datumu, ja tiks lietots ar atbalstītu Application Virtualization 4.6 klientu.\n\n## <a name=\"editions\"></a>Izdevumi \n* Windows datoriem\n"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Informācija par produktiem un migrāciju](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Kopš lietotnes versijas 4.6 klients izmanto lietotnes versijas 4.5 serveri, lietotnes versijas 4.5 serveris turpinās saņemt atbalstu saskaņā ar dzīves cikla datumu lietotnes versijai 4.6, ja tas tiks lietots ar atbalstītu lietotnes versijas 4.6 klientu.
+
+  ## <a name="editions"></a>Izdevumi 
+  * Windows darbvirsmām
