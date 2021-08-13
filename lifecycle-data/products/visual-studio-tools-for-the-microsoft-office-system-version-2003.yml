@@ -1,28 +1,19 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio rīki Microsoft Office 2003 sistēmas versijai
-  description: Visual Studio rīki Microsoft Office 2003 sistēmas versijai ievēro fiksētā dzīves cikla politiku.
+  title: "Visual Studio rīki Microsoft\_Office 2003 sistēmas versijai"
+  description: "Visual Studio rīki Microsoft\_Office 2003 sistēmas versijai ievēro fiksētā dzīves cikla politiku."
   ms.date: 07/28/2020
-  ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827974"
-name: Visual Studio rīki Microsoft Office 2003 sistēmas versijai
-summary: >+
-  Visual Studio rīki Microsoft Office 2003 sistēmas versijai ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
-
+name: "Visual Studio rīki Microsoft\_Office 2003 sistēmas versijai"
+summary: "Visual Studio rīki Microsoft\_Office 2003 sistēmas versijai ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.\n\n\n"
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 12/04/2003
   end: 01/13/2009
   extendedEnd: 01/14/2014
 releases:
-- version: Original Release
-  startDate: 12/04/2003
-  endDate: 01/14/2014
-content: ''
+  - version: Original Release
+    startDate: 12/04/2003
+    endDate: 01/14/2014
+content: |+

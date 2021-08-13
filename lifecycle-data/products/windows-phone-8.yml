@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: Windows Phone 8 ievēro fiksētā dzīves cikla politiku.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940893"
 name: Windows Phone 8
-summary: >+
+summary: |+
   Windows Phone 8 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> Microsoft nodrošina atjauninājumus operētājsistēmai, tostarp drošības atjauninājumus, vismaz 36 mēnešus pēc dzīves cikla sākuma datuma. Šie atjauninājumi tiks nodrošināti pakāpeniski, un katrs atjauninājums tiks veidots, pamatojoties uz iepriekšējo atjauninājumu. Klientiem jāinstalē katrs atjauninājums, lai saglabātu atbalstu. Šo papildu atjauninājumu izplatīšanu var kontrolēt mobilais operators vai tā tālruņa ražotājs, no kura iegādājāties tālruni, un to instalēšanai tālrunī būs nepieciešami iepriekšējie atjauninājumi. Atjauninājumu pieejamība būs atkarīga arī no valsts, reģiona un aparatūras iespējām."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft nodrošina atjauninājumus operētājsistēmai, tostarp drošības atjauninājumus, vismaz 36 mēnešus pēc dzīves cikla sākuma datuma. Šie atjauninājumi tiks nodrošināti pakāpeniski, un katrs atjauninājums tiks veidots, pamatojoties uz iepriekšējo atjauninājumu. Klientiem jāinstalē katrs atjauninājums, lai saglabātu atbalstu. Šo papildu atjauninājumu izplatīšanu var kontrolēt mobilais operators vai tā tālruņa ražotājs, no kura iegādājāties tālruni, un to instalēšanai tālrunī būs nepieciešami iepriekšējie atjauninājumi. Atjauninājumu pieejamība būs atkarīga arī no valsts, reģiona un aparatūras iespējām.

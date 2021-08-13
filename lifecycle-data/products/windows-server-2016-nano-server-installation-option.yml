@@ -3,28 +3,30 @@ metadata:
   title: Windows Server 2016 Nano Server instalēšanas opcija
   description: Windows Server 2016 Nano Server instalēšanas opcija ievēro mūsdienīgā dzīves cikla politiku.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939416"
+  keywords: 'Datacenter,Standard'
 name: Windows Server 2016 Nano Server instalēšanas opcija
-summary: >+
+summary: |+
   Windows Server 2016 Nano Server instalēšanas opcija ievēdro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: Datacenter, standarta versija
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Standarta versija"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Apkalpošanas informācija](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Izdevumi 
+  * Datacenter
+  * Standarta versija

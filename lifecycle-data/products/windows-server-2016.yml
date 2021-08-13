@@ -1,19 +1,12 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2016
+  title: "Windows Server\_2016"
   description: Windows Server 2016 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/09/2021
-  keywords: 
-  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255251"
-name: Windows Server 2016
-summary: >+
+  keywords: null
+name: "Windows Server\_2016"
+summary: |+
   Windows Server 2016 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
 
   Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, MultiPoint Premium, standarta versija
@@ -21,14 +14,31 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/windows-server/get-started/server-basics)\n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n* [Windows konteineru bāzes attēlu apkalpošanas dzīves cikli](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Konteineriem, kas izlaisti kopā ar Windows Server 2016, ir tādi paši dzīves cikla datumi.\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standarta versija"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+
+  ## <a name="links"></a>Saites 
+  * [Informācija par produktu](/windows-server/get-started/server-basics)
+  * [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)
+  * [Windows konteineru bāzes attēlu apkalpošanas dzīves cikli](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
+
+
+  > [!NOTE]
+  > Konteineriem, kas izlaisti kopā ar Windows Server 2016, ir tādi paši dzīves cikla datumi.
+
+
+  ## <a name="editions"></a>Izdevumi 
+  * Datacenter
+  * Essentials
+  * MultiPoint Premium
+  * Standarta versija

@@ -3,33 +3,32 @@ metadata:
   title: Programmatūras licencēšanas un aizsardzības serveris
   description: Programmatūras licencēšanas un aizsardzības serveris ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001064"
+  keywords: 'Enterprise,Standard'
 name: Programmatūras licencēšanas un aizsardzības serveris
-summary: >
+summary: |
   Programmatūras licencēšanas un aizsardzības serveris ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: Enterprise, standarta versija
 
-
   > [!IMPORTANT]
-
   > Sakarā ar programmatūras licencēšanas un aizsardzības servera (SLPS) nodalīšanu Microsoft atbalstīja SLPS līdz 2009. gada 24. septembrim.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Saites \n* [Programmatūras licencēšanas un aizsardzības serveris (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Standarta versija"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Programmatūras licencēšanas un aizsardzības serveris (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Izdevumi 
+  * Enterprise
+  * Standarta versija
