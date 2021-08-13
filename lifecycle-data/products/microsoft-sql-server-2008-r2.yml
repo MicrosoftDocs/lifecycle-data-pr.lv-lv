@@ -3,47 +3,63 @@ metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: d18b8ab6918149d81b686c3a63ac65441be3d37b
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2028921"
+  keywords: null
 name: Microsoft SQL Server 2008 R2
-summary: >+
+summary: |+
   Microsoft SQL Server 2008 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: Datacenter, Developer, Enterprise, Express, Express ar papildu pakalpojumiem, iegultajām sistēmām, standarta versija, Standard Edition mazajiem uzņēmumiem, tīmekļa versija, darbgrupa
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/20/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Extended Security Update Year 3
-  startDate: 07/14/2021
-  endDate: 07/12/2022
-- version: Extended Security Update Year 2
-  startDate: 07/15/2020
-  endDate: 07/13/2021
-- version: Extended Security Update Year 1
-  startDate: 07/09/2019
-  endDate: 07/14/2020
-- version: Service Pack 3
-  startDate: 07/07/2014
-  endDate: 07/09/2019
-- version: Service Pack 2
-  startDate: 07/26/2012
-  endDate: 10/13/2015
-- version: Service Pack 1
-  startDate: 07/12/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 07/20/2010
-  endDate: 07/10/2012
-content: "> [!TIP]\n> * Paplašinātie drošības atjauninājumi (ESU) ir pieejami šādiem šī produkta izdevumiem: Datacenter, Enterprise, standarta versijai un iegultajiem izdevumiem vēl papildus trīs gadus pēc atbalsta beigām. Lai uzzinātu vairāk, sazinieties ar Microsoft partneri vai konta komandu. \n\n## <a name=\"links\"></a>Saites \n* [SQL Server 2008 un Windows Server 2008 atbalsta opciju darbības beigas](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [SQL serveris atbalsta darbības beigas](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n* [Paplašinātā drošības atjauninājuma programma (ESU)](/lifecycle/faq/extended-security-updates)\n\n> [!NOTE]\n> Tikai IA64, SP2 tiks atbalstīta līdz 09.07.2019. Papildinformāciju skatiet SQL Release Services emuārā.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express ar papildu pakalpojumiem\n* iegultajām sistēmām\n* Standarta versija\n* Standard Edition mazajiem uzņēmumiem\n* Tīmekļa versija\n* Darbgrupa"
+  - version: Extended Security Update Year 3
+    startDate: 07/14/2021
+    endDate: 07/12/2022
+  - version: Extended Security Update Year 2
+    startDate: 07/15/2020
+    endDate: 07/13/2021
+  - version: Extended Security Update Year 1
+    startDate: 07/09/2019
+    endDate: 07/14/2020
+  - version: Service Pack 3
+    startDate: 07/07/2014
+    endDate: 07/09/2019
+  - version: Service Pack 2
+    startDate: 07/26/2012
+    endDate: 10/13/2015
+  - version: Service Pack 1
+    startDate: 07/12/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 07/20/2010
+    endDate: 07/10/2012
+content: |
+  > [!TIP]
+  > * Paplašinātie drošības atjauninājumi (ESU) ir pieejami šādiem šī produkta izdevumiem: Datacenter, Enterprise, standarta versijai un iegultajiem izdevumiem vēl papildus trīs gadus pēc atbalsta beigām. Lai uzzinātu vairāk, sazinieties ar Microsoft partneri vai konta komandu. 
+
+  ## <a name="links"></a>Saites 
+  * [SQL Server 2008 un Windows Server 2008 atbalsta opciju darbības beigas](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
+  * [SQL serveris atbalsta darbības beigas](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)
+  * [Paplašinātā drošības atjauninājuma programma (ESU)](/lifecycle/faq/extended-security-updates)
+
+  > [!NOTE]
+  > Tikai IA64, SP2 tiks atbalstīta līdz 09.07.2019. Papildinformāciju skatiet SQL Release Services emuārā.
+
+  ## <a name="editions"></a>Izdevumi 
+  * Datacenter
+  * Developer
+  * Enterprise
+  * Express
+  * Express ar papildu pakalpojumiem
+  * iegultajām sistēmām
+  * Standarta versija
+  * Standard Edition mazajiem uzņēmumiem
+  * Tīmekļa versija
+  * Darbgrupa

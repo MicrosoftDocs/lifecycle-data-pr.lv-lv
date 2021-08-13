@@ -3,29 +3,35 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
-  keywords: Essentials,Standard,Workgroup
-  ms.openlocfilehash: 882550832ce3c5dc7b3a62ef17e1358df0445a9f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939009"
+  keywords: 'Essentials,Standard,Workgroup'
 name: Windows Storage Server 2012 R2
-summary: >+
+summary: |+
   Windows Storage Server 2012 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: Essentials, standarta versija, darba grupa
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/25/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku.\n> [!NOTE]\n> Essentials izdevuma darbības sākuma datums ir 2014. gada 25. septembris. \n\n## <a name=\"editions\"></a>Izdevumi \n* Essentials\n* Standarta versija\n* Darbgrupa"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-2012r2-to-2019)
+
+  > [!NOTE]
+  > Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku.
+  > [!NOTE]
+  > Essentials izdevuma darbības sākuma datums ir 2014. gada 25. septembris. 
+
+  ## <a name="editions"></a>Izdevumi 
+  * Essentials
+  * Standarta versija
+  * Darbgrupa
