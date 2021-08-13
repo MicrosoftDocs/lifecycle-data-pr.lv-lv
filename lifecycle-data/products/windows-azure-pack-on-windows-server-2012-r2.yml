@@ -3,32 +3,25 @@ metadata:
   title: Windows Azure pakotne (sistēmā Windows Server 2012 R2)
   description: Windows Azure pakotne (sistēmā Windows Server 2012 R2) ievēro fiksētā dzīves cikla politiku.
   ms.date: 10/19/2020
-  keywords: 
-  ms.openlocfilehash: 38fe3e0f5e46d996504b594c78e8717330b720c0
-  ms.sourcegitcommit: 2898ade954d468d09e16a723f0685bbac5214be0
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "1160936"
+  keywords: null
 name: Windows Azure pakotne (sistēmā Windows Server 2012 R2)
-summary: >+
+summary: |+
   Windows Azure pakotne (sistēmā Windows Server 2012 R2) ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: sistēmā Windows Server 2012 R2
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/14/2014
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: on Windows Server 2012 R2
-  startDate: 01/14/2014
-  endDate: 07/12/2022
-- version: V2 Web Sites
-  startDate: 01/14/2014
-  endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Saites \n* [Windows Azure pakotnes Web Sites V2 atbalsta dzīves cikla datumi](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Azure pakotnes sistēmai Windows Server produkta informācija](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Izdevumi \n* sistēmā Windows Server 2012 R2\n"
+  - version: on Windows Server 2012 R2
+    startDate: 01/14/2014
+    endDate: 07/12/2022
+  - version: V2 Web Sites
+    startDate: 01/14/2014
+    endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>Saites \n* [Windows Azure pakotnes Web Sites V2 atbalsta dzīves cikla datumi](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Azure pakotnes sistēmai Windows Server produkta informācija](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>Izdevumi \n* sistēmā Windows Server\_2012\_R2\n"

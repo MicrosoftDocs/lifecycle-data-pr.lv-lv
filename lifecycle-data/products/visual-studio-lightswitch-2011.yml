@@ -3,26 +3,20 @@ metadata:
   title: Visual Studio LightSwitch 2011
   description: Visual Studio LightSwitch 2011 ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "858504"
 name: Visual Studio LightSwitch 2011
-summary: >+
+summary: |+
   Visual Studio LightSwitch 2011 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/30/2011
   end: 01/10/2017
   extendedEnd: 01/11/2022
 releases:
-- version: Original Release
-  startDate: 10/30/2011
-  endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Saites \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 ir jaunākais Visual Studio laidiens, kas ietver LightSwitch rīkus. Jaunu lietojumprogrammu izstrādei iesakām izmantot Microsoft PowerApps.\n\n\n"
+  - version: Original Release
+    startDate: 10/30/2011
+    endDate: 01/11/2022
+content: "\n## <a name=\"links\"></a>Saites \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio\_2015 ir jaunākais Visual Studio laidiens, kas ietver LightSwitch rīkus. Jaunu lietojumprogrammu izstrādei iesakām izmantot Microsoft PowerApps.\n\n\n"

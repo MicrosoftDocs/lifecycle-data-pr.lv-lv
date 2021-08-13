@@ -1,34 +1,38 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8
+  title: "Windows\_8"
   description: Windows 8 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002322"
-name: Windows 8
-summary: >
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
+name: "Windows\_8"
+summary: |
   Windows 8 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
 
-
   > [!IMPORTANT]
-
   > Šī produkta atbalsts ir beidzies. Klienti jāatjaunina uz Windows 8.1, lai arī turpmāk tiem tiktu nodrošināts atbalsts..
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Enterprise\n* Enterprise N\n* N\n* Pro with Media Center\n* Profesionālā versija\n* Professional N\n* SL"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Bieži uzdotie jautājumi par dzīves ciklu - Windows 8.1](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>Izdevumi 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Pro with Media Center
+  * Profesionālā versija
+  * Professional N
+  * SL
