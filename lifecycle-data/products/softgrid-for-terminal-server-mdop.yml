@@ -3,25 +3,25 @@ metadata:
   title: SoftGrid Terminal Server (MDOP)
   description: SoftGrid Terminal Server (MDOP) ievēro fiksētā dzīves cikla politiku.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "827828"
 name: SoftGrid Terminal Server (MDOP)
-summary: >+
+summary: |+
   SoftGrid for Terminal Server (MDOP) ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Saites \n* [ Bieži uzdotie jautājumi par dzīves ciklu - vispārīgi ](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Neietver versijas, kuru atbalsts iepriekš jau noņemts. Šī produkta atbalstu nosaka tā iegādes nosacījumi."
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |+
+
+  ## <a name="links"></a>Saites 
+  * [ Bieži uzdotie jautājumi par dzīves ciklu - vispārīgi ](/lifecycle/faq/general-lifecycle)
+
+  > [!NOTE]
+  > Neietver versijas, kuru atbalsts iepriekš jau noņemts. Šī produkta atbalstu nosaka tā iegādes nosacījumi.
