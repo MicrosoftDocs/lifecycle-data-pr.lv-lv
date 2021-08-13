@@ -3,33 +3,33 @@ metadata:
   title: SoftGrid lietojumprogrammu virtualizācija
   description: SoftGrid lietojumprogrammu virtualizācija ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/10/2020
-  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
-  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: lv-LV
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001027"
+  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
 name: SoftGrid lietojumprogrammu virtualizācija
-summary: >
+summary: |
   SoftGrid lietojumprogrammu virtualizācija ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
-
 
   Tas attiecas uz šādiem izdevumiem: 4.1 datoriem, 4.2 datoriem, programmai Terminal Services 4.1
 
-
   > [!IMPORTANT]
-
   > Atbalsts ir beidzies. Skatiet tālāk sniegtās migrācijas vadlīnijas.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/25/2007
   end: 07/10/2012
   extendedEnd: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 05/25/2007
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* 4.1 datoriem\n* 4.2 datoriem\n* programmai Terminal Services 4.1"
+  - version: Original Release
+    startDate: 05/25/2007
+    endDate: 07/11/2017
+content: |
+
+  ## <a name="links"></a>Saites 
+  * [Migrācijas vadlīnijas](https://technet.microsoft.com/en-us/windows/bb899442)
+
+
+  ## <a name="editions"></a>Izdevumi 
+  * 4.1 datoriem
+  * 4.2 datoriem
+  * programmai Terminal Services 4.1
