@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: Windows Server IoT 2022 ievēro fiksētā dzīves cikla politiku.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508076"
+name: Windows Server IoT 2022
+summary: >+
+  Windows Server IoT 2022 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
+
+
+
+  Tas attiecas uz šādiem izdevumiem: Datu centrs, Standarta versija, Krātuves standarta versija, Krātuves darbgrupa, Telekomunikācijas
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Microsoft Edge ievēro [modernā dzīves cikla politiku](https://docs.microsoft.com/lifecycle/policies/modern). Lūdzu, skatiet Edge [dzīves cikla dokumentāciju,](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) lai uzzinātu, kā nodrošināt šīs pārlūkprogrammas atjaunināšanu un atbalstu.\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Standarta versija\n* Krātuves standarta versija\n* Krātuves darbgrupa\n* Telekomunikācijas"
