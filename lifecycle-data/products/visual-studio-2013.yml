@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 09/01/2020
-  keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487198"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509258"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
 
-  Tas attiecas uz šādiem izdevumiem: Aģenti, visi, Community, Express tīmeklim, Express sistēmai Windows, Express sistēmai Windows Desktop, IntelliTrace Collector, modelēšanas SDK, Multibyte MFC Library, Premium, Professional, Release Management, attālie rīki, SDK, Shell (integrēta), Shell (izolēta), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+
+  Tas attiecas uz šādiem izdevumiem: Community, Express darbam tīmeklī, Express operētājsistēmai Windows, Express operētājsistēmai Windows Desktop, Premium, Professional, Release Management, Test Professional, Ultimate
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Visi\n* Kopiena\n* Express darbam tīmeklī\n* Express sistēmai Windows\n* Express operētājsistēmas Windows darbvirsmai\n* IntelliTrace kolektors\n* Modelēšanas SDK\n* Multibyte MFC Library\n* Premium\n* Profesionālā versija\n* Release Management\n* Attālie rīki\n* SDK\n* Shell (integrēta)\n* Shell (izolēta)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi"
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Visual Studio 2013 dzīves cikla ietvaros tiek piegādātas un atbalstītas tālāk norādīto komponentu Visual Studio 2013 versijas: Agents, IntelliTrace Collector, Modelling SDK, Multibyte MFC Library, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Visual C++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Kopiena\n* Express darbam tīmeklī\n* Express sistēmai Windows\n* Express operētājsistēmas Windows darbvirsmai\n* Premium\n* Profesionālā versija\n* Release Management\n* Test Professional\n* Ultimate"

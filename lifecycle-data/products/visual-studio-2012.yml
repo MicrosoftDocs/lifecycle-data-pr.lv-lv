@@ -1,30 +1,40 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Visual Studio\_2012"
+  title: Visual Studio 2012
   description: Visual Studio 2012 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
-name: "Visual Studio\_2012"
-summary: |+
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509184"
+name: Visual Studio 2012
+summary: >+
   Visual Studio 2012 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
-  Tas attiecas uz šādiem izdevumiem: Aģenti, Community 2013, Express darbam tīmeklī, Express operētājsistēmai Windows 8, Express operētājsistēmas Windows darbvirsmai, IntelliTrace kolektors, Microsoft Azure rīki, Premium, Professional, attālie rīki, Shell (integrēta), Shell (izolēta), SQL Server datu rīki, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, tīmekļa rīku paplašinājumi
+
+
+  Tas attiecas uz šādiem izdevumiem: Express darbam tīmeklī, Express operētājsistēmai Windows Desktop, Premium, Professional, Team Explorer, Ultimate
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-  - version: Update 5
-    startDate: 08/21/2015
-    endDate: 01/10/2023
-  - version: Update 4
-    startDate: 11/12/2013
-    endDate: 10/08/2019
-  - version: Original Release
-    startDate: 10/31/2012
-    endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Saites \n* [Visual Studio produkta dzīves cikls un apkope](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Aģenti\n* Community 2013\n* Express darbam tīmeklī\n* Express operētājsistēmai Windows\_8\n* Express operētājsistēmas Windows darbvirsmai\n* IntelliTrace kolektors\n* Microsoft Azure rīki\n* Premium\n* Profesionālā versija\n* Attālie rīki\n* Shell (integrēta)\n* Shell (izolēta)\n* SQL Server datu rīki\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Tīmekļa rīku paplašinājumi\n"
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija vecākām Visual Studio versijām](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Pakalpojumu pakotnes polise](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Visual Studio 2012 dzīves cikla ietvaros tiek piegādātas un atbalstītas tālāk norādīto komponentu Visual Studio 2012 versijas: Agents, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Express darbam tīmeklī\n* Express operētājsistēmas Windows darbvirsmai\n* Premium\n* Profesionālā versija\n* Team Explorer\n* Ultimate"

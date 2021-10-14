@@ -1,49 +1,37 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Visual Studio\_2017"
+  title: Visual Studio 2017
   description: Visual Studio 2017 ievēro fiksētā dzīves cikla politiku.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
-name: "Visual Studio\_2017"
-summary: |+
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509221"
+name: Visual Studio 2017
+summary: >+
   Visual Studio 2017 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
 
-  Tas attiecas uz šādiem izdevumiem: Aģenti, Build Tools, Community, Enterprise, ESM, Feedback Client, darbam ar Mac, IntelliTrace Standalone Collector, veiktspējas rīki, Professional, PSM, attālie rīki, Team Explorer, Test Professional, Visual C ++ Redistributable.
+
+
+  Tas attiecas uz šādiem izdevumiem: Community, Enterprise, Professional, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-  - version: Version 15.9
-    startDate: 11/13/2018
-    endDate: 04/13/2027
-  - version: Version 15.0
-    startDate: 03/07/2017
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Saites 
-  * [Paziņojums](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
-  * [Apkalpošanas informācija](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
-
-
-  ## <a name="editions"></a>Izdevumi 
-  * Aģenti
-  * Izveides rīki
-  * Kopiena
-  * Enterprise
-  * ESM
-  * Atsauksmju klients
-  * darbam ar Mac
-  * IntelliTrace savrupais kolektors
-  * Veiktspējas rīki
-  * Profesionālā versija
-  * PSM
-  * Attālie rīki
-  * Team Explorer
-  * Test Professional
-  * Visual C++ Redistributable
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Visual Studio emuāru paziņojumi](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Apkalpošanas informācija](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Visual Studio 2017 lejupielādes lapa](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Visual Studio 2017 laidiena piezīmes](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> Visual Studio 2017 dzīves cikla ietvaros tiek piegādātas un atbalstītas tālāk norādīto komponentu Visual Studio 2017 versijas: Agents, Build Tools, ESM, Feedback Client, IntelliTrace Standalone Collector, Performance Tools, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Kopiena\n* Enterprise\n* Profesionālā versija\n* Test Professional"
