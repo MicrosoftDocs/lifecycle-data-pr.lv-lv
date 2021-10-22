@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio darbam ar Mac
+  description: Visual Studio darbam ar Mac ievēro fiksētā dzīves cikla politiku.
+  ms.date: 10/18/2021
+  keywords: 
+  ms.openlocfilehash: 9121ce6cda874c2a565655deb19768aa86d582cc
+  ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 10/19/2021
+  ms.locfileid: "3518839"
+name: Visual Studio darbam ar Mac
+summary: >+
+  Visual Studio darbam ar Mac ievēro [mūsdienīgā](/lifecycle/policies/modern) dzīves cikla politiku.
+
+
+
+  Tas attiecas uz šādiem izdevumiem: Core, Enterprise, Professional
+
+
+
+products:
+- vs
+policyType: modern-online
+supportDates:
+  start: 05/10/2017
+releases:
+- version: Visual Studio 2019 for Mac
+  startDate: 03/08/2019
+- version: Visual Studio 2017 for Mac
+  startDate: 05/10/2017
+  endDate: 03/08/2019
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Apkalpošanas informācija](/visualstudio/productinfo/vs-servicing-mac-2019)\n\n\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Kopiena\n* Enterprise\n* Profesionālā versija"
