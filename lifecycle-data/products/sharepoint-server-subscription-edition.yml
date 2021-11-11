@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server abonementa izdevums
+  description: SharePoint Server abonējamais izdevums ievēro modernā dzīves cikla politiku.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546916"
+name: SharePoint Server abonementa izdevums
+summary: >+
+  SharePoint Server abonementa izdevums ievēro [modernā](/lifecycle/policies/modern) dzīves cikla politiku.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Skatiet [produkta](https://docs.microsoft.com/sharepoint/sharepoint-server) un [izstrādātāja](https://docs.microsoft.com/sharepoint/dev/) dokumentāciju."
