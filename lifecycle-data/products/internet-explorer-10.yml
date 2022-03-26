@@ -3,26 +3,25 @@ metadata:
   title: Interneta Explorer 10
   description: Interneta Explorer 10 ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
+  ms.openlocfilehash: ead579969824424aec15a20a3599e60dfd072655
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114526"
 name: Interneta Explorer 10
-summary: |+
+summary: >+
   Interneta Explorer 10 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/30/2012
-  end: 01/31/2020
+  start: 2012-10-30T00:00:00.000-08:00
+  end: 2020-01-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 01/31/2020
-content: |+
-
-  ## <a name="links"></a>Saites 
-  * [Migrācijas vadlīnijas](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
-  * [Bieži uzdotie jautājumi par Internet Explorer dzīves cikla politiku](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Lai uzzinātu atbalstīto operētājsistēmu un pārlūkprogrammu kombināciju sarakstu, apmeklējiet Internet Explorer dzīves cikla bieži uzdoto jautājumu sadaļu.
+- version: Original Release
+  startDate: 2012-10-30T00:00:00.000-08:00
+  endDate: 2020-01-31T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Bieži uzdotie jautājumi par Internet Explorer dzīves cikla politiku](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Lai uzzinātu atbalstīto operētājsistēmu un pārlūkprogrammu kombināciju sarakstu, apmeklējiet Internet Explorer dzīves cikla bieži uzdoto jautājumu sadaļu."
