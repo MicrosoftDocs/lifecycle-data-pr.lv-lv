@@ -1,14 +1,14 @@
 ---
 title: Dzīves cikla datu eksportēšana
 description: Eksportēt informāciju par produkta dzīves ciklu
-ms.date: 11/01/2021
+ms.date: 01/05/2022
 layout: ContentPage
-ms.openlocfilehash: be7a11f46a034a396e6e74877834d847557cc708
-ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+ms.openlocfilehash: 6299bdc744eecf7591d3d57bc72bc8299464e904
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "3546895"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4150934"
 ---
 # <a name="lifecycle-data-export"></a>Dzīves cikla datu eksportēšana
 
@@ -87,7 +87,6 @@ Atlasiet gadu, lai redzētu, kuriem produktiem beidzas atbalsta termiņš. Piez�
 > [!div class="op_single_selector"]
 > - [Nākamie 12 mēneši](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [Nākamie 6 mēneši](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
 > - [2019](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2019))
@@ -103,3 +102,4 @@ Atlasiet gadu, lai redzētu, kuriem produktiem beidzas atbalsta termiņš. Piez�
 > - [2029](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2029))
 > - [2030](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2030))
 > - [2031](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2031))
+> - [2032](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2032))

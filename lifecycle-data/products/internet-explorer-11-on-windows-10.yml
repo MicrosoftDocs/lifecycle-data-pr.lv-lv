@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11 operētājsistēmā Windows 10
+  description: Internet Explorer 11 operētājsistēmā Windows 10 ievēro komponentu dzīves cikla politiku.
+  ms.date: 01/26/2022
+  keywords: IE11
+  ms.openlocfilehash: dcb7e8ea01f42d7b05b02e62b9ca48ab769ab27d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156394"
+name: Internet Explorer 11 operētājsistēmā Windows 10
+summary: >+
+  Internet Explorer 11 operētājsistēmai Windows 10 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Internet Explorer (IE) 11 darbvirsmas lietojumprogramma pārtrauks atbalstu Windows 10 pusgada kanālam, sākot ar 2022. gada 15. jūniju. Klienti tiek aicināti pāriet uz Microsoft Edge ar IE režīmu. IE režīms iespējo atpakaļ savietojamību un tiks atbalstīts vismaz līdz 2029. gadam. Turklāt Microsoft paziņos par to vienu gadu pirms IE režīma pārtraukšanas. Skatiet[šeit](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) sarakstu ar atbalstītajām Internet Explorer pārlūkprogrammas operētājsistēmām, ieskaitot versijas, kuras ietekmē šis paziņojums.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Bieži uzdotie jautājumi par Internet Explorer/Edge dzīves ciklu](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Explorer atbalstītās operētājsistēmas](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge atbalstītās operētājsistēmas](/deployedge/microsoft-edge-supported-operating-systems)"

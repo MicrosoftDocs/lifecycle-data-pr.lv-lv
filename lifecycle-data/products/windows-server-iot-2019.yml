@@ -1,24 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Windows Server\_IoT 2019"
+  title: Windows Server IoT 2019
   description: Windows Server IoT 2019 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
-  keywords: 'Datacenter,Essentials,Standard,Telecommunications'
-name: "Windows Server\_IoT 2019"
-summary: |+
+  keywords: Datacenter,Essentials,Standard,Telecommunications
+  ms.openlocfilehash: a1be67d352fcce831d32e6ae9dcb30b5afb9f537
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141891"
+name: Windows Server IoT 2019
+summary: >+
   Windows Server IoT 2019 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
+
 
   Tas attiecas uz šādiem izdevumiem: Datacenter, Essentials, standarta versija, telekomunikācijas
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 03/04/2019
-  end: 01/09/2024
-  extendedEnd: 01/09/2029
+  start: 2019-03-04T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 03/04/2019
-    endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Uz visām Windows Server IoT\_2019 versijām attiecas Windows Server\_2019 dzīves cikls.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Standarta versija\n* Telekomunikācijas\n"
+- version: Original Release
+  startDate: 2019-03-04T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Saites \n* [Bieži uzdotie jautājumi par dzīves ciklu - Windows produkti](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Uz visām Windows Server IoT 2019 versijām attiecas Windows Server 2019 dzīves cikls.\n\n## <a name=\"editions\"></a>Izdevumi \n* Datacenter\n* Essentials\n* Standarta versija\n* Telekomunikācijas\n"

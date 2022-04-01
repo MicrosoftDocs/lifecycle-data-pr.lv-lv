@@ -3,35 +3,29 @@ metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
-  keywords: 'Essentials,Standard,Workgroup'
+  keywords: Essentials,Standard,Workgroup
+  ms.openlocfilehash: e79fd09b35275e280607e072d89625caa917d4f3
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134469"
 name: Windows Storage Server 2012 R2
-summary: |+
+summary: >+
   Windows Storage Server 2012 R2 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku.
+
 
   Tas attiecas uz šādiem izdevumiem: Essentials, standarta versija, darba grupa
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/25/2013
-  end: 10/09/2018
-  extendedEnd: 10/10/2023
+  start: 2013-11-25T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/25/2013
-    endDate: 10/10/2023
-content: |
-
-  ## <a name="links"></a>Saites 
-  * [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-2012r2-to-2019)
-
-  > [!NOTE]
-  > Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku.
-  > [!NOTE]
-  > Essentials izdevuma darbības sākuma datums ir 2014. gada 25. septembris. 
-
-  ## <a name="editions"></a>Izdevumi 
-  * Essentials
-  * Standarta versija
-  * Darbgrupa
+- version: Original Release
+  startDate: 2013-11-25T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Šim produktam izmantotais vispārējais un paplašinātais atbalsts ir paplašināts, lai nodrošinātu klientiem standarta dzīves cikla pārejas laika grafiku.\n> [!NOTE]\n> Essentials izdevuma darbības sākuma datums ir 2014. gada 25. septembris. \n\n## <a name=\"editions\"></a>Izdevumi \n* Essentials\n* Standarta versija\n* Darbgrupa"

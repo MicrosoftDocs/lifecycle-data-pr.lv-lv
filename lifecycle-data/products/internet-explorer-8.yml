@@ -3,12 +3,12 @@ metadata:
   title: Internet Explorer 8
   description: Internet Explorer 8 ievēro komponentu dzīves cikla politiku.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 074b27d8fdc9a2bfeb08e90c2ef9f6289cb32b5cf2dc8ae35795a79155aa9a43
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2e4cd348ae16bebac701129b9b5735a20b4f698f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: lv-LV
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519721"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155189"
 name: Internet Explorer 8
 summary: >+
   Internet Explorer 8 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
@@ -18,8 +18,8 @@ products:
 - internet-explorer
 policyType: component
 supportDates:
-  start: 06/17/2009
+  start: 2009-06-17T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 06/17/2009
+  startDate: 2009-06-17T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://www.microsoft.com/itpro/microsoft-edge)\n* [Bieži uzdotie jautājumi par Internet Explorer dzīves cikla politiku](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Sākot ar 2016. gada 12. janvāri, tehnisko atbalstu un drošības atjauninājumus saņems tikai visjaunākā atbalstītajai operētājsistēmai pieejamā Internet Explorer versija."

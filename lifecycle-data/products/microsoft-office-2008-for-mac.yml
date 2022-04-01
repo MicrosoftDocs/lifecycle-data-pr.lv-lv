@@ -3,40 +3,29 @@ metadata:
   title: Microsoft Office 2008 darbam ar Mac
   description: Microsoft Office 2008 darbam ar Mac ievēro fiksētā dzīves cikla politiku.
   ms.date: 09/01/2020
-  keywords: 'Business,Home and Student,Special Media Editon'
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 7cc28383ddeafd4d24497a0aab3b221f69865027
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4126514"
 name: Microsoft Office 2008 darbam ar Mac
-summary: |
-  Microsoft Office 2008 darbam ar Mac ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku. 
-
-  Tas attiecas uz šādiem izdevumiem: Izdevumi darbam, skolēniem un mājas lietošanai, kā arī īpašais mediju izdevums
-
-  > [!IMPORTANT]
-  > Šī produkta atbalsts ir beidzies. 
+summary: "Microsoft Office 2008 darbam ar Mac ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla politiku. \n\nTas attiecas uz šādiem izdevumiem: Izdevumi darbam, skolēniem un mājas lietošanai, kā arī īpašais mediju izdevums\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. \n"
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 01/15/2008
-  end: 04/09/2013
+  start: 2008-01-15T00:00:00.000-08:00
+  end: 2013-04-09T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 07/20/2009
-    endDate: 04/09/2013
-  - version: Service Pack 1
-    startDate: 05/13/2008
-    endDate: 10/12/2010
-  - version: Original Release
-    startDate: 01/15/2008
-    endDate: 07/14/2009
-content: |
-
-  ## <a name="links"></a>Saites 
-  * [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Office 2008 darbam ar Mac īpašā mediju izdevuma darbības sākuma datums ir 2008. gada 12. marts.
-
-  ## <a name="editions"></a>Izdevumi 
-  * Darbam
-  * Skolēniem un mājas lietošanai
-  * Īpašais mediju izdevums
+- version: Service Pack 2
+  startDate: 2009-07-20T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2008-05-13T00:00:00.000-08:00
+  endDate: 2010-10-12T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2008-01-15T00:00:00.000-08:00
+  endDate: 2009-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Saites \n* [Servisa pakotnes politika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Office 2008 darbam ar Mac īpašā mediju izdevuma darbības sākuma datums ir 2008. gada 12. marts.\n\n## <a name=\"editions\"></a>Izdevumi \n* Darbam\n* Skolēniem un mājas lietošanai\n* Īpašais mediju izdevums"

@@ -1,13 +1,13 @@
 ---
 title: Produkti, kuru atbalsts beidzas 2016. gadā
 description: Uzziniet, kuru produktu darbība tiks apturēta, sasniegs atbalsta beigas vai pāries no galvenā atbalsta uz paplašināto atbalstu 2016. gadā.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028904"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117560"
 ---
 # <a name="products-ending-support-in-2016"></a>Produkti, kuru atbalsts beidzas 2016. gadā
 
@@ -20,13 +20,6 @@ Ja jums ir jautājumi par produkta atbalstu, lūdzu, sazinieties ar savu Microso
 
 
 
-## <a name="release-end-of-servicing"></a>Laidiena apkopes beigu datums
-
-Tālāk norādīti produktu laidieni, kurus regulē [mūsdienīgā politika](/lifecycle/policies/modern) un kuru atbalsts beigsies 2016. gadā.
-
-| Produkts | Apkopes beigu datums |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, versija 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2016. gada 8. decembris |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkti, kuriem tuvojas atbalsta beigas

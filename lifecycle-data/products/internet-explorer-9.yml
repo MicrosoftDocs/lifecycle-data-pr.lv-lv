@@ -3,24 +3,23 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 ievēro komponentu dzīves cikla politiku.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154375"
 name: Internet Explorer 9
-summary: |+
+summary: >+
   Internet Explorer 9 ievēro [komponentu](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) dzīves cikla politiku.
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>Saites 
-  * [Migrācijas vadlīnijas](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Bieži uzdotie jautājumi par Internet Explorer dzīves cikla politiku](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Sākot ar 2016. gada 12. janvāri, tehnisko atbalstu un drošības atjauninājumus saņems tikai visjaunākā atbalstītajai operētājsistēmai pieejamā Internet Explorer versija.
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://www.microsoft.com/itpro/microsoft-edge)\n* [Bieži uzdotie jautājumi par Internet Explorer dzīves cikla politiku](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Sākot ar 2016. gada 12. janvāri, tehnisko atbalstu un drošības atjauninājumus saņems tikai visjaunākā atbalstītajai operētājsistēmai pieejamā Internet Explorer versija."

@@ -1,34 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "Microsoft Search Server\_2008"
+  title: Microsoft Search Server 2008
   description: Microsoft Search Server 2008 ievēro fiksētā dzīves cikla polisi.
   ms.date: 09/10/2020
-  keywords: 'Express,Standard'
-name: "Microsoft Search Server\_2008"
-summary: |
-  Microsoft Search Server 2008 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla polisi.
-
-  Tas attiecas uz šādiem izdevumiem: Express un standarta versija
-
-  > [!IMPORTANT]
-  > Šī produkta atbalsts ir beidzies. 
+  keywords: Express,Standard
+  ms.openlocfilehash: ee076f4589230854883747c126ca247362ead2fe
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4112713"
+name: Microsoft Search Server 2008
+summary: "Microsoft Search Server 2008 ievēro [fiksētā](/lifecycle/policies/fixed) dzīves cikla polisi.\n\nTas attiecas uz šādiem izdevumiem: Express un standarta versija\n\n> [!IMPORTANT]\n> Šī produkta atbalsts ir beidzies. \n"
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 06/03/2008
-  end: 07/09/2013
-  extendedEnd: 07/10/2018
+  start: 2008-06-03T00:00:00.000-08:00
+  end: 2013-07-09T22:59:59.999-08:00
+  extendedEnd: 2018-07-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/03/2008
-    endDate: 07/10/2018
-content: |
-
-  ## <a name="links"></a>Saites 
-  * [Migrācijas vadlīnijas](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
-
-
-  ## <a name="editions"></a>Izdevumi 
-  * Express
-  * Standarta versija
+- version: Original Release
+  startDate: 2008-06-03T00:00:00.000-08:00
+  endDate: 2018-07-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Saites \n* [Migrācijas vadlīnijas](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Izdevumi \n* Express\n* Standarta versija"

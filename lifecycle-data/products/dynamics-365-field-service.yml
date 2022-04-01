@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Field Service
+  description: Dynamics 365 Field Service ievēro modernā dzīves cikla politiku.
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: lv-LV
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157059"
+name: Dynamics 365 Field Service
+summary: >+
+  Dynamics 365 Field Service ievēro [modernā](/lifecycle/policies/modern) dzīves cikla politiku.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Lūdzu, ņemiet vērā, ka mantotās programmas Field Service Mobile (Xamarin) izmantošana tiek pārtraukta 2022. gada 30. jūnijā. Pirms šī datuma klientiem [jāveic migrēšana uz Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform) mobilo programmu. Papildinformāciju skatiet bieži [uzdotajos jautājumus par Field Service Mobile Xamarin atbalsta izbeigšanu](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs).
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Saites \n* [Informācija par produktu](/dynamics365/field-service/overview)\n* [Dynamics 365 Field Service mobilo programmu migrēšanas informācija](https://aka.ms/fsmobile-adoption)"
