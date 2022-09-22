@@ -1,13 +1,13 @@
 ---
 title: Produkti, kuru atbalsts beidzas 2011. gadā
 description: Uzziniet, kuru produktu darbība tiks apturēta, sasniegs atbalsta beigas vai pāries no galvenā atbalsta uz paplašināto atbalstu 2011. gadā.
-ms.date: 09/17/2021
-ms.openlocfilehash: 58db5162e8b1cea853892a8ee5786bee83054acc
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 2dc1cf852c2f226b2b759e305fe4e72d2c2b8e80
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028849"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518423"
 ---
 # <a name="products-ending-support-in-2011"></a>Produkti, kuru atbalsts beidzas 2011. gadā
 
@@ -51,7 +51,7 @@ Tālāk norādīti produkti un laidieni, kurus regulē [fiksētā politika](/lif
 | Produkts | Paplašinātā atbalsta beigas |
 | --- | --- |
 | [Dynamics 9.0 GreatPlains](/lifecycle/products/dynamics-90-greatplains?branch=live)<br>[Microsoft Office Business Scorecard Manager 2005](/lifecycle/products/microsoft-office-business-scorecard-manager-2005?branch=live)<br>[Windows Automotive 5.0](/lifecycle/products/windows-automotive-50?branch=live)<br>[Windows XP Embedded](/lifecycle/products/windows-xp-embedded?branch=live)<br> | 2011. gada 11. janvāris |
-| [Dynamics CRM 3.0](/lifecycle/products/dynamics-crm-30?branch=live)<br>[Microsoft SQL Server 2005](/lifecycle/products/microsoft-sql-server-2005?branch=live)<br>[Microsoft Visual Studio 2005](/lifecycle/products/microsoft-visual-studio-2005?branch=live)<br>[Microsoft Windows Small Business Server 2003](/lifecycle/products/microsoft-windows-small-business-server-2003?branch=live)<br>[Microsoft Windows Small Business Server 2003 R2 ](/lifecycle/products/microsoft-windows-small-business-server-2003-r2-?branch=live)<br>[Windows Embedded pakalpojumu punktam](/lifecycle/products/windows-embedded-for-point-of-service?branch=live)<br> | 2011. gada 12. aprīlis |
+| [Dynamics CRM 3.0](/lifecycle/products/dynamics-crm-30?branch=live)<br>[Microsoft SQL Server 2005](/lifecycle/products/microsoft-sql-server-2005?branch=live)<br>[Microsoft Visual Studio 2005](/lifecycle/products/microsoft-visual-studio-2005?branch=live)<br>[Microsoft Windows Small Business Server 2003](/lifecycle/products/microsoft-windows-small-business-server-2003?branch=live)<br>[Microsoft Windows Small Business Server 2003 R2](/lifecycle/products/microsoft-windows-small-business-server-2003-r2-?branch=live)<br>[Windows Embedded pakalpojumu punktam](/lifecycle/products/windows-embedded-for-point-of-service?branch=live)<br> | 2011. gada 12. aprīlis |
 | [Microsoft Customer Care Framework 2005](/lifecycle/products/microsoft-customer-care-framework-2005?branch=live)<br>[Microsoft System Center Data Protection Manager 2006](/lifecycle/products/microsoft-system-center-data-protection-manager-2006?branch=live)<br> | 2011. gada 13. aprīlis |
 | [BizTalk Adapter for Web Services Enhancement 2.0](/lifecycle/products/biztalk-adapter-for-web-services-enhancement-20?branch=live)<br>[Microsoft ActiveSync 4.2](/lifecycle/products/microsoft-activesync-42?branch=live)<br>[Microsoft BizTalk Server 2006](/lifecycle/products/microsoft-biztalk-server-2006?branch=live)<br>[Microsoft BizTalk serveris 2006 R2](/lifecycle/products/microsoft-biztalk-server-2006-r2?branch=live)<br>[Microsoft Commerce Server 2007](/lifecycle/products/microsoft-commerce-server-2007?branch=live)<br>[Microsoft Connected Services Framework 3.0](/lifecycle/products/microsoft-connected-services-framework-30?branch=live)<br>[Microsoft Integration Designer 2.5](/lifecycle/products/microsoft-integration-designer-25?branch=live)<br>[Microsoft Visual J # versijas 2.0 izplatāmā pakotne](/lifecycle/products/microsoft-visual-j-version-20-redistributable-package?branch=live)<br>[Visual Studio Team Foundation Server 2005](/lifecycle/products/microsoft-visual-studio-2005-team-foundation-server?branch=live)<br> | otrdiena, 2011. gada 12. jūlijs |
 | [Dynamics AX 4.0](/lifecycle/products/dynamics-ax-40?branch=live)<br>[Microsoft Office Communicator Mobile](/lifecycle/products/microsoft-office-communicator-mobile?branch=live)<br>[System Center Reporting Manager 2006](/lifecycle/products/system-center-reporting-manager-2006?branch=live)<br>[Windows Storage Server 2003](/lifecycle/products/windows-storage-server-2003?branch=live)<br> | 2011. gada 11. oktobris |
