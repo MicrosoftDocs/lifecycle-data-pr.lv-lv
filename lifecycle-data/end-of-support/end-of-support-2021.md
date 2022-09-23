@@ -1,13 +1,13 @@
 ---
 title: Produkti, kuru atbalsts beidzas 2021. gadā
 description: Uzziniet, kuru produktu darbība tiks apturēta, sasniegs atbalsta beigas vai pāries no galvenā atbalsta uz paplašināto atbalstu 2021. gadā.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117486"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520840"
 ---
 # <a name="products-ending-support-in-2021"></a>Produkti, kuru atbalsts beidzas 2021. gadā
 
@@ -37,12 +37,12 @@ Tālāk norādīti produktu laidieni, kurus regulē [mūsdienīgā politika](/li
 | Produkts | Apkopes beigu datums |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versija 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. gada 26. janvāris |
+| [Azure IoT Edge, versija 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | 2021. gada 1. februāris |
 | [Dynamics 365 Business Central lokāli (mūsdienīgā politika), 2019. gada 2. laidienu kopums, versija 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021. gada 13. aprīlis |
 | [Windows 10 Enterprise and Education, versija 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education, versija 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home un Pro, versija 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versija 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, versija 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versija 1909](/lifecycle/products/windows-server?branch=live)<br> | 2021. gada 11. maijs |
-| [Microsoft Endpoint Configuration Manager, versija 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, versija 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. gada 29. maijs |
+| [Microsoft Endpoint Configuration Manager, versija 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. gada 29. maijs |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 2021. gada 21. augusts |
 | [Microsoft Endpoint Configuration Manager, versija 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2021. gada 1. oktobris |
-| [Dynamics 365 Business Central lokāli (mūsdienīgā politika), 2020. gada 1. laidienu kopums, versija 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2021. gada 12. oktobris |
 | [Windows 10 Enterprise and Education, versija 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home un Pro, versija 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versija 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versija 2004](/lifecycle/products/windows-server?branch=live)<br> | 2021. gada 14. decembris |
 
 
