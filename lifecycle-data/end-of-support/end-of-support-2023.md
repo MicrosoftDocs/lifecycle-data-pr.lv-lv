@@ -1,13 +1,13 @@
 ---
 title: Produkti, kuru atbalsts beidzas 2023. gadā
 description: Uzziniet, kuru produktu darbība tiks apturēta, sasniegs atbalsta beigas vai pāries no galvenā atbalsta uz paplašināto atbalstu 2023. gadā.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: lv-LV
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521066"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526874"
 ---
 # <a name="products-ending-support-in-2023"></a>Produkti, kuru atbalsts beidzas 2023. gadā
 
@@ -36,13 +36,12 @@ Tālāk norādīti produktu laidieni, kurus regulē [mūsdienīgā politika](/li
 | Produkts | Apkopes beigu datums |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versija 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. gada 2. februāris |
-| [Microsoft Endpoint Configuration Manager, versija 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. gada 12. februāris |
 | [Dynamics 365 Business Central lokāli (mūsdienīgā politika), 2021. gada 2. laidienu kopums, versija 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 2023. gada 12. aprīlis |
 | [Windows 10 Enterprise and Education, versija 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, versija 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 2023. gada 9. maijs |
 | [Microsoft Endpoint Configuration Manager, versija 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. gada 1. jūnijs |
 | [Windows 10 Home un Pro (versija 21H2)](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 2023. gada 13. jūnijs |
 | [Microsoft Endpoint Configuration Manager, versija 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2023. gada 6. oktobris |
-| [Dynamics 365 Business Central lokāli (modernā politika), 2022. gada 1. laidiena kopums, versija 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 IoT Home un Pro (versija 21H2), sākotnējais laidiens (versija 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 2023. gada 10. oktobris |
+| [Dynamics 365 Business Central lokāli (modernā politika), 2022. gada 1. laidiena kopums, versija 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home un Pro, versija 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 2023. gada 10. oktobris |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkti, kuriem tuvojas atbalsta beigas
